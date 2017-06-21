@@ -1,0 +1,105 @@
+	<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution PIVersion="1.0.0.0" href="https://lbi.lightbox-ed.com/projects/PES-MP_for_a_Week/1478/Shared%20Documents/Infopath%20Forms/PES-MP%20for%20a%20week-Question.xsn" name="urn:schemas-microsoft-com:office:infopath:PES-MP-for-a-week-Question:" language="en-gb" solutionVersion="1.0.0.17" productVersion="12.0.0" ?><?mso-application progid="InfoPath.Document"?><mp_question xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/MP_for_a_week-Question.xsd">
+
+	<question interest="local" party="neutral" questionID="question001" questionIcon="environment_minister">
+		<title>Environment Minister</title>
+		<topic>UK news headline</topic>
+		<notes>&#39;Torrential rain drowns UK&#39; was the recent headline in The National Post&#46; Flooding has damaged property and stranded people in their homes&#46;</notes>
+		
+		<questions score_party="2" score_local="2" score_media="2">
+			<text>How much does the Minister estimate it will cost to clean up and repair people&#39;s homes after the recent flooding&#63;</text>
+			<feedback>Good question&#33; It helped you find out how well prepared the Government is for flooding emergencies&#46;</feedback>
+		</questions>
+		<questions score_party="-2" score_local="-2" score_media="-2">
+			<text>Does the Minister agree that the weather has been quite bad lately&#63;</text>
+			<feedback>MPs don&#39;t ask for the Minister&#39;s opinion on things during Question Time&#46; Try reading your brief next time&#44; then ask for some relevant information&#46;</feedback>
+		</questions>
+		<missed score_party="0" score_local="-2" score_media="-2">
+			<feedback>Question Time is a good chance to check to see what the Government has been doing for your constituents and everyone else in the country&#46; </feedback>
+		</missed>
+	</question>
+	<question interest="local" party="neutral" questionID="question002" questionIcon="business_minister">
+		<title>Business Minister</title>
+		<topic>UK news headline</topic>
+		<notes>A new survey shows that school leavers are worried about finding their first job when they finish their studies&#46; The National Post reported 43&#37; of the young people surveyed said they were &#39;stressed out about it&#39;&#46;</notes>
+		<questions score_party="0" score_local="1" score_media="2">
+			<text>What steps is the Government taking to reduce youth unemployment&#63;</text>
+			<feedback>Good topical question&#46; Students in your constituency will appreciate it&#46;</feedback>
+		</questions>
+		
+		<questions score_party="-2" score_local="0" score_media="0">
+			<text>Does the Minister know who invented the telephone&#63;</text>
+			<feedback>Question Time in the House of Commons isn&#39;t for requesting information that&#39;s easily available elsewhere&#46; &#40;Alexander Graham Bell invented the telephone by the way&#41;&#46;</feedback>
+		</questions>
+		<missed score_party="-1" score_local="0" score_media="0">
+			<feedback>Question Time is a good opportunity to check the work of the Government and raise your own profile to show that you&#39;re working for your constituents&#46;</feedback>
+		</missed>
+	</question>
+<question questionID="question003" interest="global" party="neutral" questionIcon="global_minister">
+									<title>Global Affairs Minister</title>
+									<topic>World news headline</topic>
+									<notes>A huge earthquake in the Middle East has left thousands homeless&#46; The UK Government is helping in the emergency relief effort to house at least 15&#44;000 people&#46;</notes>
+									<questions score_party="2" score_local="1" score_media="2">
+										<text>Will the Minister make a statement about the UK relief effort following the big earthquake in the Middle East&#63;</text>
+										<feedback>Good question&#46; You got the Minister to explain what his department has been doing to help the homeless&#46;</feedback>
+									</questions>
+									<questions score_party="-2" score_local="0" score_media="-2">
+									<text>The ground seems solid enough&#46; Can the Minister explain why earthquakes happen&#63;</text>
+									<feedback>That&#39;s a question for science class&#46; MPs must ask ministers questions that are relevant to their duties&#46;</feedback>
+								</questions><questions score_party="-1" score_local="0" score_media="-1">
+									<text>What plans does the Government have for an early warning system for earthquakes in the UK&#63;</text>
+									<feedback>The Minister gave a short answer and the press ignored your question&#46; Most people were interested in the big quake in the Middle East&#46;</feedback>
+								</questions><missed score_party="-2" score_local="0" score_media="-1">
+										<feedback>Where were you&#63; You missed a check up on how well the Global Affairs Minister has been doing his job&#46;</feedback>
+									</missed>
+								</question><question questionID="question004" interest="none" party="neutral" questionIcon="prime_minister">
+									<title>Prime Minister</title>
+									<topic>Ask the PM anything</topic>
+									<notes>MPs fill the House of Commons Chamber to be part of Prime Minister&#39;s Questions&#46; This is when MPs have the chance to ask the Prime Minister about anything the Government is doing&#46;</notes>
+									<questions score_party="0" score_local="1" score_media="1">
+										<text>What plans does the Government have to help small businesses&#63;</text>
+										<feedback>That was a good question for your constituency&#46; It has hundreds of small businesses&#46;</feedback>
+									</questions>
+									<questions score_party="0" score_local="2" score_media="1">
+									<text>What is the Government doing to ensure the UK tourist industry has continued success&#63;</text>
+									<feedback>Your constituency has a big theme park &#45; its owner and employees were glad you&#39;re supporting their industry&#46;</feedback>
+								</questions><questions score_party="-3" score_local="-3" score_media="-3">
+									<text>Does the Prime Minister know what the capital of Pakistan is&#63;</text>
+									<feedback>Your questioning style was treated harshly by the papers&#58; &#39;Clueless MP embarrasses their party&#39;&#46;</feedback>
+								</questions><missed score_party="-2" score_local="-2" score_media="-2">
+										<feedback>PMQs is a great chance to check the work of the Government &#40;and raise your profile&#41;&#46;</feedback>
+									</missed>
+								</question><question questionID="question005" interest="local" party="government" questionIcon="culture_minister">
+									<title>Culture Minister</title>
+									<topic>In your constituency</topic>
+									<notes>A small handful of young artists and musicians have started successful careers after getting financial help from their friends and families&#46; Your constituency has a large artistic community&#46;</notes>
+									<questions score_party="1" score_local="1" score_media="0">
+										<text>What steps are the Government taking to encourage private citizens to donate to the arts&#63;</text>
+										<feedback>Your question raised the profile of an issue important to your constituents</feedback>
+									</questions>
+									<questions score_party="-1" score_local="-1" score_media="-1">
+									<text>Does the Minister agree with me that the Opposition party&#39;s view on arts funding is just plain crazy&#63;</text>
+									<feedback>The Speaker cut you off after that question&#46; Question Time is meant for checking the work of the Government&#46; You can&#39;t ask ministers for their opinion about the Opposition party&#46;</feedback>
+								</questions><questions score_party="-2" score_local="0" score_media="-2">
+									<text>What do batteries run on&#63;</text>
+									<feedback>&#39;MP flouts question rules&#39; was The National Post headline&#46; That question wasn&#39;t relevant to the Minister&#39;s duties&#46;</feedback>
+								</questions><missed score_party="-2" score_local="-2" score_media="0">
+										<feedback>You missed Question Time with the Culture Minister&#46; Artists in your constituency might continue to struggle&#46;</feedback>
+									</missed>
+								</question><question questionID="question006" interest="local" party="opposition" questionIcon="culture_minister">
+									<title>Culture Minister</title>
+									<topic>In your constituency</topic>
+									<notes>A small handful of young artists and musicians have started successful careers after getting financial help from their friends and families&#46; Your constituency has a large artistic community&#46;</notes>
+									<questions score_party="1" score_local="1" score_media="1">
+										<text>What steps are the Government taking to encourage private citizens to donate to the arts&#63;</text>
+										<feedback>Your question raised the profile of an issue important to your constituents&#46;</feedback>
+									</questions>
+									<questions score_party="-1" score_local="-1" score_media="-1">
+									<text>Does the Minister agree with me that his Government&#39;s policy on arts funding is just plain crazy&#63;</text>
+									<feedback>The Speaker cut you off after that question&#46; You can&#39;t ask Ministers for their opinion &#45; not that the Minister would have agreed&#46;</feedback>
+								</questions><questions score_party="-2" score_local="0" score_media="-2">
+									<text>What do batteries run on&#63;</text>
+									<feedback>&#39;MP flouts question rules&#39; was The National Post headline&#46; That question wasn&#39;t relevant to the Minister&#39;s duties&#46;</feedback>
+								</questions><missed score_party="-2" score_local="-2" score_media="0">
+										<feedback>You missed Question Time with the Culture Minister&#46; Artists in your constituency might continue to struggle&#46;</feedback>
+									</missed>
+								</question></mp_question>

@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mp_speech>
+	<speech interest="finance" speechID="speech003" party="government">
+		<title>Less tax&#44; more fun</title>
+		<notes>Improve your party reputation &#45; give a convincing speech favouring the Government&#39;s plans to cut a 2&#37; leisure tax on tickets to music concerts and sporting events&#46;</notes>
+		<clip clipType="start" points="1" jpgFilename="speech-01.jpg" mp3Filename="leisure_speech100-01.mp3">
+			<text>[open] Mr Speaker&#46; Business people and citizens across the country deserve a break&#46; Cutting this tax will boost our leisure industry and return money to the taxpayers&#39; pocket&#46;</text>
+		</clip>
+		<clip clipType="start" points="-1" jpgFilename="speech-02.jpg" mp3Filename="leisure_speech100-02.mp3">
+			<text>[open] Mr Speaker&#46; The B&#46;L&#46;T&#46;C Ombudsman tells me changing tax code double&#45;four three&#45;two&#44; section A&#44; would be desirable&#46; So let&#39;s do it&#33;</text>
+		</clip>
+		<clip clipType="main" points="1" jpgFilename="speech-01.jpg" mp3Filename="leisure_speech100-03.mp3">
+			<text>[middle] The leisure industry says it will lower ticket prices&#44; giving more people the chance to see the UK&#39;s great attractions&#44; like the Belfast Stadium&#44; the Dundee Theatre and the London Bird Emporium&#46;</text>
+		</clip>
+		<clip mp3Filename="leisure_speech100-04.mp3" jpgFilename="speech-01.jpg" clipType="main" points="1">
+			<text>[middle] It&#39;s simple&#58; fun will cost less&#44; films will cost less&#46; Rollercoasters will cost less&#46; Have you ever ridden the Earl Grey Ghost at Tea Towers&#63; It&#39;s terrifying&#46;</text>
+		</clip>
+		<clip clipType="main" points="0" jpgFilename="speech-01.jpg" mp3Filename="leisure_speech100-05.mp3">
+			<text>[middle] Cutting the tax will create jobs&#46; For example&#44; my fellow MPs will have heard of the popular Tea Towers theme park in my constituency&#46; Its chief executive&#44; Della Shoule&#44; estimates by cutting this tax she could employ an extra 100 people each summer&#46;</text>
+		</clip>
+		<clip clipType="main" points="-1" jpgFilename="speech-01.jpg" mp3Filename="leisure_speech100-07.mp3">
+			<text>[middle] There is a flip side&#46; This tax cut will&#44; if we&#39;re honest&#44; mean fewer government funded arts projects for painters&#44; musicians and filmmakers&#46; Surely though&#44; the artists won&#39;t starve&#63;</text>
+		</clip>
+		<clip mp3Filename="leisure_speech100-09.mp3" jpgFilename="speech-01.jpg" clipType="end" points="1">
+			<text>[close] There will be many benefits for citizens&#44; the leisure industry and the country&#39;s economy&#46; Less tax will mean more fun&#46; It will deliver a happier society&#46;</text>
+		</clip>
+		<clip mp3Filename="leisure_speech100-10.mp3" jpgFilename="speech-01.jpg" clipType="end" points="0">
+			<text>[close] Cutting this leisure tax seems to have a lot of pros and cons&#46; It&#39;s true&#44; there are down sides to cutting this tax as well&#46; Thank you&#46;</text>
+		</clip>
+		<result pointsReached="0" score_party="-2" score_local="-1" score_media="-2">
+			<feedback>Are you feeling OK&#63; Other MPs were quite confused by your speech&#46; Your points were all mixed up&#46;</feedback>
+		</result>
+		<result pointsReached="1" score_party="-1" score_local="-1" score_media="-1">
+			<feedback>Not the greatest speech ever heard in the House of Commons&#46; Check all your points support the argument you&#39;re trying to make&#46;</feedback>
+		</result>
+		<result pointsReached="2" score_party="0" score_local="0" score_media="0">
+			<feedback>Not the greatest speech ever heard in the House of Commons&#46; Did you make good&#44; persuasive points about the benefits of cutting the leisure tax&#63;</feedback>
+		</result>
+		<result pointsReached="3" score_party="1" score_local="1" score_media="1">
+			<feedback>Solid performance&#46; You made quite a good case for the Government&#39;s plans to cut the leisure tax&#46;</feedback>
+		</result>
+		<result pointsReached="4" score_party="2" score_local="1" score_media="2">
+			<feedback>You supported the party brilliantly and you&#39;ve got quite a bit of charisma too&#33;</feedback>
+		</result>
+	</speech>
+	<speech speechID="speech001" interest="local" party="government">
+		<title>Banning homework</title>
+		<notes>Score points with your party &#45; give a convincing speech in support of the Government&#39;s new plan to extend the school day and ban homework &#40;except for misbehaving students&#41;&#46;</notes>
+		<clip mp3Filename="hwork_speech102-01.mp3" jpgFilename="speech-01.jpg" clipType="start" points="1">
+			<text>[open] Mr Speaker&#46; Every year&#44; students across the UK improve their performance in schools&#46; This Bill will help them improve even more&#46;</text>
+		</clip>
+		<clip mp3Filename="hwork_speech102-02.mp3" jpgFilename="speech-01.jpg" clipType="start" points="-1">
+			<text>[open] Mr Speaker&#46; I&#39;ve got to say&#44; I&#39;ve had a really long day&#46; I hope you understand if I make this short&#46;</text>
+		</clip>
+		<clip mp3Filename="hwork_speech102-04.mp3" jpgFilename="speech-02.jpg" clipType="main" points="1">
+			<text>[middle] By extending the school day&#44; we&#39;d give students more time to study&#46; And we&#39;d allow teachers more time to do what they do best &#45; teach&#33;</text>
+		</clip>
+		<clip mp3Filename="hwork_speech102-06.mp3" jpgFilename="speech-02.jpg" clipType="main" points="1">
+			<text>[middle] Many parents tell me this Bill will give them more time with their children&#46; It will give students more time for out&#45;of&#45;school activities&#46; In short&#44; it will give young people a more balanced life&#46;</text>
+		</clip>
+		<clip mp3Filename="hwork_speech102-07.mp3" jpgFilename="speech-01.jpg" clipType="main" points="1">
+			<text>[middle] Many say a homework ban will put added pressure on teachers&#46; This is exactly why the Bill also extends the school day&#44; to give them more time&#46;</text>
+		</clip>
+		<clip mp3Filename="hwork_speech102-08.mp3" jpgFilename="speech-02.jpg" clipType="main" points="1">
+			<text>[middle] There is growing evidence that homework has limited benefits for students&#46; Researchers at Portcullis University concluded more than one hour of homework a night is more trouble than it&#39;s worth&#46;</text>
+		</clip>
+		<clip mp3Filename="hwork_speech102-09.mp3" jpgFilename="speech-02.jpg" clipType="end" points="1">
+			<text>[close] We have a wonderful opportunity to improve education for teachers&#44; for parents and for students &#45; for everyone involved&#46; Let&#39;s embrace it&#46;</text>
+		</clip>
+		<clip mp3Filename="hwork_speech102-10.mp3" jpgFilename="speech-02.jpg" clipType="end" points="-1">
+			<text>[close] This Bill makes some sense&#44; but I also see the Opposition has a point&#46; Maybe we should go back to the drawing board&#63;</text>
+		</clip>
+		<clip mp3Filename="hwork_speech102-14.mp3" jpgFilename="speech-02.jpg" clipType="main" points="-1">
+			<text>[middle] The Homework Bill will stress out our teachers&#44; cause more students to fall behind&#44; and create chaos in schools across the country&#46;</text>
+		</clip>
+		<result pointsReached="0" score_party="-3" score_local="0" score_media="0">
+			<feedback>Are you feeling OK&#63; Other MPs were quite confused by your speech&#46; Your points were all mixed up&#46;</feedback>
+		</result>
+		<result pointsReached="1" score_party="-2" score_local="0" score_media="0">
+			<feedback>Not the greatest speech ever heard in the House of Commons&#46; Check that all your points support the argument you&#39;re trying to make&#46;</feedback>
+		</result>
+		<result pointsReached="2" score_party="1" score_local="0" score_media="0">
+			<feedback>Not the greatest speech ever heard in the House of Commons&#46; Did you make good&#44; persuasive points supporting the ban on homework&#63;</feedback>
+		</result>
+		<result pointsReached="3" score_party="2" score_local="1" score_media="0">
+			<feedback>Solid performance&#46; You made quite a good case supporting the Government&#39;s Homework Bill&#46;</feedback>
+		</result>
+		<result pointsReached="4" score_party="3" score_local="1" score_media="1">
+			<feedback>Great speech&#46; You supported the Government&#39;s Homework Bill brilliantly&#46;</feedback>
+		</result>
+	</speech>
+	<speech speechID="speech002" interest="global" party="government">
+		<title>Climate crisis</title>
+		<notes>Increase your party points with a convincing speech&#46; The Opposition party thinks the Government is moving too slowly on climate change&#46; Defend the Government&#46;</notes>
+		<clip mp3Filename="climate_speech101-01.mp3" jpgFilename="speech-01.jpg" clipType="start" points="1">
+			<text>[open] Mr Speaker&#46; Climate change is a serious problem&#44; we can all agree&#46; But it is not the world&#39;s only problem&#46; And it is not the only problem the Government should be trying to sort out&#46;</text>
+		</clip>
+		<clip mp3Filename="climate_speech101-02.mp3" jpgFilename="speech-02.jpg" clipType="start" points="-2">
+			<text>[open] When I decided to speak in this debate I thought to myself&#44; &#39;maybe I should prepare a little&#63;&#39; Then I thought&#44; &#39;I&#39;m pretty busy&#44; I&#39;ll just wing it&#46;&#39; So here goes&#46;&#46;&#46;</text>
+		</clip>
+		<clip mp3Filename="climate_speech101-03.mp3" jpgFilename="speech-01.jpg" clipType="main" points="1">
+			<text>[middle] Global warming is an important problem&#44; but is it the most important&#63; What about war&#63; What about poverty&#63;</text>
+		</clip>
+		<clip mp3Filename="climate_speech101-04.mp3" jpgFilename="speech-02.jpg" clipType="main" points="1">
+			<text>[middle] People say we have a duty to preserve the planet for future generations&#46; Of course&#44; but there are also problems to solve and people to help right now &#45; today&#33;</text>
+		</clip>
+		<clip mp3Filename="climate_speech101-07.mp3" jpgFilename="speech-01.jpg" clipType="main" points="1">
+			<text>[middle] We must be confident that our plan of action will work&#46; Every million pounds we spend on tackling climate change is a million pounds not spent on crime or education&#46;</text>
+		</clip>
+		<clip mp3Filename="climate_speech101-12.mp3" jpgFilename="speech-02.jpg" clipType="main" points="-1">
+			<text>[middle] Aren&#39;t we overreacting&#63; C&#39;mon we&#39;re humans&#46; We can adapt&#44; people&#33;</text>
+		</clip>
+		<clip mp3Filename="climate_speech101-14.mp3" jpgFilename="speech-02.jpg" clipType="end" points="1">
+			<text>[close] Global warming is just one of several important problems facing us today&#46; Let us remember that as we move forward&#46;</text>
+		</clip>
+		<clip mp3Filename="climate_speech101-15.mp3" jpgFilename="speech-01.jpg" clipType="end" points="-1">
+			<text>[close] Time&#39;s up&#63; OK&#44; I&#39;ll sit down now&#46;</text>
+		</clip>
+		<result pointsReached="0" score_party="-3" score_local="0" score_media="0">
+			<feedback>Are you feeling OK&#63; Other MPs were quite confused by your speech&#46; Your points were all mixed up&#46;</feedback>
+		</result>
+		<result pointsReached="1" score_party="-2" score_local="0" score_media="0">
+			<feedback>Not the greatest speech ever heard in the House of Commons&#46; Check that all your points support the argument you&#39;re trying to make&#46;</feedback>
+		</result>
+		<result pointsReached="2" score_party="1" score_local="0" score_media="0">
+			<feedback>Not the greatest speech ever heard in the House of Commons&#46; Did all your points defend the Government&#39;s view&#63;</feedback>
+		</result>
+		<result pointsReached="3" score_party="2" score_local="1" score_media="0">
+			<feedback>Solid performance&#46; You made quite a good case in defence of the Government&#39;s approach to climate change&#46;</feedback>
+		</result>
+		<result pointsReached="4" score_party="3" score_local="1" score_media="1">
+			<feedback>Great speech&#46; You supported your party brilliantly&#46; Very convincing&#46;</feedback>
+		</result>
+	</speech>
+	<speech speechID="speech004" interest="local" party="opposition">
+		<title>A homework ban&#63;</title>
+		<notes>Give a convincing speech and improve your party reputation&#46; Oppose the Government&#39;s plans to extend the school day and ban homework &#40;except for misbehaving students&#41;&#46;</notes>
+		<clip mp3Filename="hwork_speech102-11.mp3" jpgFilename="speech-01.jpg" clipType="start" points="1">
+			<text>[open] Mr Speaker&#46; Every year&#44; students across the UK improve their performance in schools&#46; This Bill will halt that progress&#46;</text>
+		</clip>
+		<clip mp3Filename="hwork_speech102-12.mp3" jpgFilename="speech-01.jpg" clipType="start" points="0">
+			<text>[open] Thank you&#44; I&#39;d like to say a few words if it&#39;s ok with everyone&#44; especially you Mr Speaker&#44; about the Government&#39;s plans to ban homework in schools&#46;</text>
+		</clip>
+		<clip mp3Filename="hwork_speech102-14.mp3" jpgFilename="speech-02.jpg" clipType="main" points="1">
+			<text>[main] The Homework Bill will stress out our teachers&#44; cause more students to fall behind&#44; and create chaos in schools across the country&#46;</text>
+		</clip>
+		<clip mp3Filename="hwork_speech102-16.mp3" jpgFilename="speech-02.jpg" clipType="main" points="1">
+			<text>[main] The Government would have us believe this Bill is something other than a dangerous experiment&#46;</text>
+		</clip>
+		<clip mp3Filename="hwork_speech102-18.mp3" jpgFilename="speech-02.jpg" clipType="main" points="1">
+			<text>[main] Teachers in my constituency tell me homework is a useful tool&#46; Dictating how it should be used is just Government meddling&#46; Thousands of students will fall behind&#46;</text>
+		</clip>
+		<clip mp3Filename="hwork_speech102-19.mp3" jpgFilename="speech-01.jpg" clipType="main" points="0">
+			<text>[main] Yes&#44; this Bill will give children more time&#46; More time talking on their mobiles&#46; More time playing Zombie Death Blow on their y&#45;boxes and video thingys&#46;</text>
+		</clip>
+		<clip mp3Filename="hwork_speech102-21.mp3" jpgFilename="speech-02.jpg" clipType="end" points="1">
+			<text>[close] It&#39;s time to look at this Bill and ask ourselves&#58; will this really improve education in the UK&#63; I say we need a new idea&#46; I say it is time to look again&#46;</text>
+		</clip>
+		<clip mp3Filename="hwork_speech102-22.mp3" jpgFilename="speech-01.jpg" clipType="end" points="-1">
+			<text>[close] So vote how you want on the Homework Bill&#46; I&#39;ll just say &#45; I won&#39;t be voting for it&#46;</text>
+		</clip>
+		<result pointsReached="0" score_party="-3" score_local="0" score_media="0">
+			<feedback>Are you feeling OK&#63; Other MPs were quite confused by your speech&#46; Your points were all mixed up&#46;</feedback>
+		</result>
+		<result pointsReached="1" score_party="-2" score_local="0" score_media="0">
+			<feedback>Not the greatest speech ever heard in the House of Commons&#46; Check that all your points support the argument you&#39;re trying to make&#46;</feedback>
+		</result>
+		<result pointsReached="2" score_party="1" score_local="0" score_media="0">
+			<feedback>Not the greatest speech ever heard in the House of Commons&#46; Did you make good&#44; persuasive points about why the Government should drop the Homework Bill&#63;</feedback>
+		</result>
+		<result pointsReached="3" score_party="2" score_local="1" score_media="0">
+			<feedback>Solid performance&#46; You made quite a good case for pushing the Government to drop the Homework Bill&#46;</feedback>
+		</result>
+		<result pointsReached="4" score_party="3" score_local="1" score_media="1">
+			<feedback>You supported your party brilliantly and you&#39;ve got quite a bit of charisma&#33;</feedback>
+		</result>
+	</speech>
+	<speech speechID="speech005" interest="global" party="opposition">
+		<title>Mankind&#39;s greatest crisis</title>
+		<notes>Your party believes the Government should be taking more immediate action to tackle global warming&#46; Support your party and gain party points&#46;</notes>
+		<clip mp3Filename="climate_speech101-16.mp3" jpgFilename="speech-01.jpg" clipType="start" points="1">
+			<text>[open] Mr Speaker&#46; Global warming is now mankind&#39;s greatest crisis&#46; This Government should be doing far more&#46;</text>
+		</clip>
+		<clip mp3Filename="climate_speech101-17.mp3" jpgFilename="speech-02.jpg" clipType="start" points="-1">
+			<text>[open] Mr Speaker&#46; I would like to say the Government is not doing enough about funding the arts&#46; Oh&#44; sorry&#44; wrong debate &#45; I mean&#44; global warming&#46;</text>
+		</clip>
+		<clip mp3Filename="climate_speech101-18.mp3" jpgFilename="speech-01.jpg" clipType="main" points="1">
+			<text>[middle] Many respected scientists agree that we&#44; humans&#44; are causing the planet&#39;s temperature to rise&#46; This will lead to widespread human&#44; ecological and economic damage&#46; We must act now&#33;</text>
+		</clip>
+		<clip mp3Filename="climate_speech101-21.mp3" jpgFilename="speech-02.jpg" clipType="main" points="1">
+			<text>[middle] The effect of climate change is grim&#46; The environment charity Global Green Friends says the gradual rise in temperature has forced millions of people from their homes&#46;</text>
+		</clip>
+		<clip mp3Filename="climate_speech101-22.mp3" jpgFilename="speech-01.jpg" clipType="main" points="1">
+			<text>[middle] And so this Government continues to waste time while farmland erodes&#44; deserts creep and sea levels rise&#46;</text>
+		</clip>
+		<clip mp3Filename="climate_speech101-24.mp3" jpgFilename="speech-01.jpg" clipType="main" points="-1">
+			<text>[middle] All this serious talk of climate change&#46; Bring on the warm weather&#44; that&#39;s what I say&#33;</text>
+		</clip>
+		<clip mp3Filename="climate_speech101-25.mp3" jpgFilename="speech-02.jpg" clipType="end" points="1">
+			<text>[close] Climate change presents us with a huge challenge&#46; But we still have a chance to do something&#46; We must act boldly and have the courage to leap forward&#46; You can&#39;t cross a raging river in two small jumps&#46;</text>
+		</clip>
+		<clip mp3Filename="climate_speech101-13.mp3" jpgFilename="speech-01.jpg" clipType="end" points="-1">
+			<text>[close] For these reasons I support the Government&#39;s considered approach to dealing with climate change&#46;</text>
+		</clip>
+		<result pointsReached="0" score_party="-3" score_local="0" score_media="0">
+			<feedback>Are you feeling OK&#63; Other MPs were quite confused by your speech&#46; Your points were all mixed up&#46;</feedback>
+		</result>
+		<result pointsReached="1" score_party="-2" score_local="0" score_media="0">
+			<feedback>Not the greatest speech ever heard in the House of Commons&#46; Check that all your points support the argument you&#39;re trying to make&#46;</feedback>
+		</result>
+		<result pointsReached="2" score_party="1" score_local="0" score_media="0">
+			<feedback>Not the greatest speech ever heard in the House of Commons&#46; Did all your points push the Government to act now on climate change&#63;</feedback>
+		</result>
+		<result pointsReached="3" score_party="2" score_local="1" score_media="0">
+			<feedback>Solid performance&#46; You made quite a good case for pushing the Government to do more about climate change today&#46;</feedback>
+		</result>
+		<result pointsReached="4" score_party="3" score_local="1" score_media="1">
+			<feedback>Brilliant speech&#46; All your points made a case for immediate action on climate change&#46;</feedback>
+		</result>
+	</speech>
+	<speech speechID="speech006" interest="finance" party="opposition">
+		<title>Suffering for art</title>
+		<notes>Want to score points with the party&#63; Give a convincing speech opposing a tax cut proposed by the Government&#46; Cutting this leisure tax would mean less money for the artists and musicians&#46;</notes>
+		<clip mp3Filename="leisure_speech100-11.mp3" jpgFilename="speech-01.jpg" clipType="start" points="1">
+			<text>[open] Mr Speaker&#46; The UK is home to many of the world&#39;s most creative artists&#44; musicians and filmmakers&#46; Many rely on government funds and projects to develop and realise their talents&#46; This tax cut would badly injure our arts community&#46;</text>
+		</clip>
+		<clip mp3Filename="leisure_speech100-12.mp3" jpgFilename="speech-01.jpg" clipType="start" points="-1">
+			<text>[open] Mr Speaker&#46; Now&#44; I&#39;m no expert on this subject&#46; I&#39;m not a tax lawyer and I rarely take in a football match&#44; but I really do think this is a bad idea&#46;</text>
+		</clip>
+		<clip mp3Filename="leisure_speech100-08.mp3" jpgFilename="speech-01.jpg" clipType="main" points="0">
+			<text>[middle] We must care for each other more and tax each other less&#46;</text>
+		</clip>
+		<clip mp3Filename="leisure_speech100-13.mp3" jpgFilename="speech-01.jpg" clipType="main" points="1">
+			<text>[middle] The Government says this tax cut will mean lower ticket prices at cinemas and stadiums&#46; Really&#63; What&#39;s to stop business owners from pocketing the extra money&#63;</text>
+		</clip>
+		<clip mp3Filename="leisure_speech100-15.mp3" jpgFilename="speech-01.jpg" clipType="main" points="1">
+			<text>[middle] The industry group Artists for Artists estimates cuts to funding will mean 20&#37; of artists will be unable to continue their creative work&#46;</text>
+		</clip>
+		<clip mp3Filename="leisure_speech100-18.mp3" jpgFilename="speech-01.jpg" clipType="main" points="1">
+			<text>[middle] What will happen if we rely on profit&#45;making organisations to fund the arts&#63; I&#39;ll tell you&#46; They will fund everything we&#39;ve seen before&#46; They will not take risks&#59; our culture will suffer&#46;</text>
+		</clip>
+		<clip mp3Filename="leisure_speech100-19.mp3" jpgFilename="speech-01.jpg" clipType="end" points="1">
+			<text>[close] This tax cut will endanger the future of Britain&#39;s artists&#46; And that is a great shame&#46;</text>
+		</clip>
+		<clip mp3Filename="leisure_speech100-20.mp3" jpgFilename="speech-01.jpg" clipType="main" points="0">
+			<text>[middle] As someone once said&#44; there are two guarantees in life&#58; death and taxes&#46; Need I say more&#63;</text>
+		</clip>
+		<result pointsReached="0" score_party="-3" score_local="0" score_media="0">
+			<feedback>Are you feeling OK&#63; Other MPs were quite confused by your speech&#46; Your points were all mixed up&#46;</feedback>
+		</result>
+		<result pointsReached="1" score_party="-2" score_local="0" score_media="0">
+			<feedback>Not the greatest speech ever heard in the House of Commons&#46; Check that all your points support the argument you&#39;re trying to make&#46;</feedback>
+		</result>
+		<result pointsReached="2" score_party="1" score_local="0" score_media="0">
+			<feedback>Not the greatest speech ever heard in the House of Commons&#46; Did you make good&#44; persuasive points about why the Government should not cut the leisure tax&#63;</feedback>
+		</result>
+		<result pointsReached="3" score_party="2" score_local="1" score_media="0">
+			<feedback>Solid performance&#46; You made quite a good case for opposing the tax cut&#46;</feedback>
+		</result>
+		<result pointsReached="4" score_party="3" score_local="1" score_media="1">
+			<feedback>You opposed the tax cut brilliantly and you&#39;ve got quite a bit of charisma&#33;</feedback>
+		</result>
+	</speech>
+</mp_speech>

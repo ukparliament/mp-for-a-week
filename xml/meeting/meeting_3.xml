@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution PIVersion="1.0.0.0" href="https://lbi.lightbox-ed.com/projects/PES-MP_for_a_Week/1478/Shared%20Documents/Infopath%20Forms/PES-MP%20for%20a%20week-Meeting.xsn" name="urn:schemas-microsoft-com:office:infopath:PES-MP-for-a-week-Meeting:" language="en-gb" solutionVersion="1.0.0.18" productVersion="12.0.0" ?><?mso-application progid="InfoPath.Document"?><mp_meeting xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/MP_for_a_week-meeting.xsd">
+<meeting meetingID="meeting000" interest="local" party="neutral" meetingIcon="constituency" meetingDuration="2" meetingLocation="constituency">
+		<title>Campaigner seeks meeting</title>
+		<subtitle>Constituency</subtitle>
+		<desc>A constituent has started a petition about rubbish collection&#46; Mrs Billingsley has been having all kinds of problems getting it regularly collected&#46; She&#39;s going to give her petition to the local council&#44; but wants to know if you&#39;ll sign it and help out&#46;</desc>
+		<attendee>Gertrude Billingsley</attendee>
+		<attend score_party="0" score_local="2" score_media="0">
+			<feedback>Mrs Billingsley&#39;s petition had over 100 names on it&#46; She and her neighbours were very happy to have your support&#46; They&#39;re confident the local council will listen&#46;</feedback>
+		</attend>
+		<ignore score_party="0" score_local="-2" score_media="0">
+			<feedback>Mrs Billingsley thought your influence with the local council might help her and her neighbours&#46; Guess she&#39;ll never find out&#46;</feedback>
+		</ignore>
+	</meeting><meeting meetingID="meeting001" interest="local" party="neutral" meetingIcon="parliament" meetingDuration="2" meetingLocation="parliament">
+		<title>Regional or national radio&#63;</title>
+		<subtitle>Parliament</subtitle>
+		<desc>You&#39;ve been invited on a high profile national radio call&#45;in programme&#46; However&#44; it falls at the exact time as your regular monthly &#39;radio surgery&#39; on your local constituency radio station&#46; The national programme wants to quiz you on the Government&#39;s plan to lower the voting age&#46; Your monthly programme answers constituents&#39; local concerns and has taken a long time to build up your audience&#46; Will you attend the national call&#45;in&#63;</desc>
+		<attendee>National Radio</attendee>
+		<attend score_party="1" score_local="-3" score_media="2">
+			<feedback>You performed well on the national call&#45;in show&#44; although your regular constituency listeners thought you might be chasing the big media a bit too much&#46;</feedback>
+		</attend>
+		<ignore score_party="0" score_local="1" score_media="1">
+			<feedback>You kept your monthly commitment&#46; Local voters have come to expect it&#46;</feedback>
+		</ignore>
+	</meeting><meeting meetingID="meeting002" interest="local" party="neutral" meetingIcon="constituency" meetingDuration="2" meetingLocation="constituency">
+		<title>Meeting your constituents</title>
+		<subtitle>Constituency</subtitle>
+		<desc>Your constituency office has flooded after heavy rain this week&#46; You&#39;re very busy&#44; so you quickly need to find a new place to meet and listen to your constituents&#39; concerns&#46; The Rawlinson St Library has got some space&#44; but it is only available for half the time you&#39;d usually spend on your surgery&#46; Would you like to hold the surgery at the library&#63; You&#39;re bound to disappoint some people&#46; Decline if you would rather hold out and see if you can find another location&#63;</desc>
+		<attendee>Constituency surgery</attendee>
+		<attend score_party="-2" score_local="-2" score_media="0">
+			<feedback>What a disaster&#33; Not only did you have to cut the surgery short&#44; but the library was partially flooded too&#46; You only managed to see a few constituents&#46;</feedback>
+		</attend>
+		<ignore score_party="0" score_local="-2" score_media="0">
+			<feedback>No news on a new location&#46; What a bother this heavy rain has been&#46; Missing your surgery for this week has been a real hit to your voter support&#44; so try to make it up somehow&#46;</feedback>
+		</ignore>
+	</meeting><meeting meetingID="meeting003" interest="none" party="neutral" meetingIcon="parliament" meetingDuration="2" meetingLocation="parliament">
+		<title>Debate on prison sentencing</title>
+		<subtitle>Parliament</subtitle>
+		<desc>A reporter for a national newspaper is looking to speak with MPs about prison sentencing&#46; It&#39;s a hot topic this week following a high profile robbery committed by a thief who&#39;d been released early from his prison sentence&#46; You can decline if you&#39;d rather catch up on some constituency casework&#46;</desc>
+		<attendee>Maggie Brown&#44; The National Post</attendee>
+		<attend score_party="0" score_local="0" score_media="0">
+			<feedback>Breaking news overshadowed your interview&#46; A volcano erupted in the Philippines and thousands were trapped by the lava flows&#46; Prison sentences are yesterday&#39;s news&#46;</feedback>
+		</attend>
+		<ignore score_party="0" score_local="1" score_media="0">
+			<feedback>Tax problems&#44; school class sizes and hospital waiting times &#45; all stuff on your constituency list for today&#46;</feedback>
+		</ignore>
+	</meeting><meeting meetingID="meeting004" interest="local" party="neutral" meetingIcon="parliament" meetingDuration="2" meetingLocation="parliament">
+		<title>Mystery meeting</title>
+		<subtitle>Parliament</subtitle>
+		<desc>You&#39;ve received a mysterious invitation&#46; The message read only &#39;meet me behind Big Ben&#46; Your career might depend on it&#46;&#39; If you choose to go&#44; you&#39;ll have to find time later to prepare for a meeting with the Prime Minister&#46; That is&#44; if you still have a career&#46; Will you attend&#63;</desc>
+		<attendee>&#63;&#63;&#63;</attendee>
+		<attend score_party="-3" score_local="0" score_media="0">
+			<feedback>The message was from Roy Barlow MP &#45; and he only wanted to meet for tea&#46; You didn&#39;t find it funny and you&#39;re now unprepared to meet the Prime Minister&#46;</feedback>
+		</attend>
+		<ignore score_party="2" score_local="0" score_media="0">
+			<feedback>You finished preparing to meet the Prime Minister&#46; You wondered about that weird message though&#46;&#46;&#46;</feedback>
+		</ignore>
+	</meeting><meeting meetingID="meeting005" interest="local" party="neutral" meetingIcon="parliament" meetingDuration="4" meetingLocation="parliament">
+		<title>Promote UK tourism&#63;</title>
+		<subtitle>Parliament</subtitle>
+		<desc>A marketing company has invited you to a public unveiling and press party&#46; Yay UK&#33; promotes and encourages travel to the United Kingdom&#46; They are running a competition asking top designers to redesign the union flag for the 21st century&#46; As an MP with an interest in UK tourism&#44; they&#39;re keen for you to attend&#46; Do you think the UK&#39;s image needs updating&#63; Will you attend&#63;</desc>
+		<attendee>Libby White&#44; Yay UK&#33;</attendee>
+		<attend score_party="-2" score_local="-2" score_media="-2">
+			<feedback>The director of Yay UK&#33; unveiled her company&#39;s winning choice&#58; a purple paisley background centred around a plate of fish and chips</feedback>
+		</attend>
+		<ignore score_party="2" score_local="2" score_media="0">
+			<feedback>Bonus&#33; You ran into the Crime and Justice Minister&#46; He&#39;s agreed to visit your constituency&#46;</feedback>
+		</ignore>
+	</meeting><meeting meetingID="meeting006" interest="local" party="government" meetingIcon="constituency" meetingDuration="4" meetingLocation="constituency">
+		<title>Doorstepping on Cyprus Avenue</title>
+		<subtitle>Constituency</subtitle>
+		<desc>You feel like you need to take action&#46; You&#39;re a bit worried that the governing party&#39;s slumping in the polls&#46; The party&#39;s popularity has fallen due to a couple of recent decisions by the Government&#46; And as a member of the governing party you lose popularity when the party does&#46; You feel like going door to door meeting constituents might help reassure people&#46; Then again&#44; maybe you should let it be and see if this blows over&#46; So&#44; do you want to go out and meet constituents on their doorsteps&#63; </desc>
+		<attendee>Cyprus Avenue residents</attendee>
+		<attend score_party="-1" score_local="-1" score_media="0">
+			<feedback>That was rough&#46; You might have done as well as you can in a bad situation&#46;</feedback>
+		</attend>
+		<ignore score_party="-1" score_local="-2" score_media="-1">
+			<feedback>Sometimes no action is the right action &#45; but the party&#39;s still losing popularity&#44; and so are you&#33;</feedback>
+		</ignore>
+	</meeting><meeting meetingID="meeting007" interest="local" party="opposition" meetingIcon="constituency" meetingDuration="4" meetingLocation="constituency">
+		<title>Doorstepping on Cyprus Avenue</title>
+		<subtitle>Constituency</subtitle>
+		<desc>You feel like it might be a good time to help your party&#46; The governing party&#39;s slumping in the polls due to a couple of recent decisions by Government Ministers&#46; If you highlight your party&#39;s strengths&#44; you might convince a few more governing party supporters to back you&#46; Then again&#44; you don&#39;t want to seem like you&#39;re &#39;playing politics&#39;&#46; So&#44; do you want to go out and meet constituents on their doorsteps&#63;</desc>
+		<attendee>Cyprus Avenue residents</attendee>
+		<attend score_party="2" score_local="2" score_media="0">
+			<feedback>You may have gained some new voters&#33;</feedback>
+		</attend>
+		<ignore score_party="0" score_local="0" score_media="0">
+			<feedback>You played it safe&#46; And you hope to keep the same number of voters at the next election&#46;</feedback>
+		</ignore>
+	</meeting><meeting meetingID="meeting008" interest="none" party="neutral" meetingIcon="constituency" meetingLocation="constituency" meetingDuration="4">
+		<title>Launch new ride at Tea Towers</title>
+		<subtitle>Parliament</subtitle>
+		<desc>You&#39;ve been invited to launch a new ride at a theme park in your constituency&#46; Tea Towers is Britain&#39;s most popular tourist destination&#44; famous for its tea themed rides and games&#46; You&#39;ve been asked to open the park&#39;s newest rollercoaster&#44; the Strange Brew&#46; Would you like to head over to Tea Towers&#63;</desc>
+		<attendee>Della Shoule&#44; chief executive</attendee>
+		<attend score_party="0" score_local="1" score_media="2">
+			<feedback>The ride launch was a hit with the local press&#46; You were able to meet with a lot of constituents too&#46;</feedback>
+		</attend>
+		<ignore score_party="0" score_local="-1" score_media="-1">
+			<feedback>Tea Towers employs a lot of people in your constituency&#46; Many thought you should have been there&#46;</feedback>
+		</ignore>
+	</meeting><meeting meetingID="meeting009" interest="none" party="government" meetingIcon="parliament" meetingLocation="parliament" meetingDuration="2">
+									<title>Today on&#45;air debate</title>
+									<subtitle>Parliament</subtitle>
+									<desc>Lorna Lippman hosts radio talk show Politics Today&#46; She&#39;s invited you to take part in a debate about the Government&#39;s plans to lower the voting age to 14&#46; The proposal is controversial and the public is divided&#46; Also invited to join the panel are an Opposition MP&#44; 14&#45;year&#45;old Freddie Laser and the director of Respect Your Elders &#45; a group that favours increasing the voting age to 31&#46; Click attend to join the debate&#46; If you&#39;d rather not&#44; you can choose to decline&#46;</desc>
+									<attendee>Lorna Lippman</attendee>
+									<attend score_party="-2" score_local="-1" score_media="-1">
+										<feedback>The debate was much fiercer than you expected&#46; Everyone had very strong arguments&#33;</feedback>
+									</attend>
+									<ignore score_party="0" score_local="-2" score_media="-2">
+										<feedback>Politics Today is a very popular show with many of your constituents&#46; Lorna Lippman wasn&#39;t kind in her on&#45;air comments about you turning down the chance to join the debate&#46;</feedback>
+									</ignore>
+								</meeting><meeting meetingID="meeting010" interest="local" party="government" meetingIcon="parliament" meetingLocation="parliament" meetingDuration="2">
+									<title>Whip to address governing party</title>
+									<subtitle>Parliament</subtitle>
+									<desc>On Friday evening&#44; MPs will be voting on whether to lower the voting age to 14&#46; The Whip has called a meeting to explain to all MPs in the governing party why they should support the Government&#39;s plans&#46; If you feel like you need to be convinced about why you should support the party then go to the meeting&#46; If you&#39;re quite supportive of lowering the voting age&#44; maybe you don&#39;t need to attend&#46;</desc>
+									<attendee>Government whip</attendee>
+									<attend score_party="1" score_local="0" score_media="0">
+										<feedback>The Whip presented the case for lowering the voting age&#46; &#39;Young people deserve to have their views counted&#39; said the Prime Minister&#46; Are you convinced&#63;</feedback>
+									</attend>
+									<ignore score_party="2" score_local="0" score_media="0">
+										<feedback>By not attending&#44; the Whip thinks you&#39;re going to support the Government in the vote&#46; So she&#39;s happy&#46; Is that the case though&#63;</feedback>
+									</ignore>
+								</meeting><meeting meetingID="meeting011" interest="local" party="opposition" meetingIcon="parliament" meetingLocation="parliament" meetingDuration="2">
+									<title>Leader of opposition to address the party</title>
+									<subtitle>Parliament</subtitle>
+									<desc>On Friday evening&#44; MPs will be voting on whether to lower the voting age to 14&#46; Your party leader has called a meeting to explain to all MPs in Opposition why they should oppose the Government&#39;s plans&#46; If you feel like you need to be convinced about why you should support the party then go to the meeting&#46; If you&#39;re already against lowering the voting age&#44; maybe you don&#39;t need to attend&#46;</desc>
+									<attendee>Leader of the Opposition</attendee>
+									<attend score_party="1" score_local="0" score_media="0">
+										<feedback>The Leader of the Opposition presented the case for opposing the Government&#39;s plans&#58; &#39;At 14&#44; young people are just not mature enough to have the right to vote&#46;&#39; Are you convinced&#63; The vote is Friday in the second to last time slot&#46;</feedback>
+									</attend>
+									<ignore score_party="2" score_local="0" score_media="0">
+										<feedback>By not attending&#44; the Leader of the Opposition and the Opposition Whip think you&#39;re going to support them&#46; So they were happy&#46; Is that the case&#63; The vote is Friday in the second to last time slot&#46;</feedback>
+									</ignore>
+								</meeting><meeting meetingID="meeting012" interest="local" party="neutral" meetingIcon="constituency" meetingLocation="constituency" meetingDuration="4">
+									<title>Another festival&#46;&#46;&#46;</title>
+									<subtitle>Constituency</subtitle>
+									<desc>You&#39;ve been invited to cook sausages for the public at a popular food festival in the constituency&#46; The Sausage&#44; Mash &#38; Gravy Fest is always well attended by families in your area&#46; If you&#39;d rather not eat mash&#44; you could decline and start writing your speech for next week&#39;s debate on the low carbon economy&#46;</desc>
+									<attendee>Susan Woodall&#44; SM&#38;G Fest director</attendee>
+									<attend score_party="-1" score_local="1" score_media="1">
+										<feedback>How was the wild boar sausage&#63; Attending constituency events helps you keep in strong contact with your voters&#46; But you&#39;ll have to find some more time to write your speech&#46;</feedback>
+									</attend>
+									<ignore score_party="1" score_local="-1" score_media="-1">
+										<feedback>You made a good start on the speech&#46; You declined the food festival and maybe missed a chance to score points with voters&#46;</feedback>
+									</ignore>
+								</meeting><meeting meetingID="meeting013" interest="finance" party="neutral" meetingIcon="constituency" meetingDuration="4" meetingLocation="constituency">
+		<title>Committee visit</title>
+		<subtitle>Constituency</subtitle>
+		<desc>You&#39;ve been invited to visit your constituency on Environment Committee business&#46; As a member of the committee&#44; you and other MPs investigate the work of the Government&#46; Your current inquiry is looking at how tourism in the UK impacts the environment&#46; Britain&#39;s most popular tourist destination&#44; Tea Towers theme park&#44; is in your constituency and your committee will be looking at its practices for lowering the park&#39;s impact on the environment&#46; Will you attend&#44; or would you rather take a call from the Education and Schools Minister&#39;s office&#63;</desc>
+		<attendee>Environment Committee</attendee>
+		<attend score_party="0" score_local="0" score_media="0">
+			<feedback>You gained some good evidence on your visit&#46;</feedback>
+		</attend>
+		<ignore score_party="2" score_local="2" score_media="0">
+			<feedback>The Department for Education and Schools confirmed your request for a meeting&#46; With the Minister&#39;s influence you may avoid a dinner lady strike in your constituency yet&#33;</feedback>
+		</ignore>
+	</meeting><meeting meetingID="meeting014" interest="local" party="government" meetingIcon="parliament" meetingLocation="parliament" meetingDuration="2">
+									<title>PM&#39;s shock announcement</title>
+									<subtitle>Parliament</subtitle>
+									<desc>The Prime Minister is set to announce the Government&#39;s plans to build ten nuclear power stations across the UK&#46; One of these stations will be in your constituency&#46; You&#39;re furious with this decision&#46; You know your constituents will not support it&#46; You feel like disrupting the PM&#39;s statement in the Commons in protest&#46; Will you go to hear the statement or are you going to sit down and cool off&#63;</desc>
+									<attendee>Prime Minister</attendee>
+									<attend score_party="-5" score_local="-5" score_media="-5">
+										<feedback>You stormed up to the Speaker&#39;s Chair and shouted &#39;outrage&#33;&#39;&#46; You disrupted the PM&#39;s speech and made national news&#46; Your political career is in danger&#46;</feedback>
+									</attend>
+									<ignore score_party="1" score_local="-3" score_media="0">
+										<feedback>The Prime Minister announced the decision&#46; The Government Whip appreciated your constituency would not be pleased about this&#46; She appreciated your loyalty under the circumstances&#46;</feedback>
+									</ignore>
+								</meeting><meeting meetingID="meeting015" interest="local" party="opposition" meetingIcon="parliament" meetingLocation="parliament" meetingDuration="2">
+									<title>PM&#39;s shock announcement</title>
+									<subtitle>Parliament</subtitle>
+									<desc>The Prime Minister is set to announce the Government&#39;s plans to build ten nuclear power stations across the UK&#46; One of these stations will be in your constituency&#46; You&#39;re furious with this decision&#46; You know your constituents will not support it&#46; Your party leader is sympathetic&#44; but supports the Government&#39;s decision&#46; You feel like disrupting the PM&#39;s statement in the Commons in protest&#46; Will you go to hear the statement or are you going to sit down and cool off&#63;</desc>
+									<attendee>Prime Minister</attendee>
+									<attend score_party="-5" score_local="-5" score_media="-5">
+										<feedback>You stormed up to the Speaker&#39;s Chair and shouted &#39;outrage&#33;&#39;&#46; You disrupted the PM&#39;s speech and made national news&#46; Your political career is in danger&#46;</feedback>
+									</attend>
+									<ignore score_party="1" score_local="-3" score_media="0">
+										<feedback>The Prime Minister announced the decision&#46; The Opposition Whip and your leader appreciated your constituency would not be pleased about this&#46; They appreciated your loyalty under the circumstances&#46;</feedback>
+									</ignore>
+								</meeting><meeting meetingID="meeting016" interest="local" party="neutral" meetingIcon="parliament" meetingLocation="parliament" meetingDuration="4">
+									<title>Football dilemma</title>
+									<subtitle>Parliament</subtitle>
+									<desc>You&#39;ve been invited to captain a team of MPs in an annual charity football match&#46; Last year you beat the Environment Minister&#39;s team &#45; it was a lot of fun and got a lot of press and support from your constituents&#46; The Minister was sulky after the match though&#46; You need some urgent help from the Environment Department resolving a constituency problem and you&#39;re worried if you beat her again she&#39;ll find a way to avoid you&#46; Will you play in the match or play it safe&#63;</desc>
+									<attendee>Team MP</attendee>
+									<attend score_party="3" score_local="-1" score_media="3">
+										<feedback>You&#39;re popular with fellow MPs and you&#39;re suspicious that your winning penalty has something to do with the Environment Department not returning your calls&#46;</feedback>
+									</attend>
+									<ignore score_party="-3" score_local="-1" score_media="0">
+										<feedback>Your former side lost the game without your sublime passing skills&#46; And your constituents were disappointed not to see you out there&#46;</feedback>
+									</ignore>
+								</meeting></mp_meeting>

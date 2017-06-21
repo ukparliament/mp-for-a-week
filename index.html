@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+	<meta name="mobile-web-app-capable" content="yes">
+
+	<title>MP For A Week</title>
+	
+
+	<style type="text/css">
+
+		@font-face {
+
+			font-family: "Graviola";
+			src: url(fonts/graviola-regular.otf) format("opentype"),
+        		url('fonts/graviola-regular.woff') format('woff'),
+        		url('fonts/graviola-regular.ttf') format('truetype');
+		}
+
+	</style>
+
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-73718228-1', 'auto');
+	  ga('send', 'pageview');
+
+	</script>
+
+
+</head>
+<body style="margin:0px;">
+    <script type="text/javascript" src="./js/game_js_combined.min.js"></script>
+	<script type="text/javascript" src="./audio/audio_manifest.js"></script>
+	<script type="text/javascript" src="./images/image_manifest.js"></script>
+	<script type="text/javascript" src="./images/spritesheet_manifest.js"></script>
+	<script type="text/javascript" src="./xml/xml.js"></script>
+	
+    
+
+	<script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
+
+    <script>
+
+	window.onload = function(e)
+	{
+		setTimeout(function()
+		{
+			GAME.setup();
+		},1);
+	}
+	</script>
+
+	<div id="centre"
+	style="	position: absolute;
+			top: 0;
+			bottom: 0;
+			left: 0;
+			right: 0;
+			visibility: hidden;
+			margin: auto;
+			position: fixed;
+			top: 50%;
+			left: 50%;
+			width: 0px;
+			text-align: center;
+			margin-top: -195px;
+			margin-left: -350px;">
+		<div id="player" ></div>
+		<div id="cross" style="z-index: 101; visibility: hidden;margin-left: -70px; margin-top: -435px;">
+
+			<img id="Img" src="images/compressed/videos/video_back_default.png" onmouseover="this.src='images/compressed/videos/video_back_hlt.png'" onmouseout="this.src='images/compressed/videos/video_back_default.png'" onclick="myFunction()" width="70px"style="cursor:pointer"/>
+
+		</div>
+	</div>
+
+    <script type="text/javascript">
+
+		VIDEOS.YTPlayer = null;
+
+		function onYouTubeIframeAPIReady()
+		{
+			VIDEOS.YTPlayer = new YT.Player('player',
+			{
+				height: GAME.mobile?'200':'396',
+				width: GAME.mobile?'400':'704',
+				videoId: VIDEOS.activeLink,
+				playerVars: {rel: 0},
+				events: {
+					'onReady': onPlayerReady,
+					'onError': onPlayerError,
+					'onStateChange': videoState,
+
+				}
+			});
+		}
+
+		var browserDetect = new FIAB.browser_detect();
+		if(browserDetect.OS==="iPhone/iPod"||browserDetect.OS==="iPad"||browserDetect.OS==="Andriod"||browserDetect.OS==="Probably-Kindle"||browserDetect.OS==="Kindle"||browserDetect.OS==="Linux")
+		{
+			GAME.mobile=true;
+			document.getElementById("centre").style.marginTop = "-100px";
+			document.getElementById("centre").style.marginLeft = "-200px";
+			document.getElementById("cross").style.marginTop = "-220px";
+			document.getElementById("cross").style.marginLeft = "-55px";
+			//document.getElementById("cross").style.transform = "scale(0.5)";
+		}
+		else
+		{
+			console.log("centre margins unchanged");
+			console.log("top: " + document.getElementById("centre").style.marginTop);
+			console.log("left: " + document.getElementById("centre").style.marginLeft);
+		}
+
+		function onPlayerReady(event)
+		{
+			VIDEOS.YTPlayer.setPlaybackQuality('large');
+			if(!GAME.mobile)
+			{
+				//event.target.playVideo();
+			}
+			else
+			{
+				VIDEOS.YTPlayer.cueVideoById(VIDEOS.activeLink);
+			}
+		}
+
+		function onPlayerError()
+		{
+
+		}
+
+		function videoState()
+		{
+			if(VIDEOS.YTPlayer.getPlayerState()==0)
+			{
+				myFunction();
+			}
+		}
+
+		function myFunction()
+		{
+			//var element = document.getElementById("player");
+			//element.parentNode.removeChild(element);
+
+			//element = document.getElementById("cross");
+			//element.parentNode.removeChild(element);
+			
+			//prevent button from firing if we haven't loaded the player yet. prevents crashing bug
+			if(!VIDEOS.YTPlayer) return;
+			
+			document.getElementById("cross").style.visibility="hidden";
+			document.getElementById("player").style.visibility="hidden";
+			document.getElementsByClassName("fiab_canvas_manager")[0].style.zIndex="102";
+			//if playing
+
+			VIDEOS.videoQuad.destroy();
+
+			/*if(VIDEOS.YTPlayer.getPlayerState()==1)
+			{
+				VIDEOS.YTPlayer.pauseVideo()
+			}*/
+			
+			VIDEOS.YTPlayer.pauseVideo()
+
+			if(VIDEOS.playlistVid != -1)
+			{
+				VIDEOS.destroy();
+				setTimeout(EPISODES.taskComplete, 200);
+			}
+		}
+
+
+		function receiveMessage(event)
+		{
+		  var origin = event.origin || event.originalEvent.origin; // For Chrome, the origin property is in the event.originalEvent object.
+		  if (origin == document.URL)
+		  {
+			  console.log ("REACHED");
+		  }
+		}
+    </script>
+
+</body>
+</html>

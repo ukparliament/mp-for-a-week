@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution PIVersion="1.0.0.0" href="https://lbi.lightbox-ed.com/projects/PES-MP_for_a_Week/1478/Shared%20Documents/Infopath%20Forms/PES-MP%20for%20a%20week-Committee.xsn" name="urn:schemas-microsoft-com:office:infopath:PES-MP-for-a-week-Committee:" language="en-gb" solutionVersion="1.0.0.24" productVersion="12.0.0" ?><?mso-application progid="InfoPath.Document"?><mp_committee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/MP_for_a_week-Committee.xsd">
+	<committee value_evidence="2" interest="local" party="neutral" value_views="2" committeeID="committee001" committeeDuration="4">
+		<title>Music industry rights</title>
+		<notes>An inquiry into how British musicians are losing out when people in other countries download and copy albums without paying&#46;</notes>
+		
+		
+		<witness value_evidence="2" value_views="2" avatarName="wit_17">
+			<name>MC Code</name>
+			<occupation>Rapper and filmmaker</occupation>
+			<background>Code is a popular musician with strong views on creating European laws to protect artists&#39; intellectual property&#46;</background>
+		</witness>
+		
+		<witness value_evidence="2" value_views="2" avatarName="wit_01">
+			<name>Cedrick Jones MP</name>
+			<occupation>Culture Minister</occupation>
+			<background>Cedrick is the top minister in the Culture Department&#46; He organises the Government&#39;s efforts to promote media&#44; the arts&#44; sports and culture across the UK&#46;</background>
+		</witness>
+		<witness value_evidence="2" value_views="2" avatarName="wit_05">
+			<name>Charlie Curtis MP</name>
+			<occupation>Global Affairs Minister</occupation>
+			<background>Charlie is a junior minister in the Global Affairs Department&#46; He negotiates international agreements for the government&#46;</background>
+		</witness>
+		<witness value_evidence="2" value_views="2" avatarName="wit_00">
+			<name>Jack Roberts</name>
+			<occupation>Business lobbyist</occupation>
+			<background>Roberts is the director of UK Business&#44; the country&#39;s most influential lobby group representing the interests of business and industry in the UK&#46;</background>
+		</witness><witness value_evidence="0" value_views="1" avatarName="wit_23">
+			<name>Anna Patel</name>
+			<occupation>Student</occupation>
+			<background>Anna is in year 8&#46; Her favourite band is the Electric Mayhem&#46;</background>
+		</witness>
+		
+		<witness value_evidence="2" value_views="2" avatarName="wit_15">
+			<name>Larry Lightbox</name>
+			<occupation>Music industry lobbyist</occupation>
+			<background>Larry represents the views of the music industry&#46; He is in favour of a Europe&#45;wide law covering all internet providers&#46;</background>
+		</witness>
+		<witness value_evidence="1" value_views="2" avatarName="wit_20">
+			<name>Felicity</name>
+			<occupation>Lead vocals&#44; Electric Mayhem</occupation>
+			<background>Her rock anthem &#39;Biscuit&#39; is one of the most illegally downloaded songs in Germany&#44; according to some reports&#46;</background>
+		</witness><witness value_evidence="-1" value_views="0" avatarName="wit_16">
+			<name>Lewis Franklin</name>
+			<occupation>Journalist</occupation>
+			<background>Lewis is a senior reporter for an evening newspaper&#46;</background>
+		</witness>
+		<witness value_evidence="1" value_views="2" avatarName="wit_04">
+			<name>Lorna Lippman</name>
+			<occupation>Radio show host</occupation>
+			<background>Before moving to radio&#44; Lorna wrote for the music magazine &#39;The Rock Report&#39;&#46; Her favourite band is the Electric Mayhem&#46;</background>
+		</witness>
+		
+		<witness value_evidence="2" value_views="2" avatarName="wit_10">
+									<name>Robert Magneight</name>
+									<occupation>Media tycoon&#46;</occupation>
+									<background>Mr Magneight is a millionaire businessman&#46; He owns one the UK&#39;s largest music recording companies&#44; Sundown Records&#46;</background>
+								</witness><witness value_evidence="-2" value_views="1" avatarName="wit_02">
+			<name>Owen Mwandumbya</name>
+			<occupation>MP&#44; Tanzania</occupation>
+			<background>Owen is one of Africa&#39;s youngest politicians&#46; He is in London visiting with MPs and Lords in the Houses of Parliament&#46;</background>
+		</witness><witness value_evidence="-1" value_views="-1" avatarName="wit_08">
+									<name>Dave Gordon</name>
+									<occupation>Car engineer</occupation>
+									<background>Dave works for a successful new carmaker called Flashpoint Motors&#46;</background>
+								</witness>
+		
+		
+		
+	<witness value_evidence="0" value_views="0" avatarName="wit_07">
+									<name>Joanna Quinn</name>
+									<occupation>City planner</occupation>
+									<background>Joanna is an expert in how to plan cities to deal with traffic congestion and air pollution&#46;</background>
+								</witness><result targetsReached="0" score_party="-2" score_local="-1" score_media="-1">
+			<feedback>Hmm&#46;&#46;&#46; Did all of your witnesses really have relevant experience&#63; Double check your inquiry topic next time&#46;</feedback>
+		</result><result targetsReached="1" score_party="1" score_local="0" score_media="1">
+			<feedback>Your report got a bit of attention&#46; Some &#45; but not all &#45; of your witnesses gave helpful evidence&#46;</feedback>
+		</result><result targetsReached="2" score_party="2" score_local="1" score_media="2">
+			<feedback>Fantastic report&#46; The Culture and Global Affairs ministers will have to take your recommendations seriously&#46;</feedback>
+		</result></committee>
+
+	<committee value_evidence="2" interest="finance" party="neutral" value_views="2" committeeID="committee002" committeeDuration="4">
+		<title>Is tourism sustainable&#63;</title>
+		<notes>An inquiry into how the tourism business affects the environment&#46;</notes>
+		<witness value_evidence="0" value_views="-1" avatarName="wit_19">
+			<name>Rufus West</name>
+			<occupation>Footballer</occupation>
+			<background>He&#39;s a premier league football star&#46; He campaigns for better sports facilities for schools and youth clubs&#46;</background>
+		</witness>
+		<witness value_evidence="2" value_views="2" avatarName="wit_01">
+			<name>Cedrick Jones MP</name>
+			<occupation>Culture Minister</occupation>
+			<background>Cedrick is the minister in charge of organising the Government&#39;s efforts to promote and protect the UK&#39;s national heritage and historic environment&#46;</background>
+		</witness>
+		
+		<witness value_evidence="1" value_views="0" avatarName="wit_06">
+			<name>Polly Butler</name>
+			<occupation>Culture and Arts Council</occupation>
+			<background>Polly&#39;s organisation receives money from the Government to provide grants to promising cultural projects&#46;</background>
+		</witness>
+		<witness value_evidence="2" value_views="2" avatarName="wit_22">
+			<name>Tarique Hussain MP</name>
+			<occupation>Business minister</occupation>
+			<background>Tarique is the top minister in the Government&#39;s Business Department&#46; He tries to keep the UK economy growing and prosperous&#46;</background>
+		</witness>
+		<witness value_evidence="2" value_views="2" avatarName="wit_13">
+			<name>Della Shoule</name>
+			<occupation>Chief Executive&#44; Tea Towers</occupation>
+			<background>Shoule employs hundreds of workers at one of Britain&#39;s most popular theme parks&#46; Its dramatic rollercoaster &#45; The Strange Brew &#45; lurches out over a cliff face that has been eroding in recent years&#46;</background>
+		</witness>
+		<witness value_evidence="2" value_views="2" avatarName="wit_14">
+			<name>Joseph Allen</name>
+			<occupation>Union organiser</occupation>
+			<background>Joseph represents thousands of workers in Britain&#39;s biggest trade union&#46; Many of his union&#39;s members work in the tourism business&#46;</background>
+		</witness><witness value_evidence="2" value_views="2" avatarName="wit_24">
+									<name>Professor Burgess</name>
+									<occupation>Director&#44; Natural Heritage UK</occupation>
+									<background>Professor Burgess has come up with a plan to manage the number of visitors to Highlands National Park&#46;</background>
+								</witness><witness value_evidence="2" value_views="2" avatarName="wit_21">
+			<name>Amelia McAvoy MP</name>
+			<occupation>Environment Minister</occupation>
+			<background>Amelia is the top minister in the Environment Department&#46; She is in charge of organising the Government&#39;s efforts to protect the UK&#39;s natural landscapes and coastlines&#46;</background>
+		</witness><witness value_evidence="2" value_views="2" avatarName="wit_18">
+			<name>Teddy Tavistock</name>
+			<occupation>Campaigner</occupation>
+			<background>Teddy campaigns for Global Green Friends&#44; an NGO &#40;Non&#45;Governmental Organisation&#41; concerned with the environmental impact of business and trade&#46;</background>
+		</witness><witness value_evidence="1" value_views="2" avatarName="wit_00">
+			<name>Jack Roberts</name>
+			<occupation>Business lobbyist</occupation>
+			<background>Roberts is the director of UK Business&#44; a lobby group that represents the interests of businesses and industries across the country&#46;</background>
+		</witness>
+		
+		
+		
+	<witness value_evidence="0" value_views="1" avatarName="wit_10">
+									<name>Robert Magneight</name>
+									<occupation>Media investor</occupation>
+									<background>Mr Magneight is a millionaire&#46; He owns several local newspapers and radio stations around the UK&#46;</background>
+								</witness><result targetsReached="0" score_party="-2" score_local="-1" score_media="-1">
+			<feedback>Hmm&#46;&#46;&#46; Did all of your witnesses really have relevant experience&#63; Double check your inquiry topic next time&#46;</feedback>
+		</result><result targetsReached="1" score_party="1" score_local="0" score_media="1">
+			<feedback>Your report got a bit of attention&#46; Some &#45;but not all &#45; of your witnesses gave helpful evidence&#46;</feedback>
+		</result><result targetsReached="2" score_party="2" score_local="1" score_media="2">
+			<feedback>Fantastic report&#46; The Environment and Business Ministers will have to take your recommendations seriously&#46;</feedback>
+		</result></committee>
+
+	<committee value_evidence="2" interest="global" party="neutral" value_views="2" committeeID="committee003" committeeDuration="4">
+		<title>A green economy&#63;</title>
+		<notes>An inquiry into the costs and benefits of changing the UK economy so it is less harmful to the planet&#46;</notes>
+		
+		
+		<witness value_evidence="2" value_views="2" avatarName="wit_21">
+			<name>Amelia McAvoy MP</name>
+			<occupation>Environment Minister</occupation>
+			<background>Amelia is the top minister in the Environment Department&#46; She is in charge of organising the Government&#39;s efforts to secure a healthy environment&#46;</background>
+		</witness>
+		
+		<witness value_evidence="2" value_views="2" avatarName="wit_00">
+			<name>Jack Roberts</name>
+			<occupation>Business lobbyist</occupation>
+			<background>Jack promotes the interests of UK businesses to MPs&#46; His organisation has created a &#39;green plan&#39; with new economic opportunities&#46;</background>
+		</witness>
+		
+		<witness value_evidence="2" value_views="2" avatarName="wit_18">
+			<name>Teddy Tavistock</name>
+			<occupation>Green campaigner</occupation>
+			<background>Teddy is a campaigner for Global Green Friends&#46; It wants the Government to promote businesses that are less harmful to the planet&#46;</background>
+		</witness><witness value_evidence="1" value_views="2" avatarName="wit_03">
+			<name>Dr Lucy Totterdown</name>
+			<occupation>Climate scientist</occupation>
+			<background>Lucy is a scientist and expert on conflicting opinions about why the earth&#39;s temperature is rising&#46;</background>
+		</witness><witness value_evidence="2" value_views="2" avatarName="wit_22">
+			<name>Tarique Hussain MP</name>
+			<occupation>Business Minister</occupation>
+			<background>Tarique is the top minister in the Business Department&#46; He uses the Government&#39;s powers to try to keep the UK economy going strong&#46;</background>
+		</witness><witness value_evidence="2" value_views="2" avatarName="wit_13">
+									<name>Patricia Webster</name>
+									<occupation>Shop owner</occupation>
+									<background>Her chain of Green Up shops specialise in environmentally friendly products&#46; She set up her business with the help of a government loan&#46;</background>
+								</witness><witness value_evidence="1" value_views="1" avatarName="wit_16">
+			<name>Lewis Franklin</name>
+			<occupation>Journalist</occupation>
+		<background>Franklin is a senior reporter for The Evening Star&#46; He has written some articles on environmentally&#45;friendly technology&#46;</background>
+		</witness><witness value_evidence="0" value_views="0" avatarName="wit_15">
+									<name>Larry Lightbox</name>
+									<occupation>Music industry lobbyist</occupation>
+									<background>As a lobbyist Larry meets with ministers&#44; MPs and Lords on behalf of the British music industry&#46;</background>
+								</witness><witness value_evidence="2" value_views="1" avatarName="wit_08">
+			<name>Dave Gordon</name>
+			<occupation>Car engineer</occupation>
+			<background>Dave has invented a gadget that makes electric cars much cheaper to produce&#46;</background>
+		</witness>
+		
+		
+		
+	<witness value_evidence="2" value_views="2" avatarName="wit_14">
+			<name>Joseph Allen</name>
+			<occupation>Union organiser</occupation>
+			<background>Thousands of workers in Joseph&#39;s union are employed by businesses that harm the environment&#44; say many green campaigners&#46;</background>
+		</witness><result targetsReached="0" score_party="-2" score_local="-1" score_media="-1">
+			<feedback>Hmm&#46;&#46;&#46; Did all of your witnesses really have relevant experience&#63; Double check your inquiry topic next time&#46;</feedback>
+		</result><result targetsReached="1" score_party="1" score_local="0" score_media="1">
+			<feedback>Your report got a bit of attention&#46; Some &#45;but not all &#45; of your witnesses gave helpful evidence&#46;</feedback>
+		</result><result targetsReached="2" score_party="2" score_local="1" score_media="2">
+			<feedback>Fantastic report&#46; The Environment and Business Ministers will have to take your recommendations seriously&#46;</feedback>
+		</result></committee>
+</mp_committee>

@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?><!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by Claire Miller (3T Productions Limited) --><?mso-infoPathSolution PIVersion="1.0.0.0" href="https://lbi.lightbox-ed.com/projects/PES-MP_for_a_Week/1478/Shared%20Documents/Infopath%20Forms/PES-MP%20for%20a%20week-Phone%20Call.xsn" name="urn:schemas-microsoft-com:office:infopath:PES-MP-for-a-week-Phone-Call:" language="en-gb" solutionVersion="1.0.0.9" productVersion="12.0.0" ?><?mso-application progid="InfoPath.Document"?><mp_phone_call xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/MP_for_a_week-Phone_call.xsd">
+	<phone_call phone_callID="call_gvote_first" thumbFilename="caller-01.jpg" mp3Filename="govt_vote-01.mp3">
+		<caller>First govt vote of the week</caller>
+		<yes_button>Attend vote</yes_button>
+		<no_button>Miss vote</no_button>
+		<transcript>Hello&#46; MPs will be voting tonight in the House of Commons&#46; The Government has suggested a change to the law and MPs will be deciding on it&#46; Can I expect you to be there&#63;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_ovote_first" thumbFilename="caller-01.jpg" mp3Filename="opp_vote-01.mp3">
+		<caller>First opp vote of the week</caller>
+		<yes_button>Yes</yes_button>
+		<no_button>No</no_button>
+		<transcript>Hello&#46; MPs will be voting tonight in the House of Commons&#46; The Government has suggested a change to the law and MPs will be deciding on it&#46; Can I expect you to be there&#63;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_gpress" thumbFilename="caller-01.jpg" mp3Filename="govt_press-01.mp3">
+		<caller>Press conference &#40;govt&#41;</caller>
+		<yes_button>Attend</yes_button>
+		<no_button>Decline</no_button>
+		<transcript>Are you ready for a press conference&#63; A few journalists would like to ask you some questions&#46; Dealing with the media can be tricky though&#46; Try to be clear&#44; and get your message across&#46; Good luck&#33;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_opress" thumbFilename="caller-01.jpg" mp3Filename="opp_press-01.mp3">
+		<caller>Press conference &#40;opp&#41;</caller>
+		<yes_button>Attend</yes_button>
+		<no_button>Decline</no_button>
+		<transcript>Are you ready for a press conference&#63; A few journalists would like to ask you some questions&#46; Dealing with the media can be tricky though&#46; Try to be clear&#44; and get your message across&#46; Good luck&#33;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_gquestion_global" thumbFilename="caller-02.jpg" mp3Filename="govt_question-01.mp3">
+		<caller>Global Affairs questions &#40;govt&#41;</caller>
+		<yes_button>Yes</yes_button>
+		<no_button>No</no_button>
+		<transcript>It&#39;s almost Question Time&#46; The Global Affairs Minister will be in the Commons today&#46; Were you planning to submit a question&#63;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_oquestion_global" thumbFilename="caller-02.jpg" mp3Filename="opp_question-01.mp3">
+		<caller>Global Affairs questions &#40;opp&#41;</caller>
+		<yes_button>Yes</yes_button>
+		<no_button>No</no_button>
+		<transcript>It&#39;s almost Question Time&#46; The Global Affairs Minister will be in the Commons today&#46; Were you planning to submit a question&#63;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_gpositive" thumbFilename="caller-01.jpg" mp3Filename="govt_feedback-03.mp3">
+		<caller>Positive progress message &#40;govt&#41;</caller>
+		<yes_button>Continue</yes_button>
+		<no_button>Restart</no_button>
+		<transcript>I&#39;ve been told to tell you that you&#39;re doing a pretty good&#46;&#46;&#46; okay great job&#46; If you&#39;re finding this too easy&#44; maybe you&#39;d like to move to the next level&#63;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_opositive" thumbFilename="caller-01.jpg" mp3Filename="opp_feedback-03.mp3">
+		<caller>Positive progress message &#40;opp&#41;</caller>
+		<yes_button>Continue</yes_button>
+		<no_button>Restart</no_button>
+		<transcript>Hello there&#46; Just calling to let you know you&#39;re doing a great job&#33; People are talking and the word is&#44; you look like a future star&#46; If you&#39;re finding it too easy&#44; feel free to move to the next level&#46; Either way&#44; keep it up&#33;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_gfailed" thumbFilename="caller-03.jpg" mp3Filename="govt_feedback-04.mp3">
+		<caller>Failure &#40;govt&#41;</caller>
+		<yes_button>Scorecard</yes_button>
+		<no_button>Reset</no_button>
+		<transcript>That last decision you made&#44; I&#39;m afraid it was the last straw&#46; You&#39;ve lost so much voter and party support&#44; there&#39;s not much else I can do but &#39;remove the whip&#39;&#46; I&#39;m sorry&#44; but that now means you&#39;re an MP without a party&#46; Good luck on your own&#44; you&#39;re going to need it&#33;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_ofailed" thumbFilename="caller-01.jpg" mp3Filename="opp_feedback-04.mp3">
+		<caller>Failure &#40;opp&#41;</caller>
+		<yes_button>Scorecard</yes_button>
+		<no_button>Reset</no_button>
+		<transcript>Oh&#44; this is just terrible&#33; Your voter and party support have plummeted&#46; It looks like you&#39;ll lose your seat in Parliament at the next election&#46; I&#39;m disappointed&#44; you had so much potential and I really liked you&#46; Well&#44; goodbye and good luck&#46;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_gend_positive" thumbFilename="caller-04.jpg" mp3Filename="govt_feedback-01.mp3">
+		<caller>Positive ending &#40;govt&#41;</caller>
+		<yes_button>Scorecard</yes_button>
+		<no_button>Finish</no_button>
+		<transcript>Well&#44; I wasn&#39;t sure you had it in you but you&#39;ve had a great week on the back benches&#46; The PM thinks you&#39;ve got real potential&#46; It looks like you&#39;ve gained a lot of support in your constituency too&#46;  Well done&#33; We&#39;ll see you on Monday to do it all again&#46;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_oend_positive" thumbFilename="caller-01.jpg" mp3Filename="opp_feedback-01.mp3">
+		<caller>Positive ending &#40;opp&#41;</caller>
+		<yes_button>Scorecard</yes_button>
+		<no_button>Finish</no_button>
+		<transcript>You&#39;ve certainly impressed this week&#33; The Leader of the Opposition can&#39;t say enough about you&#46; Your constituents love how you&#39;ve represented their views in Parliament too&#46; Great job&#33; We&#39;ll see you Monday to do it all again&#33;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_gend_negative" thumbFilename="caller-04.jpg" mp3Filename="govt_feedback-02.mp3">
+		<caller>So&#45;so ending &#40;govt&#41;</caller>
+		<yes_button>Scorecard</yes_button>
+		<no_button>Finish</no_button>
+		<transcript>Well you made it but if you want my honest opinion&#44; it wasn&#39;t the greatest week I&#39;ve ever seen in politics&#46; The thing is&#44; you could be a great backbencher&#44; so don&#39;t give up&#46; Try using Parliament&#39;s video hints next week to get tips from other MPs&#46; See you Monday&#33;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_oend_negative" thumbFilename="caller-01.jpg" mp3Filename="opp_feedback-02.mp3">
+		<caller>so&#45;so ending &#40;opp&#41;</caller>
+		<yes_button>Scorecard</yes_button>
+		<no_button>Finish</no_button>
+		<transcript>Great job&#44; you made it&#33; Do you know what else&#63; You&#39;ve got the potential to do even better&#46; Next week try using Parliament&#39;s video hints&#44; for tips from other MPs&#46; They might give you the edge&#46; Good luck&#46;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_gvote_three" thumbFilename="caller-01.jpg" mp3Filename="govt_vote-02.mp3">
+		<caller>Three line govt whip vote</caller>
+		<yes_button>Attend vote</yes_button>
+		<no_button>Miss vote</no_button>
+		<transcript>Tonight&#39;s vote is a &#39;three&#45;line whip&#39;&#46; That means I expect you to attend&#44; and to support the Government&#39;s idea&#46;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_ovote_three" thumbFilename="caller-01.jpg" mp3Filename="opp_vote-02.mp3">
+		<caller>Three line opp whip vote</caller>
+		<yes_button>Attend vote</yes_button>
+		<no_button>Miss vote</no_button>
+		<transcript>Tonight&#39;s vote is a &#39;three&#45;line whip&#39;&#46; That means we expect you to attend and vote to support the opposition party&#46;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_gvote_free" thumbFilename="caller-01.jpg" mp3Filename="govt_vote-03.mp3">
+		<caller>Free vote &#40;govt&#41;</caller>
+		<yes_button>Attend vote</yes_button>
+		<no_button>Miss vote</no_button>
+		<transcript>Did you remember there is a vote tonight&#63; It&#39;s a free vote&#46; I won&#39;t insist you say &#39;Aye&#39; or &#39;No&#39;&#46; It&#39;s up to you&#46;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_ovote_free" thumbFilename="caller-01.jpg" mp3Filename="opp_vote-03.mp3">
+		<caller>Free vote &#40;opp&#41;</caller>
+		<yes_button>Attend vote</yes_button>
+		<no_button>Miss vote</no_button>
+		<transcript>Hello&#46; This evening there is a free vote in the Commons&#46; That means your party doesn&#39;t mind which way you vote&#46; It&#39;s entirely up to you&#46;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_gvote_pmb" thumbFilename="caller-01.jpg" mp3Filename="govt_vote-04.mp3">
+		<caller>PMB vote &#40;govt&#41;</caller>
+		<yes_button>Attend vote</yes_button>
+		<no_button>Miss vote</no_button>
+		<transcript>Tonight&#39;s vote is on a Private Members&#39; Bill&#46; Usually it&#39;s the Government suggesting new laws but Private Members&#39; Bills are different&#46; They are proposed by MPs who aren&#39;t members of the Government&#46;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_ovote_pmb" thumbFilename="caller-01.jpg" mp3Filename="opp_vote-04.mp3">
+		<caller>PMB vote &#40;opp&#41;</caller>
+		<yes_button>Attend vote</yes_button>
+		<no_button>Miss vote</no_button>
+		<transcript>Tonight&#39;s vote is on a Private Members&#39; Bill&#46; Usually it&#39;s the Government suggesting new laws but Private Members&#39; Bills are different&#46; They are proposed by MPs who aren&#39;t members of the Government&#46;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_gvote_tax" thumbFilename="caller-01.jpg" mp3Filename="govt_vote-05.mp3">
+		<caller>Vote on tax &#40;govt&#41;</caller>
+		<yes_button>Attend vote</yes_button>
+		<no_button>Miss vote</no_button>
+		<transcript>Will you be attending tonight&#39;s vote&#63; It should be interesting&#46; It&#39;s a vote on tax &#45; the amount of money people pay to the Government&#46;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_ovote_tax" thumbFilename="caller-03.jpg" mp3Filename="opp_vote-05.mp3">
+		<caller>Vote on tax &#40;opp&#41;</caller>
+		<yes_button>Attend vote</yes_button>
+		<no_button>Miss vote</no_button>
+		<transcript>Will you be attending tonight&#39;s vote&#63; It should be interesting&#46; It&#39;s a vote on tax &#45; the amount of money people pay to the Government&#46;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_gvote_last" thumbFilename="caller-01.jpg" mp3Filename="govt_vote-06.mp3">
+		<caller>Last govt vote of week</caller>
+		<yes_button>Attend vote</yes_button>
+		<no_button>Miss vote</no_button>
+		<transcript>Tonight is the last&#44; and most important&#44; vote of the week&#46; I expect you&#39;ll be in the Commons&#44; voting to support the Government&#46;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_ovote_last" thumbFilename="caller-01.jpg" mp3Filename="opp_vote-06.mp3">
+		<caller>last opp vote of week</caller>
+		<yes_button>Attend vote</yes_button>
+		<no_button>Miss vote</no_button>
+		<transcript>You&#39;re almost at the end of the week &#45; just one more very important vote&#46;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_gvote_hwork" thumbFilename="caller-01.jpg" mp3Filename="govt_vote-07.mp3">
+		<caller>Homework Bill vote &#40;govt&#41;</caller>
+		<yes_button>Attend vote</yes_button>
+		<no_button>Miss vote</no_button>
+		<transcript>This evening&#39;s vote is on the Homework Bill&#46; I expect you&#39;ll be there voting &#39;Aye&#39;&#44; to extend the school day and ban homework&#46;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_ovote_hwork" thumbFilename="caller-01.jpg" mp3Filename="opp_vote-07.mp3">
+		<caller>Homework Bill vote &#40;opp&#41;</caller>
+		<yes_button>Attend vote</yes_button>
+		<no_button>Miss vote</no_button>
+		<transcript>This evening&#39;s vote is on the Homework Bill&#46; You should be voting with the party and saying &#39;No&#39; to the Government&#39;s plans&#46; We don&#39;t agree with extending the school day&#44; or banning homework&#46;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_gvote_busk" thumbFilename="caller-01.jpg" mp3Filename="govt_vote-08.mp3">
+		<caller>Busking Bill vote &#40;govt&#41;</caller>
+		<yes_button>Attend vote </yes_button>
+		<no_button>Miss vote</no_button>
+		<transcript>This evening&#39;s vote is on the Busking Bill&#46; It&#39;s a &#39;three&#45;line whip&#39;&#46; That means the Prime Minister and I expect you to be voting &#39;Aye&#39;&#44; with the Government&#46; </transcript>
+	</phone_call>
+	<phone_call phone_callID="call_ovote_busk" thumbFilename="caller-01.jpg" mp3Filename="opp_vote-08.mp3">
+		<caller>Busking Bill vote &#40;opp&#41;</caller>
+		<yes_button>Attend vote</yes_button>
+		<no_button>Miss vote</no_button>
+		<transcript>Tonight&#39;s vote is on the Busking Bill&#46; It&#39;s a &#39;three&#45;line whip&#39;&#46; That means the Leader of the Opposition expects you to be voting with the party&#46; We&#39;re voting &#39;No&#39; because we think the Government is going too far with this Bill&#46;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_gvote_mobile" thumbFilename="caller-01.jpg" mp3Filename="govt_vote-09.mp3">
+		<caller>Mobiles in Public Bill vote &#40;govt&#41;</caller>
+		<yes_button>Attend vote</yes_button>
+		<no_button>Miss vote</no_button>
+		<transcript>Will you be in the Commons Chamber tonight&#63; It&#39;s the first time MPs will be debating the Mobiles in Public Bill.</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_ovote_mobile" thumbFilename="caller-01.jpg" mp3Filename="opp_vote-09.mp3">
+		<caller>Mobiles in Public Bill vote &#40;govt&#41;</caller>
+		<yes_button>Attend vote</yes_button>
+		<no_button>Miss vote</no_button>
+		<transcript>Will you be in the Commons Chamber tonight&#63; It&#39;s the first time MPs will be debating the Mobiles in Public Bill&#46;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_gvote_leisure" thumbFilename="caller-01.jpg" mp3Filename="govt_vote-10.mp3">
+		<caller>Leisure tax cut &#40;govt&#41;</caller>
+		<yes_button>Attend vote</yes_button>
+		<no_button>Miss vote</no_button>
+		<transcript>This evening&#39;s vote is on the Leisure Tax Bill&#46; It is very important for the Government&#46; We want to make sure we&#39;re helping UK businesses as much as we can&#46; I expect all backbenchers to be there&#44; voting &#39;Aye&#39;&#46;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_ovote_leisure" thumbFilename="caller-01.jpg" mp3Filename="opp_vote-10.mp3">
+		<caller>Leisure tax cut &#40;opp&#41;</caller>
+		<yes_button>Attend vote</yes_button>
+		<no_button>Miss vote</no_button>
+		<transcript>Hello&#33; This evening&#39;s vote is on the Leisure Tax Bill&#46; It&#39;s important to the party&#46; While the Government&#39;s Bill would lower taxes&#44; it would also mean less money for the arts&#46; We&#39;re supporting UK artists so we expect you to vote &#39;No&#39;&#46;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_gvote_censor" thumbFilename="caller-01.jpg" mp3Filename="govt_vote-11.mp3">
+		<caller>Movie censorship vote &#40;govt&#41;</caller>
+		<yes_button>Attend vote</yes_button>
+		<no_button>Miss vote</no_button>
+		<transcript>Tonight&#39;s vote is on a Private Members&#39; Bill&#46; Opposition MP Roy Barlow has suggested a change to the law on film censorship&#46; Will I see you there&#63;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_ovote_censor" thumbFilename="caller-01.jpg" mp3Filename="opp_vote-11.mp3">
+		<caller>Movie censorship vote &#40;opp&#41;</caller>
+		<yes_button>Attend vote</yes_button>
+		<no_button>Miss vote</no_button>
+		<transcript>Tonight&#39;s vote is on a Private Members&#39; Bill&#46; One of your fellow opposition backbenchers is suggesting a change to the law on film censorship&#46;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_gvote_fueltax" thumbFilename="caller-01.jpg" mp3Filename="govt_vote-12.mp3">
+		<caller>Green Transport Bill vote &#40;govt&#41;</caller>
+		<yes_button>Attend vote</yes_button>
+		<no_button>Miss vote</no_button>
+		<transcript>It&#39;s the last vote of the week &#45; but it&#39;s very important&#46; We&#39;re voting for a fuel tax&#46; It&#39;s going to transform the country for the better&#46; Make sure you&#39;re there to support the Government&#46;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_ovote_fueltax" thumbFilename="caller-01.jpg" mp3Filename="opp_vote-12.mp3">
+		<caller>Green Transport Bill vote &#40;opp&#41;</caller>
+		<yes_button>Attend vote</yes_button>
+		<no_button>Miss vote</no_button>
+		<transcript>It&#39;s time for the big vote of the week&#46; The Government&#39;s plans for a fuel tax are causing a lot of debate&#46; Our party has decided the Government should think again&#46; This vote is a &#39;three&#45;line whip&#39;&#44; please make sure you&#39;re there&#46;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_gvote_violent" thumbFilename="caller-01.jpg" mp3Filename="govt_vote-13.mp3">
+		<caller>Video Game Bill vote &#40;govt&#41;</caller>
+		<yes_button>Attend vote</yes_button>
+		<no_button>Miss vote</no_button>
+		<transcript>Tonight we&#39;re voting on the Video Game Bill&#46; If it gets enough votes&#44; it would ban the sale of violent video games to young people&#46; It&#39;s the Government&#39;s idea &#45; so I expect you&#39;ll be voting &#39;Aye&#39;&#63;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_ovote_violent" thumbFilename="caller-01.jpg" mp3Filename="opp_vote-13.mp3">
+		<caller>Video Game Bill vote &#40;opp&#41;</caller>
+		<yes_button>Attend vote</yes_button>
+		<no_button>Miss vote</no_button>
+		<transcript>This evening&#39;s vote is on the Video Game Bill&#46; Our party is opposing the Government&#39;s ideas on this one&#46; We don&#39;t support a ban on the sale of violent games to young people &#45; because we think the existing rules are enough to protect them&#46;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_gvote_14vote" thumbFilename="caller-01.jpg" mp3Filename="govt_vote-14.mp3">
+		<caller>Lower voting age vote &#40;govt&#41;</caller>
+		<yes_button>Attend vote</yes_button>
+		<no_button>Miss vote</no_button>
+		<transcript>Just one more vote for the week&#46; It&#39;s very important though&#46; By lowering the voting age&#44; we would give young people across the UK more influence&#46; I expect you to be voting &#39;Aye&#39;&#46;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_ovote_14vote" thumbFilename="caller-01.jpg" mp3Filename="opp_vote-14.mp3">
+		<caller>Lower voting age vote &#40;opp&#41;</caller>
+		<yes_button>Attend vote</yes_button>
+		<no_button>Miss vote</no_button>
+		<transcript>You&#39;re almost through the week&#44; just one more vote&#46; The Government is trying to lower the voting age but we think the voting age is fine as it is&#46;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_gvote_subject" thumbFilename="caller-01.jpg" mp3Filename="govt_vote-15.mp3">
+		<caller>Generic vote on curriculum changes &#40;govt&#41;</caller>
+		<yes_button>Attend vote</yes_button>
+		<no_button>Miss vote</no_button>
+		<transcript>This evening&#39;s vote is on what students study in schools&#46; The Schools Bill would add a new subject to the school curriculum&#46; I expect you&#39;ll be there voting with the Government&#46;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_ovote_subject1" thumbFilename="caller-01.jpg" mp3Filename="opp_vote-15.mp3">
+		<caller>Generic vote on curriculum changes &#45; opposing govt &#40;opp&#41;</caller>
+		<yes_button>Attend vote</yes_button>
+		<no_button>Miss vote</no_button>
+		<transcript>We expect all Opposition MPs to be in the Commons Chamber tonight&#46; We&#39;re voting against the Government&#39;s plan to add a new subject to the school curriculum&#46;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_ovote_subject2" thumbFilename="caller-01.jpg" mp3Filename="opp_vote-15a.mp3">
+		<caller>Generic vote on curriculum changes &#45; supporting govt &#40;opp&#41;</caller>
+		<yes_button>Attend vote</yes_button>
+		<no_button>Miss vote</no_button>
+		<transcript>Tonight&#39;s vote is about the subjects students have to study&#46; The Government is planning to add a new subject to the school curriculum&#46; The Opposition has decided it&#39;s a good idea&#44; so we&#39;re supporting it&#46;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_gquestion_schools" thumbFilename="caller-01.jpg" mp3Filename="govt_question-02.mp3">
+		<caller>Education questions &#40;govt&#41;</caller>
+		<yes_button>Yes</yes_button>
+		<no_button>No</no_button>
+		<transcript>It&#39;s almost Question Time&#46; I believe you have an interest in schools&#63; Do you want to ask the Education Minister a question&#63;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_oquestion_schools" thumbFilename="caller-01.jpg" mp3Filename="opp_question-02.mp3">
+		<caller>Education questions &#40;opp&#41;</caller>
+		<yes_button>Yes</yes_button>
+		<no_button>No</no_button>
+		<transcript>It&#39;s almost Question Time&#46; I believe you have an interest in schools&#63; Do you want to ask the Education Minister a question&#63;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_gquestion_business" thumbFilename="caller-01.jpg" mp3Filename="govt_question-03.mp3">
+		<caller>Business questions &#40;govt&#41;</caller>
+		<yes_button>Yes</yes_button>
+		<no_button>No</no_button>
+		<transcript>It&#39;s nearly Question Time&#46; Today it&#39;s the Business Minister&#39;s turn to answer MPs&#46; Would you like to ask him a question in the Commons Chamber&#63;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_oquestion_business" thumbFilename="caller-01.jpg" mp3Filename="opp_question-03.mp3">
+		<caller>Business questions &#40;opp&#41;</caller>
+		<yes_button>Yes</yes_button>
+		<no_button>No</no_button>
+		<transcript>It&#39;s nearly Question Time&#46; Today it&#39;s the Business Minister&#39;s turn to answer MPs&#46; Would you like to ask him a question in the Commons Chamber&#63;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_gquestion_environ" thumbFilename="caller-01.jpg" mp3Filename="govt_question-04.mp3">
+		<caller>Environment questions &#40;govt&#41;</caller>
+		<yes_button>Yes</yes_button>
+		<no_button>No</no_button>
+		<transcript>The Environment Minister will be answering MPs&#39; questions at 3pm today&#46; Will you be going to the House of Commons Chamber&#63; Would you like to submit a question&#63;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_oquestion_environ" thumbFilename="caller-01.jpg" mp3Filename="opp_question-04.mp3">
+		<caller>Environment questions &#40;opp&#41;</caller>
+		<yes_button>Yes</yes_button>
+		<no_button>No</no_button>
+		<transcript>The Environment Minister will be answering MPs&#39; questions at 3pm today&#46; Will you be going to the House of Commons Chamber&#63; Would you like to submit a question&#63;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_gquestion_culture" thumbFilename="caller-01.jpg" mp3Filename="govt_question-05.mp3">
+		<caller>Culture questions &#40;govt&#41;</caller>
+		<yes_button>Yes</yes_button>
+		<no_button>No</no_button>
+		<transcript>Question Time is at 3pm&#46; Are you planning to ask the Culture Minister any questions&#63;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_oquestion_culture" thumbFilename="caller-01.jpg" mp3Filename="opp_question-05.mp3">
+		<caller>Culture questions &#40;opp&#41;</caller>
+		<yes_button>Yes</yes_button>
+		<no_button>No</no_button>
+		<transcript>Question Time is at 3pm&#46; Are you planning to ask the Culture Minister any questions&#63;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_gquestion_crime" thumbFilename="caller-01.jpg" mp3Filename="govt_question-06.mp3">
+		<caller>Crime and justice questions &#40;govt&#41;</caller>
+		<yes_button>Yes</yes_button>
+		<no_button>No</no_button>
+		<transcript>Question Time is at 3pm&#46; The Government Minister in charge of the Crime and Justice Department is in the Commons&#46; Are you thinking of submitting a question&#63;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_oquestion_crime" thumbFilename="caller-01.jpg" mp3Filename="opp_question-06.mp3">
+		<caller>Crime and justice questions &#40;opp&#41;</caller>
+		<yes_button>Yes</yes_button>
+		<no_button>No</no_button>
+		<transcript>Question Time is at 3pm&#46; The Government Minister in charge of the Crime and Justice Department is in the Commons&#46; Are you thinking of submitting a question&#63;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_gquestion_pmqs" thumbFilename="caller-01.jpg" mp3Filename="govt_question-07.mp3">
+		<caller>PMQs &#40;govt&#41;</caller>
+		<yes_button>Yes</yes_button>
+		<no_button>No</no_button>
+		<transcript>It&#39;s nearly time for PMQs &#45; Prime Minister&#39;s Questions&#46; It&#39;s one of the big events of the week &#45; everyone is going to be there&#46; Would you like to submit a question&#63;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_oquestion_pmqs" thumbFilename="caller-01.jpg" mp3Filename="opp_question-07.mp3">
+		<caller>PMQs &#40;opp&#41;</caller>
+		<yes_button>Yes</yes_button>
+		<no_button>No</no_button>
+		<transcript>It&#39;s nearly time for PMQs &#45; Prime Minister&#39;s Questions&#46; It&#39;s one of big events of the week &#45; everyone is going to be there&#46; Would you like to submit a question&#63;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_gquestion_global2" thumbFilename="caller-01.jpg" mp3Filename="govt_question-08.mp3">
+		<caller>Global Affairs questions &#45; level 2 &#40;govt&#41;</caller>
+		<yes_button>Yes</yes_button>
+		<no_button>No</no_button>
+		<transcript>Question Time starts at 3pm&#46; It&#39;s with the Global Affairs Minister today&#46; Have you considered submitting a question about the Mountie situation&#63;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_oquestion_global2" thumbFilename="caller-01.jpg" mp3Filename="opp_question-08.mp3">
+		<caller>Global Affairs questions &#45; level 2 &#40;opp&#41;</caller>
+		<yes_button>Yes</yes_button>
+		<no_button>No</no_button>
+		<transcript>Question Time starts at 3pm&#46; It&#39;s with the Global Affairs Minister today&#46; Have you considered submitting a question about the Mountie situation&#63;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_gquestion_global3" thumbFilename="caller-01.jpg" mp3Filename="govt_question-09.mp3">
+		<caller>Global Affairs questions &#45; level 3 &#40;govt&#41;</caller>
+		<yes_button>Yes</yes_button>
+		<no_button>No</no_button>
+		<transcript>It&#39;s almost Question Time&#46; The Global Affairs Minister is answering questions today&#46; I would expect the US&#45;Canada situation to come up&#46; Would you like to ask the Minister a question&#63;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_oquestion_global3" thumbFilename="caller-01.jpg" mp3Filename="opp_question-09.mp3">
+		<caller>Global Affairs questions &#45; level 3 &#40;opp&#41;</caller>
+		<yes_button>Yes</yes_button>
+		<no_button>No</no_button>
+		<transcript>It&#39;s almost Question Time&#46; The Global Affairs Minister is answering questions today&#46; I would expect the US&#45;Canada situation to come up&#46; Would you like to ask the Minister a question&#63;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_gquestion_schools2" thumbFilename="caller-01.jpg" mp3Filename="govt_question-10.mp3">
+		<caller>Education questions &#45; level 2 &#40;govt&#41;</caller>
+		<yes_button>Yes</yes_button>
+		<no_button>No</no_button>
+		<transcript>It&#39;s almost Question Time&#46; Do you have any questions for the Education Minister&#63; I hear some students have been causing a bit of a fuss in your constituency&#46;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_oquestion_schools2" thumbFilename="caller-01.jpg" mp3Filename="opp_question-10.mp3">
+		<caller>Education questions &#45; level 2 &#40;opp&#41;</caller>
+		<yes_button>Yes</yes_button>
+		<no_button>No</no_button>
+		<transcript>It&#39;s almost Question Time&#46; Do you have any questions for the Education Minister&#63; I hear some students have been causing a bit of a fuss in your constituency&#46;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_gquestion_business2" thumbFilename="caller-01.jpg" mp3Filename="govt_question-11.mp3">
+		<caller>Business questions &#45; level 2 &#40;govt&#41;</caller>
+		<yes_button>Yes</yes_button>
+		<no_button>No</no_button>
+		<transcript>Question Time starts at 3pm&#46; The Business Minister is in the House of Commons today&#46; Having read the papers&#44; I expect MPs will be asking about electric cars&#46; I know you have an interest in this topic so would you like to submit a question&#63;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_oquestion_business2" thumbFilename="caller-01.jpg" mp3Filename="opp_question-11.mp3">
+		<caller>Business questions &#45; level 2 &#40;opp&#41;</caller>
+		<yes_button>Yes</yes_button>
+		<no_button>No</no_button>
+		<transcript>Question Time starts at 3pm&#46; The Business Minister is in the House of Commons today&#46; Having read the papers&#44; I expect MPs will be asking about electric cars&#46; I know you have an interest in this topic so would you like to submit a question&#63;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_gquestion_environ3" thumbFilename="caller-01.jpg" mp3Filename="govt_question-12.mp3">
+		<caller>Environment questions &#45; level 3 &#40;govt&#41;</caller>
+		<yes_button>Yes</yes_button>
+		<no_button>No</no_button>
+		<transcript>The Environment Minister will be answering questions today at 3pm&#46; I hear you&#39;ve been having some peculiar frog problems in your constituency&#46; Would you like to take this chance to ask the Minister a question&#63;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_oquestion_environ3" thumbFilename="caller-01.jpg" mp3Filename="opp_question-12.mp3">
+		<caller>Environment questions &#45; level 3 &#40;opp&#41;</caller>
+		<yes_button>Yes</yes_button>
+		<no_button>No</no_button>
+		<transcript>The Environment Minister will be answering questions today at 3pm&#46; I hear you&#39;ve been having some peculiar frog problems in your constituency&#46; Would you like to take this chance to ask the Minister a question&#63;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_oquestion_oglobal" thumbFilename="caller-01.jpg" mp3Filename="opp_question-01a.mp3">
+		<caller>Global Affairs questions &#45; opp&#45;only generic</caller>
+		<yes_button>Yes</yes_button>
+		<no_button>No</no_button>
+		<transcript>Question Time is coming up at 3pm&#46; The questions will focus on Global Affairs in the House of Commons today&#46; The Minister will be explaining what his department has been doing on the world stage&#46; Are you planning to submit a question&#63;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_oquestion_oschools" thumbFilename="caller-01.jpg" mp3Filename="opp_question-02a.mp3">
+		<caller>Education questions &#45; opp&#45;only generic</caller>
+		<yes_button>Yes</yes_button>
+		<no_button>No</no_button>
+		<transcript>Would you like to submit a question for the Education Minister&#63; Question Time with is coming up&#46;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_oquestion_obusiness" thumbFilename="caller-01.jpg" mp3Filename="opp_question-03a.mp3">
+		<caller>Business questions &#45; opp&#45;only generic</caller>
+		<yes_button>Yes</yes_button>
+		<no_button>No</no_button>
+		<transcript>Question Time is coming up and the Business Minister is in the Commons Chamber&#46; Would you like to submit a question&#63;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_oquestion_oenviron" thumbFilename="caller-01.jpg" mp3Filename="opp_question-04a.mp3">
+		<caller>Environment questions &#45; opp&#45;only generic</caller>
+		<yes_button>Yes</yes_button>
+		<no_button>No</no_button>
+		<transcript>Question Time is coming up at 3pm&#46; It&#39;s the Environment Minister&#39;s turn today&#46; Do you have anything to ask her&#63;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_oquestion_oculture" thumbFilename="caller-01.jpg" mp3Filename="opp_question-05a.mp3">
+		<caller>Culture questions &#45; opp&#45;only generic</caller>
+		<yes_button>Yes</yes_button>
+		<no_button>No</no_button>
+		<transcript>It&#39;s nearly Question Time&#46; The Culture Minister is in the Commons today&#46; Are you planning to submit a question&#63;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_oquestion_opmqs" thumbFilename="caller-01.jpg" mp3Filename="opp_question-06a.mp3">
+		<caller>PMQs &#45; opp&#45;only generic</caller>
+		<yes_button>Yes</yes_button>
+		<no_button>No</no_button>
+		<transcript>It&#39;s almost time for Prime Minister&#39;s Questions&#46; Our party leader will be challenging the PM about how well the Government is being run&#46; If you&#39;re lucky&#44; you might get a chance to ask a question&#46; Would you like to submit one&#63;</transcript>
+	</phone_call>
+	<phone_call phone_callID="call_oquestion_ocrime" thumbFilename="caller-01.jpg" mp3Filename="opp_question-07a.mp3">
+		<caller>Crime and justice &#45; opp&#45;only generic</caller>
+		<yes_button>Yes</yes_button>
+		<no_button>No</no_button>
+		<transcript>Question Time begins at 3pm&#46; The Government Minister in charge of the Crime and Justice Department is in the Commons&#46; Are you going to submit a question&#63;</transcript>
+	</phone_call>
+</mp_phone_call>

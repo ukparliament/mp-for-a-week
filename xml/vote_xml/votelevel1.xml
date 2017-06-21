@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution PIVersion="1.0.0.0" href="https://lbi.lightbox-ed.com/projects/PES-MP_for_a_Week/1478/Shared%20Documents/Infopath%20Forms/PES-MP%20for%20a%20week-Vote.xsn" name="urn:schemas-microsoft-com:office:infopath:PES-MP-for-a-week-Vote:" language="en-gb" solutionVersion="1.0.0.14" productVersion="12.0.0" ?><?mso-application progid="InfoPath.Document"?><mp_vote xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/MP_for_a_week-Vote.xsd">
+	<vote voteID="vote001" interest="local" party="government">
+		<title>Homework Bill &#91;governing party&#93;</title>
+		<desc>It&#39;s a controversial proposal and many teachers in your constituency warned they would not support the Bill&#46;</desc>
+		<notes>Homework Bill&#58; this change to the law would extend the school day and abolish homework &#40;except for misbehaving students&#41;&#46;</notes>
+		<vote_for score_party="2" score_local="-1" score_media="0">
+				<feedback>Your party is happy&#46; The Bill has passed through the House of Commons&#46; Before it finally becomes a law however&#44; it must also be approved by the other House in Parliament&#44; the House of Lords&#46;</feedback>
+		</vote_for>
+		<vote_against score_party="-2" score_local="0" score_media="1">
+			
+			<feedback>The Bill had enough support to pass even without your vote&#46; Teachers were disappointed&#46; The Prime Minister and the Whip weren&#39;t happy with your little rebellion&#46;</feedback>
+		</vote_against>
+		<missed score_party="-3" score_local="-1" score_media="-1">
+			<feedback>You missed the vote on the Homework Bill&#46; The Government still won the vote&#44; but the Whip and the Prime Minister were not pleased&#46; Lucky for you&#44; your local press didn&#39;t notice that much&#46;</feedback>
+		</missed>
+	</vote>
+
+<vote voteID="vote002" interest="local" party="government">
+									<title>Busking Bill &#91;governing party&#93;</title>
+									<desc>This vote is a three&#45;line whip&#46; That means the Prime Minister and the Whip expect you to vote &#39;Aye&#39; in support of the Bill&#46;</desc>
+									<notes>Busking Bill&#58; the Government has suggested a law that would require all street performers across the UK to carry a license&#46;</notes>
+									<vote_for score_party="3" score_local="-1" score_media="0">
+										<feedback>So you followed the party line&#46; The Whip and your party were happy with your decision&#46; The Busking Bill passed into law&#46; A few buskers won&#39;t be able to afford the license though&#46;</feedback>
+									</vote_for>
+									<vote_against score_party="-3" score_local="1" score_media="0">
+										<feedback>So you weren&#39;t too keen on your party&#39;s plans&#44; eh&#63; Well&#44; the Whip wants to see you in her office&#46;</feedback>
+									</vote_against>
+									<missed score_party="-3" score_local="0" score_media="0">
+										<feedback>The Busking Bill passed through to the next stage&#46; Nevertheless&#44; the Government Whip wasn&#39;t happy you ditched the vote&#46;</feedback>
+									</missed>
+
+								</vote><vote voteID="vote003" interest="local" party="opposition">
+									<title>Mobiles in Public Bill &#91;opposition party&#93;</title>
+									<desc>The Government proposes most ideas for new laws&#46; A few backbench MPs also get a chance&#46; This Bill has been proposed by opposition backbencher Roy Barlow MP&#46;</desc>
+									<notes>Mobiles in Public Bill&#58; this new law would allow transport officials to ban the use of mobile phones on trains and buses&#46;</notes>
+									<vote_for score_party="1" score_local="1" score_media="0">
+										<feedback>Every Bill that goes through Parliament gets checked and goes through a lot of debates&#46; Even with your support&#44; Mr Barlow&#39;s Private Members&#39; Bill failed to even get past the first stage of becoming a law&#46;</feedback>
+									</vote_for>
+									<vote_against score_party="1" score_local="-1" score_media="0">
+										<feedback>You helped defeat Mr Barlow&#39;s Bill&#46; He wasn&#39;t happy&#44; but the Opposition Party never agreed to support a ban on mobiles on public transport&#46;</feedback>
+									</vote_against>
+									<missed score_party="0" score_local="-1" score_media="-1">
+										<feedback>You missed the vote on this Private Members&#39; Bill to ban mobile phone use on public transport&#46; It was defeated and so it won&#39;t become a law&#46; A fair number of your constituents thought it was a good idea though&#44; so you lost some support&#46;</feedback>
+									</missed>
+								</vote><vote voteID="vote004" interest="local" party="government">
+									<title>Mobiles in Public Bill &#91;governing party&#93;</title>
+									<desc>The Government proposes most ideas for new laws&#46; A few backbench MPs also get a chance&#46; This Bill has been proposed by opposition backbencher Roy Barlow MP&#46;</desc>
+									<notes>Mobiles in Public Bill&#58; this new law would allow transport officials to ban the use of mobile phones on trains and buses&#46;</notes>
+									<vote_for score_party="0" score_local="0" score_media="0">
+										<feedback>Every Bill that goes through Parliament gets checked and goes through a lot of debates&#46; Even with your support though&#44; Mr Barlow&#39;s Private Members&#39; Bill failed to even get past the first stage of becoming a law&#46;</feedback>
+									</vote_for>
+									<vote_against score_party="1" score_local="-2" score_media="0">
+										<feedback>You helped defeat Mr Barlow&#39;s Bill&#46; He wasn&#39;t happy&#44; but the governing party never agreed to support a ban on mobiles&#46;</feedback>
+									</vote_against>
+									<missed score_party="0" score_local="-1" score_media="0">
+										<feedback>You missed the vote on this Private Members&#39; Bill to ban mobile phone use on public transport&#46; It was defeated&#44; and so it won&#39;t become a law&#46; A fair number of your constituents thought it was a good idea though&#44; so you lost some support&#46;</feedback>
+									</missed>
+								</vote><vote voteID="vote005" interest="local" party="opposition">
+									<title>Homework Bill &#91;opposition party&#93;</title>
+									<desc>It&#39;s a controversial proposal&#46; The parents&#39; association in your constituency are convinced the Bill should be passed&#46;</desc>
+									<notes>Homework Bill&#58; this change to the law would extend the school day and abolish homework &#40;except for misbehaving students&#41;&#46;</notes>
+									<vote_for score_party="-2" score_local="0" score_media="0">
+										<feedback>You helped the Government pass the Bill&#46; However&#44; your party&#39;s leader &#45; the Leader of the Opposition &#45; was wondering if you know the definition of &#39;three&#45;line whip&#39;&#46; It means you &#42;will&#42; vote with the party&#46;</feedback>
+									</vote_for>
+									<vote_against score_party="1" score_local="0" score_media="0">
+										<feedback>The House of Commons has spoken&#46; The Homework Bill passed&#44; even without your support&#46; As the Opposition&#44; your party doesn&#39;t have enough MPs to outnumber all the governing party MPs&#46; Homework is now banned&#46;</feedback>
+									</vote_against>
+									<missed score_party="-2" score_local="0" score_media="0">
+										<feedback>You missed the vote on the Homework Bill&#46; The Government still won the vote because governing party MPs outnumber the MPs in your party&#46; The Whip was not pleased&#46;</feedback>
+									</missed>
+								</vote><vote voteID="vote006" interest="local" party="opposition">
+									<title>Busking Bill &#91;opposition party&#93;</title>
+									<desc>Your party objects to the cost of a license&#46; The Leader of the Opposition thinks the Government is picking on street performers&#46;</desc>
+									<notes>Busking Bill&#58; the Government has suggested a law that would require all street performers across the UK to carry a license&#46;</notes>
+									<vote_for score_party="-3" score_local="-1" score_media="0">
+										<feedback>So you weren&#39;t too keen on your party&#39;s plans&#44; eh&#63; The Whip wants to see you in his office&#46; You helped the Government pass the Bill&#44; which wasn&#39;t universally popular&#46; Some buskers can&#39;t afford the licence fee&#46;</feedback>
+									</vote_for>
+									<vote_against score_party="3" score_local="1" score_media="0">
+										<feedback>You followed the party line&#46; Even though the Government still won the vote&#44; the Whip is happy with your loyalty&#46;</feedback>
+									</vote_against>
+									<missed score_party="-2" score_local="0" score_media="0">
+										<feedback>The Busking Bill passed through to the next stage&#46; It&#39;s one step closer to becoming a new law or an Act of Parliament&#46; Nevertheless&#44; your Whip wasn&#39;t happy you ditched the vote&#46;</feedback>
+									</missed>
+								</vote></mp_vote>

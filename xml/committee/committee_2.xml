@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution PIVersion="1.0.0.0" href="https://lbi.lightbox-ed.com/projects/PES-MP_for_a_Week/1478/Shared%20Documents/Infopath%20Forms/PES-MP%20for%20a%20week-Committee.xsn" name="urn:schemas-microsoft-com:office:infopath:PES-MP-for-a-week-Committee:" language="en-gb" solutionVersion="1.0.0.24" productVersion="12.0.0" ?><?mso-application progid="InfoPath.Document"?><mp_committee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/MP_for_a_week-Committee.xsd">
+
+	<committee value_evidence="2" interest="global" party="neutral" value_views="2" committeeID="committee001" committeeDuration="4">
+		<title>Electric cars</title>
+		<notes>Should the Government be doing more to encourage people to drive non&#45;petrol cars&#63;</notes>
+		
+		
+		<witness value_evidence="1" value_views="1" avatarName="wit_17">
+			<name>MC Code</name>
+			<occupation>Rapper and filmmaker</occupation>
+			<background>Code is a famous rap musician turned filmmaker&#46; He has campaigned widely on environmental issues&#46;</background>
+		</witness><witness value_evidence="2" value_views="2" avatarName="wit_21">
+			<name>Amelia McAvoy MP</name>
+			<occupation>Environment Minister</occupation>
+			<background>Amelia&#44; in her role as a Government Minister&#44; proposes new rules to secure a healthy environment for the future&#46;</background>
+		</witness>
+		
+		
+		
+		<witness value_evidence="2" value_views="2" avatarName="wit_18">
+			<name>Teddy Tavistock</name>
+			<occupation>Green campaigner</occupation>
+			<background>Teddy is a campaigner for Global Green Friends&#46; His organisation is concerned with protecting the environment&#46;</background>
+		</witness><witness value_evidence="0" value_views="1" avatarName="wit_19">
+			<name>Rufus West</name>
+			<occupation>Footballer</occupation>
+			<background>Rufus has been the Premier League&#39;s top scorer for the past two seasons&#46;</background>
+		</witness><witness value_evidence="2" value_views="2" avatarName="wit_00">
+			<name>Jack Roberts</name>
+			<occupation>Business lobbyist</occupation>
+			<background>Jack represents the interests of UK businesses and industries&#44; including car making companies&#46;</background>
+		</witness>
+		<witness value_evidence="0" value_views="0" avatarName="wit_24">
+			<name>Professor Burgess</name>
+			<occupation>Director&#44; Natural Heritage UK</occupation>
+			<background>His organisation looks after the UK&#39;s most visited parks&#44; landscapes and old buildings&#46; </background>
+		</witness>
+		<witness value_evidence="-1" value_views="-1" avatarName="wit_02">
+			<name>Owen Mwandumbya</name>
+			<occupation>MP&#44; Tanzania</occupation>
+			<background>Owen is one of Africa&#39;s youngest politicians&#46; He is visiting London to meet with MPs and Lords in the UK&#46;</background>
+		</witness><witness value_evidence="2" value_views="2" avatarName="wit_08">
+			<name>Dave Gordon</name>
+			<occupation>Inventor</occupation>
+			<background>Dave has invented a gadget that makes electric cars easier and cheaper to produce&#46; He works for Flashpoint Motors&#46; </background>
+		</witness>
+		
+		<witness value_evidence="1" value_views="1" avatarName="wit_16">
+			<name>Lewis Franklin</name>
+			<occupation>Journalist</occupation>
+			<background>Lewis has written a couple of articles on the pros and cons of electric cars&#46;</background>
+		</witness>
+		
+		<witness value_evidence="2" value_views="2" avatarName="wit_03">
+			<name>Dr Lucy Totterdown</name>
+			<occupation>Climate scientist</occupation>
+			<background>Lucy is a scientist&#46; She is also an expert on the conflicting opinions about why the earth&#39;s temperature is rising&#46;</background>
+		</witness><witness value_evidence="1" value_views="1" avatarName="wit_22">
+			<name>Tarique Hussain MP</name>
+			<occupation>Business Minister</occupation>
+			<background>Tarique&#44; in his role as a Government Minister&#44; sets rules for business and gives support to companies&#46; This includes companies in the car industry&#46;</background>
+		</witness><witness value_evidence="2" value_views="2" avatarName="wit_11">
+									<name>Rafael Santos</name>
+									<occupation>Teacher&#44; world politics</occupation>
+									<background>Rafael is an expert on how the Brazilian Government has funded electric car technology&#46;</background>
+								</witness><witness value_evidence="-2" value_views="-1" avatarName="wit_15">
+									<name>Larry Lightbox</name>
+									<occupation>Music industry lobbyist</occupation>
+									<background>As a lobbyist Larry meets with ministers&#44; MPs and Lords on behalf of the British music industry&#46;</background>
+								</witness><witness value_evidence="2" value_views="2" avatarName="wit_07">
+									<name>Joanna Quinn</name>
+									<occupation>Traffic and road planner</occupation>
+									<background>Joanna is an expert in how to plan cities to deal with traffic congestion and air pollution&#46;</background>
+								</witness>
+		
+		
+		
+	<result targetsReached="0" score_party="-2" score_local="-1" score_media="-1">
+			<feedback>Hmm&#46;&#46;&#46; Did all of your witnesses really have relevant experience&#63; Double check your inquiry topic next time&#46;</feedback>
+		</result><result targetsReached="1" score_party="1" score_local="0" score_media="1">
+			<feedback>Your report got a bit of attention&#46; Some &#45;but not all &#45; of your witnesses gave helpful evidence&#46;</feedback>
+		</result><result targetsReached="2" score_party="2" score_local="1" score_media="2">
+			<feedback>Fantastic report&#46; The Environment and Business Ministers will have to take your recommendations seriously&#46;</feedback>
+		</result></committee>
+	<committee value_evidence="2" interest="local" party="neutral" value_views="2" committeeID="committee002" committeeDuration="4">
+		<title>Future of media</title>
+		<notes>An inquiry into the future of the media business&#44; including radio&#44; newspapers and television&#46;</notes>
+		<witness value_evidence="-1" value_views="-2" avatarName="wit_19">
+			<name>Rufus West</name>
+			<occupation>Footballer</occupation>
+			<background>Rufus is a Premier League football star&#46; He campaigns for better sports facilities for schools and youth clubs&#46;</background>
+		</witness>
+		
+		<witness value_evidence="2" value_views="2" avatarName="wit_01">
+			<name>Cedrick Jones MP</name>
+			<occupation>Culture Minister</occupation>
+			<background>Cedrick&#39;s Government Department promotes culture&#44; media&#44; sports and the arts across the UK&#46;</background>
+		</witness><witness value_evidence="-1" value_views="-1" avatarName="wit_20">
+			<name>Felicity</name>
+			<occupation>Lead vocals&#44; Electric Mayhem</occupation>
+			<background>Felicity&#39;s UK concert tour sold out in 8 minutes&#46;</background>
+		</witness>
+		<witness value_evidence="0" value_views="-1" avatarName="wit_06">
+			<name>Polly Butler</name>
+			<occupation>Culture and Arts Council</occupation>
+			<background>Polly&#39;s organisation receives money from the government to provide grants to promising cultural projects&#46;</background>
+		</witness>
+		<witness value_evidence="1" value_views="0" avatarName="wit_17">
+			<name>MC Code</name>
+			<occupation>Rapper and filmmaker</occupation>
+			<background>Code started a charity campaign that gives young people the opportunity to get into the music business&#46;</background>
+		</witness>
+		<witness value_evidence="0" value_views="1" avatarName="wit_13">
+			<name>Della Shoule</name>
+			<occupation>Theme park owner</occupation>
+			<background>Della is a successful businesswoman who made her fortune building up Tea Towers &#45; Britain&#39;s most popular theme park&#46;</background>
+		</witness>
+		<witness value_evidence="1" value_views="1" avatarName="wit_24">
+									<name>Professor Burgess</name>
+									<occupation>Director&#44; Natural Heritage UK</occupation>
+									<background>His organisation looks after the country&#39;s most visited parks&#44; landscapes and old buildings&#46;</background>
+								</witness><witness value_evidence="2" value_views="2" avatarName="wit_04">
+									<name>Lorna Lippman</name>
+									<occupation>Talk radio host</occupation>
+									<background>Lorna is the voice of several national and regional radio programmes&#44; including &#39;Politics Today&#39; and &#39;Movies Today&#39;&#46;</background>
+								</witness><witness value_evidence="-1" value_views="-1" avatarName="wit_08">
+									<name>Dave Gordon</name>
+									<occupation>Car engineer</occupation>
+									<background>Dave works for Flashpoint Motors&#46; His favourite radio show is Politics Today&#46;</background>
+								</witness><witness value_evidence="2" value_views="2" avatarName="wit_10">
+									<name>Robert Magneight</name>
+									<occupation>Media investor</occupation>
+									<background>Mr Magneight is a millionaire&#46; He owns several local newspapers and radio stations around the UK&#46;</background>
+								</witness><witness value_evidence="2" value_views="2" avatarName="wit_14">
+			<name>Joseph Allen</name>
+			<occupation>Union organiser</occupation>
+			<background>Joseph represents workers in Britain&#39;s biggest trade union&#46; It has thousands of members&#44; including many journalists working in radio and news&#46;</background>
+		</witness><witness value_evidence="2" value_views="2" avatarName="wit_22">
+			<name>Tarique Hussain MP</name>
+			<occupation>Business Minister</occupation>
+			<background>The Business Department sets rules that affect much of the media industry&#44; including advertisers and small media companies&#46;</background>
+		</witness>
+		
+		
+		
+	<witness value_evidence="2" value_views="2" avatarName="wit_16">
+		<name>Lewis Franklin</name>
+		<occupation>Journalist</occupation>
+		<background>Franklin is a senior reporter for an evening newspaper&#46; He has worked for The Evening Star for 25 years&#46;</background>
+		</witness><result targetsReached="0" score_party="-2" score_local="-1" score_media="-1">
+			<feedback>Hmm&#46;&#46;&#46; Did all of your witnesses really have relevant experience&#63; Double check your inquiry topic next time&#46;</feedback>
+		</result><result targetsReached="1" score_party="1" score_local="0" score_media="1">
+			<feedback>Your report got a bit of attention&#46; Some &#45;but not all &#45; of your witnesses gave helpful evidence&#46;</feedback>
+		</result><result targetsReached="2" score_party="2" score_local="1" score_media="2">
+			<feedback>Fantastic report&#46; The Culture and Business ministers will have to take your recommendations seriously&#46;</feedback>
+		</result></committee>
+	<committee value_evidence="2" interest="finance" party="neutral" value_views="2" committeeID="committee003" committeeDuration="4">
+		<title>More world trade&#63;</title>
+		<notes>An inquiry into the costs and benefits for the UK of trading with other countries&#46; Should the government change its policy&#63;</notes>
+		
+		
+		<witness value_evidence="2" value_views="2" avatarName="wit_00">
+			<name>Jack Roberts</name>
+			<occupation>Business lobbyist</occupation>
+			<background>Jack represents the interests of UK businesses&#46; He speaks on their behalf with MPs&#44; about how international agreements affect the UK economy&#46;</background>
+		</witness>
+		<witness value_evidence="1" value_views="1" avatarName="wit_22">
+									<name>Tarique Hussain</name>
+									<occupation>Business Minister</occupation>
+									<background>Tarique is the top minister in the Government&#39;s Business Department&#46; He tries to keep the UK economy growing and prosperous&#46;</background>
+								</witness>
+		<witness value_evidence="1" value_views="2" avatarName="wit_11">
+									<name>Rafael Santos</name>
+									<occupation>Teacher&#44; world politics</occupation>
+									<background>Rafael is an expert on the various effects of world trade agreements on the developing world&#46;</background>
+								</witness><witness value_evidence="2" value_views="2" avatarName="wit_05">
+			<name>Charlie Curtis MP</name>
+			<occupation>Global Affairs Minister</occupation>
+			<background>Charlie negotiates international treaties for the UK Government&#46; He works with other world governments to agree the rules of world trade&#46;</background>
+		</witness>
+		
+		<witness value_evidence="-1" value_views="-1" avatarName="wit_10">
+									<name>Robert Magneight</name>
+									<occupation>Media investor</occupation>
+									<background>Mr Magneight is a successful businessman&#46; He made his fortune in newspapers and radio and now invests in the stock market&#46;</background>
+								</witness><witness value_evidence="1" value_views="2" avatarName="wit_12">
+			<name>Baroness Fenton</name>
+			<occupation>Former diplomat</occupation>
+			<background>Fenton used to be the UK&#39;s ambassador to the United Nations&#44; and has worked on projects dealing with different global problems&#46;</background>
+		</witness><witness value_evidence="0" value_views="0" avatarName="wit_19">
+			<name>Rufus West</name>
+			<occupation>Footballer</occupation>
+			<background>Rufus led the Premier League in scoring the past two seasons&#46;</background>
+		</witness><witness value_evidence="0" value_views="0" avatarName="wit_01">
+			<name>Cedrick Jones MP</name>
+			<occupation>Culture Minister</occupation>
+			<background>Cedrick&#39;s Government Department promotes culture&#44; media&#44; sports and the arts across the UK&#46;</background>
+		</witness><witness value_evidence="1" value_views="2" avatarName="wit_03">
+			<name>Dr Lucy Totterdown</name>
+			<occupation>Climate scientist</occupation>
+			<background>Lucy is a scientist and expert on conflicting opinions about why the earth&#39;s temperature is rising&#46;</background>
+		</witness><witness value_evidence="0" value_views="0" avatarName="wit_06">
+			<name>Polly Butler</name>
+			<occupation>Culture and Arts Council</occupation>
+			<background>Polly&#39;s organisation receives money from the Government to provide grants to promising cultural projects&#46;</background>
+		</witness><witness value_evidence="2" value_views="2" avatarName="wit_14">
+			<name>Joseph Allen</name>
+			<occupation>Union organiser</occupation>
+			<background>Joseph represents thousands of workers in Britain&#39;s biggest trade union&#46; Many workers have been affected by businesses moving overseas&#46;</background>
+		</witness>
+		
+		
+		
+	<result targetsReached="0" score_party="-2" score_local="-1" score_media="-1">
+			<feedback>Hmm&#46;&#46;&#46; Did all of your witnesses really have relevant experience&#63; Double check your inquiry topic next time&#46;</feedback>
+		</result><result targetsReached="1" score_party="1" score_local="0" score_media="1">
+			<feedback>Your report got a bit of attention&#46; Some &#45;but not all &#45; of your witnesses gave helpful evidence&#46;</feedback>
+		</result><result targetsReached="2" score_party="2" score_local="1" score_media="2">
+			<feedback>Fantastic report&#46; The Business and Global Affairs Ministers will have to take your recommendations seriously&#46;</feedback>
+		</result></committee>
+</mp_committee>

@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution PIVersion="1.0.0.0" href="https://lbi.lightbox-ed.com/projects/PES-MP_for_a_Week/1478/Shared%20Documents/Infopath%20Forms/PES-MP%20for%20a%20week-Speech.xsn" name="urn:schemas-microsoft-com:office:infopath:PES-MP-for-a-week-Speech:" language="en-gb" solutionVersion="1.0.0.13" productVersion="12.0.0" ?><?mso-application progid="InfoPath.Document"?>
+
+<mp_speech xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/MP_for_a_week-Speech.xsd">
+
+	<speech interest="local" speechID="speech001" party="government">
+		<title>Vote at 14</title>
+		<notes>The Government has proposed lowering the voting age to 14&#46; The opposition party thinks it&#39;s fine at 18&#46; What do you think&#63;</notes>
+		<clip clipType="start" points="1" jpgFilename="speech-01.jpg" mp3Filename="vote_speech302-01.mp3">
+			<text>[open] Mr Speaker&#46; Many politicians have been saying that at 14 years&#45;old a British citizen is too young to vote&#46; I disagree&#46; Here&#39;s why&#46;&#46;&#46;</text>
+		</clip>
+		<clip clipType="start" points="-1" jpgFilename="speech-01.jpg" mp3Filename="vote_speech302-02.mp3">
+			<text>[open] Mr Speaker&#46; Many politicians have been saying that at 14 years&#45;old&#44; a British citizen is too young to vote&#46; I agree&#46; Here&#39;s why&#46;&#46;&#46;</text>
+		</clip>
+		<clip clipType="start" points="0" jpgFilename="speech-01.jpg" mp3Filename="vote_speech302-18.mp3">
+			<text>[open] Mr Speaker&#46; Before I talk about lowering the voting age&#44; I&#39;d like to share a quick story from my recent family vacation&#46;</text>
+		</clip>
+		<clip mp3Filename="vote_speech302-03.mp3" jpgFilename="speech-01.jpg" clipType="main" points="1">
+			<text>[middle] We hear politicians say they want to listen to the views of young people&#46; Isn&#39;t the best way of doing this to give them a vote&#63;</text>
+		</clip>
+		<clip clipType="main" points="1" jpgFilename="speech-01.jpg" mp3Filename="vote_speech302-07.mp3">
+			<text>[middle] Maturity matters most&#44; not age&#46; I know many 14 and 15 year&#45;olds who are more mature than some 18 year&#45;olds&#46;</text>
+		</clip>
+		<clip clipType="main" points="1" jpgFilename="speech-01.jpg" mp3Filename="vote_speech302-08.mp3">
+			<text>[middle] Is the case against lowering the voting age really strong enough&#63; Is it strong enough to deny millions of British citizens this fundamental human right &#45; the right to vote&#63;</text>
+		</clip>
+		<clip clipType="main" points="1" jpgFilename="speech-01.jpg" mp3Filename="vote_speech302-11.mp3">
+			<text>[middle] Many 14 year&#45;olds pay tax&#46; They should have a say in how that tax money is spent and collected&#46;</text>
+		</clip>
+		<clip mp3Filename="vote_speech302-12.mp3" jpgFilename="speech-01.jpg" clipType="main" points="1">
+			<text>[middle] It is said young people already have ways of giving their opinions&#46; Yes&#44; young people can write to their MP and they can sign a petition&#46; So why can&#39;t they vote&#63; Without a vote&#44; they are easily ignored by politicians&#46;</text>
+		</clip>
+		<clip mp3Filename="vote_speech302-14.mp3" jpgFilename="speech-01.jpg" clipType="end" points="1">
+			<text>[close] The arguments against lowering the voting age could apply to any age&#46; There is no special reason it has to be eighteen&#46; I say&#44; let&#39;s show confidence in our young people and have the courage to give them a say in how they are governed&#46;</text>
+		</clip>
+		<clip mp3Filename="vote_speech302-20.mp3" jpgFilename="speech-01.jpg" clipType="main" points="-1">
+			<text>[middle] The Government says 14 year&#45;olds should be able to vote because they pay taxes&#46; Six and seven year&#45;olds pay tax when they buy sweets&#44; should they get the vote too&#63;</text>
+		</clip>
+		<clip mp3Filename="vote_speech302-21.mp3" jpgFilename="speech-01.jpg" clipType="main" points="-1">
+			<text>[middle] Over 140 countries have a voting age of 18&#46; Surely they don&#39;t all have it wrong&#63;</text>
+		</clip>
+		<clip mp3Filename="vote_speech302-22.mp3" jpgFilename="speech-01.jpg" clipType="main" points="-1">
+			<text>[middle] 14 year&#45;olds are not mature enough to vote&#46; Most live at home&#44; go to school and rely on their parents&#46; At 18 they&#39;ll be more independent&#44; more mature&#46;</text>
+		</clip>
+		<clip mp3Filename="vote_speech302-25.mp3" jpgFilename="speech-01.jpg" clipType="main" points="-1">
+			<text>[middle] Having lots of opinions at election time has to be balanced against having responsible voters&#46;</text>
+		</clip>
+		<clip mp3Filename="vote_speech302-28.mp3" jpgFilename="speech-01.jpg" clipType="main" points="-1">
+			<text>[middle] There are many ways young people can have their voice heard without voting&#44; they can write to their MP&#44; sign petitions or write to the newspaper&#46;</text>
+		</clip>
+		<clip mp3Filename="vote_speech302-29.mp3" jpgFilename="speech-01.jpg" clipType="end" points="-1">
+			<text>[close] And so lowering the voting age would be a risky move&#46; Let&#39;s not overload young people with such a big responsibility before they are mature enough to handle it&#46;</text>
+		</clip>
+		
+		<result pointsReached="-5" score_party="-1" score_local="0" score_media="2">
+			<feedback>So you went against the party&#46; It was still a great speech&#46;</feedback>
+		</result>		
+		<result pointsReached="-4" score_party="-2" score_local="0" score_media="0">
+			<feedback>You rebel&#33;</feedback>
+		</result>
+		<result pointsReached="-3" score_party="-2" score_local="0" score_media="0">
+			<feedback>You rebel&#33;</feedback>
+		</result>
+		<result pointsReached="-2" score_party="-2" score_local="0" score_media="0">
+			<feedback>Your speech was kind of muddled &#45; are you against lowering the voting age or aren&#39;t you&#63;</feedback>
+		</result>
+		<result pointsReached="-1" score_party="-2" score_local="0" score_media="0">
+			<feedback>Your speech was kind of muddled &#45; are you against lowering the voting age or aren&#39;t you&#63;</feedback>
+		</result>
+		<result pointsReached="0" score_party="-2" score_local="0" score_media="0">
+			<feedback>Your speech was kind of muddled &#45; are you against lowering the voting age or aren&#39;t you&#63;</feedback>
+		</result>
+		<result pointsReached="1" score_party="-1" score_local="0" score_media="0">
+			<feedback>Your speech was kind of muddled &#45; are you for lowering the voting age or aren&#39;t you&#63;</feedback>
+		</result>
+		<result pointsReached="2" score_party="-1" score_local="0" score_media="0">
+			<feedback>Your speech was kind of muddled &#45; are you for lowering the voting age or aren&#39;t you&#63;</feedback>
+		</result>
+		<result pointsReached="3" score_party="1" score_local="0" score_media="0">
+			<feedback>Pretty good speech&#46; Did all your points support the Government though&#63;</feedback>
+		</result>
+		<result pointsReached="4" score_party="1" score_local="0" score_media="0">
+			<feedback>Solid performance&#46; Most of your points supported the Government&#39;s plan to lower the voting age&#46;</feedback>
+		</result>
+		<result pointsReached="5" score_party="2" score_local="0" score_media="2">
+			<feedback>The party was pleased to get your support for lowering the voting age&#46; Your powerful speech made the papers too&#46;</feedback>
+		</result>
+	</speech>
+	
+	<speech interest="local" speechID="speech002" party="opposition">
+		<title>Vote at 14</title>
+		<notes>The Government has proposed lowering the voting age to 14&#46; The opposition party thinks it is fine at 18&#46; What do you think&#63;</notes>
+		<clip clipType="start" points="1" jpgFilename="speech-01.jpg" mp3Filename="vote_speech302-01.mp3">
+			<text>[open] Mr Speaker&#46; Many politicians have been saying that at 14 years&#45;old&#44; a British citizen is too young to vote&#46; I disagree&#46; Here&#39;s why&#46;&#46;&#46;</text>
+		</clip>
+		<clip clipType="start" points="-1" jpgFilename="speech-01.jpg" mp3Filename="vote_speech302-02.mp3">
+			<text>[open] Mr Speaker&#46; Many politicians have been saying that at 14 years&#45;old&#44; a British citizen is too young to vote&#46; I agree&#46; Here&#39;s why&#46;&#46;&#46;</text>
+		</clip>
+		<clip clipType="main" points="0" jpgFilename="speech-01.jpg" mp3Filename="vote_speech302-18.mp3">
+			<text>[middle] We hear politicians say they want to listen to the views of young people&#46; Isn&#39;t the best way of doing this to give them a vote&#63;</text>
+		</clip>
+		<clip mp3Filename="vote_speech302-03.mp3" jpgFilename="speech-01.jpg" clipType="main" points="1">
+			<text>[middle] We hear politicians say they want to listen to the views of young people&#46; Isn&#39;t the best way of doing this to give them a vote&#63;</text>
+		</clip>
+		<clip clipType="main" points="1" jpgFilename="speech-01.jpg" mp3Filename="vote_speech302-07.mp3">
+			<text>[middle] Maturity matters most&#44; not age&#46; I know many 14 and 15 year&#45;olds who are more mature than some 18 year&#45;olds&#46;</text>
+		</clip>
+		<clip clipType="main" points="1" jpgFilename="speech-01.jpg" mp3Filename="vote_speech302-08.mp3">
+			<text>[middle] Is the case against lowering the voting age really strong enough&#63; Is it strong enough to deny millions of British citizens this fundamental human right – the right to vote&#63;</text>
+		</clip>
+		<clip clipType="main" points="1" jpgFilename="speech-01.jpg" mp3Filename="vote_speech302-11.mp3">
+			<text>[middle] Many 14 year&#45;olds pay tax&#46; They should have a say in how that tax money is spent and collected&#46;</text>
+		</clip>
+		<clip mp3Filename="vote_speech302-12.mp3" jpgFilename="speech-01.jpg" clipType="main" points="1">
+			<text>[middle] It is said young people already have ways of giving their opinions&#46; Yes&#44; young people can write to their MP and they can sign a petition&#46; So why can&#39;t they vote&#63; Without a vote&#44; they are easily ignored by politicians&#46;</text>
+		</clip>
+		<clip mp3Filename="vote_speech302-14.mp3" jpgFilename="speech-01.jpg" clipType="end" points="1">
+			<text>[close] The arguments against lowering the voting age could apply to any age&#46; There is no special reason it has to be 18&#46; I say&#44; let&#39;s show confidence in our young people and have the courage to give them a say in how they are governed&#46;</text>
+		</clip>
+		<clip mp3Filename="vote_speech302-20.mp3" jpgFilename="speech-01.jpg" clipType="main" points="-1">
+			<text>[middle] The Government says 14 year&#45;olds should be able to vote because they pay taxes&#46; Six and seven year&#45;olds pay tax when they buy sweets&#44; should they get the vote too&#63;</text>
+		</clip>
+		<clip mp3Filename="vote_speech302-21.mp3" jpgFilename="speech-01.jpg" clipType="main" points="-1">
+			<text>[middle] Over 140 countries have a voting age of 18&#46; Surely they don&#39;t all have it wrong&#63;</text>
+		</clip>
+		<clip mp3Filename="vote_speech302-22.mp3" jpgFilename="speech-01.jpg" clipType="main" points="-1">
+			<text>[middle] 14 year&#45;olds are not mature enough to vote&#46; Most live at home&#44; go to school and rely on their parents&#46; At 18 they&#39;ll be more independent&#44; more mature&#46;</text>
+		</clip>
+		<clip mp3Filename="vote_speech302-25.mp3" jpgFilename="speech-01.jpg" clipType="main" points="-1">
+			<text>[middle] Having lots of opinions at election time has to be balanced against having responsible voters&#46;</text>
+		</clip>
+		<clip mp3Filename="vote_speech302-28.mp3" jpgFilename="speech-01.jpg" clipType="main" points="-1">
+			<text>[middle] There are many ways young people can have their voice heard without voting&#44; they can write to their MP&#44; sign petitions or write to the newspaper&#46;</text>
+		</clip>
+		<clip mp3Filename="vote_speech302-29.mp3" jpgFilename="speech-01.jpg" clipType="end" points="-1">
+			<text>[close] And so lowering the voting age would be a risky move&#46; Let&#39;s not overload young people with such a big responsibility before they are mature enough to handle it&#46;</text>
+		</clip>
+		<result pointsReached="-5" score_party="-1" score_local="0" score_media="2">
+			<feedback>So you went against the party&#46; It was still a great speech&#46;</feedback>
+		</result>
+		<result pointsReached="-4" score_party="-2" score_local="0" score_media="0">
+			<feedback>You rebel&#33; </feedback>
+		</result>
+		<result pointsReached="-3" score_party="-2" score_local="0" score_media="0">
+			<feedback>You rebel&#33;</feedback>
+		</result>
+		<result pointsReached="-2" score_party="-2" score_local="0" score_media="0">
+			<feedback>Your speech was kind of muddled &#45; are you for lowering the voting age or aren&#39;t you&#63;</feedback>
+		</result>
+		<result pointsReached="-1" score_party="-2" score_local="0" score_media="0">
+			<feedback>Your speech was kind of muddled &#45; are you for lowering the voting age or aren&#39;t you&#63;</feedback>
+		</result>
+		<result pointsReached="0" score_party="-2" score_local="0" score_media="0">
+			<feedback>Your speech was kind of muddled &#45; are you for lowering the voting age or aren&#39;t you&#63;</feedback>
+		</result>
+		<result pointsReached="1" score_party="-1" score_local="0" score_media="0">
+			<feedback>Your speech was kind of muddled &#45; are you against lowering the voting age or aren&#39;t you&#63;</feedback>
+		</result>
+		<result pointsReached="2" score_party="-1" score_local="0" score_media="0">
+			<feedback>Your speech was kind of muddled &#45; are you against lowering the voting age or aren&#39;t you&#63;</feedback>
+		</result>
+		<result pointsReached="3" score_party="1" score_local="0" score_media="0">
+			<feedback>Pretty good speech&#46; Did all your points oppose the Government though&#63;</feedback>
+		</result>
+		<result pointsReached="4" score_party="1" score_local="0" score_media="0">
+			<feedback>Solid performance&#46; Most of your points opposed the Government&#39;s plan to lower the voting age&#46;</feedback>
+		</result>
+		<result pointsReached="5" score_party="2" score_local="0" score_media="2">
+			<feedback>The party was pleased you argued against lowering the voting age&#46; Your powerful speech made the papers too&#46;</feedback>
+		</result></speech>
+		
+	<speech interest="global" speechID="speech003" party="government">
+		<title>International aid</title>
+		<notes>Boost your party points &#45; help the Government by giving a speech defending its policy of giving aid to poor countries&#46;</notes>
+		<clip clipType="start" points="1" jpgFilename="speech-01.jpg" mp3Filename="aid_speech301-01.mp3">
+			<text>[open] Thank you Mr Speaker&#46; Hundreds of millions of people around the world live on less than two pounds a day&#46; So it&#39;s very important the British Government continues to give aid to poor countries&#46;</text>
+		</clip>
+		<clip clipType="start" points="-1" jpgFilename="speech-01.jpg" mp3Filename="aid_speech301-02.mp3">
+			<text>[open] Mr Speaker&#46; This debate calls for a well&#45;prepared speech&#46; I&#39;m afraid mine does not fall into that category&#46;</text>
+		</clip>
+		<clip clipType="main" points="1" jpgFilename="speech-01.jpg" mp3Filename="aid_speech301-03.mp3">
+			<text>[middle] Helping poor countries helps us as well&#46; The UK benefits when all the world&#39;s countries are well&#45;off and secure&#46;</text>
+		</clip>
+		<clip mp3Filename="aid_speech301-04.mp3" jpgFilename="speech-01.jpg" clipType="main" points="1">
+			<text>[middle] Giving money to developing countries is in our interest&#46; The gap between the rich and poor is increasing&#46; That can&#39;t be good for world peace&#46;</text>
+		</clip>
+		<clip clipType="main" points="1" jpgFilename="speech-01.jpg" mp3Filename="aid_speech301-05.mp3">
+			<text>[middle] I agree the Government must get better at making sure money goes to those who need it most&#44; but this is not a reason to stop giving aid&#46;</text>
+		</clip>
+		<clip clipType="main" points="1" jpgFilename="speech-01.jpg" mp3Filename="aid_speech301-06.mp3">
+			<text>[middle] Millions of people are alive today because of foreign aid&#46; This is the most important fact to remember&#46;</text>
+		</clip>
+		<clip clipType="main" points="1" jpgFilename="speech-01.jpg" mp3Filename="aid_speech301-07.mp3">
+			<text>[middle] Giving money to poor countries has not always worked perfectly&#46; But we should not forget the success stories&#44; like the elimination of small pox and the spread of literacy&#46;</text>
+		</clip>
+		<clip mp3Filename="aid_speech301-08.mp3" jpgFilename="speech-01.jpg" clipType="main" points="0">
+			<text>[middle] The Oxford Dictionary defines &#39;foreign aid&#39; as&#58; money&#44; food or resources given or lent by one country to another country&#46;</text>
+		</clip>
+		<clip mp3Filename="aid_speech301-09.mp3" jpgFilename="speech-01.jpg" clipType="main" points="1">
+			<text>[middle] Why give aid&#63; Because thousands die every day from preventable diseases&#46; Because tens of millions of children don&#39;t get to go to primary school&#46; Because it is right&#46;</text>
+		</clip>
+		<clip mp3Filename="aid_speech301-10.mp3" jpgFilename="speech-01.jpg" clipType="main" points="-1">
+			<text>[middle] Aid doesn&#39;t work&#46; Look&#44; experts say so&#46; Poor countries are getting poorer&#46;</text>
+		</clip>
+		<clip mp3Filename="aid_speech301-11.mp3" jpgFilename="speech-01.jpg" clipType="main" points="1">
+			<text>[middle] Cutting aid is easy to talk about&#59; there are not many of you sitting here today who could imagine needing it to survive&#46;</text>
+		</clip>
+		<clip mp3Filename="aid_speech301-12.mp3" jpgFilename="speech-01.jpg" clipType="main" points="1">
+			<text>[middle] Foreign aid is far from perfect&#46; But without it&#44; millions of people will die unnecessarily&#44; and millions more will slip further into poverty&#46;</text>
+		</clip>
+		<clip mp3Filename="aid_speech301-13.mp3" jpgFilename="speech-01.jpg" clipType="end" points="1">
+			<text>[close] Aid has not failed&#46; Millions of people are alive today because of it&#46;</text>
+		</clip>
+		<clip mp3Filename="aid_speech301-14.mp3" jpgFilename="speech-01.jpg" clipType="end" points="1">
+			<text>[close] So we must pledge our best efforts to help people the world over who are struggling to break the bonds of mass misery&#46; If a global society cannot help the many who are poor&#44; it cannot save the few who are rich&#46;</text>
+		</clip>
+		<clip mp3Filename="aid_speech301-15.mp3" jpgFilename="speech-01.jpg" clipType="end" points="-1">
+			<text>[close] So that&#39;s it&#46; What did you think&#63; Was my speech convincing&#63;</text>
+		</clip>
+		<result pointsReached="0" score_party="-3" score_local="0" score_media="0">
+			<feedback>Are you feeling OK&#63; Other MPs were quite confused by your speech&#46; Your points were all mixed up&#46;</feedback>
+		</result>
+		<result pointsReached="1" score_party="-2" score_local="0" score_media="0">
+			<feedback>Not the greatest speech ever heard in the House of Commons&#46; Check all your points support the argument you&#39;re trying to make&#46;</feedback>
+		</result>
+		<result pointsReached="2" score_party="1" score_local="0" score_media="0">
+			<feedback>Not the greatest speech ever heard in the House of Commons&#46; Did all your points support the Government&#39;s view&#63;</feedback>
+		</result>
+		<result pointsReached="3" score_party="2" score_local="1" score_media="0">
+			<feedback>Solid performance&#46; You made quite a good case for maintaining international aid&#46;</feedback>
+		</result>
+		<result pointsReached="4" score_party="3" score_local="1" score_media="1">
+			<feedback>Great speech&#46; You supported your party brilliantly&#46; Very convincing&#46;</feedback>
+		</result>
+	</speech>
+
+	<speech speechID="speech004" interest="global" party="opposition">
+		<title>Enough with aid</title>
+		<notes>Your party&#39;s view is giving money and aid to other countries is admirable&#44; but it doesn&#39;t work&#46; Give a convincing speech supporting the party line&#46;</notes>
+		
+		<clip mp3Filename="aid_speech301-16.mp3" jpgFilename="speech-01.jpg" clipType="start" points="1">
+			<text>[open] Mr Speaker&#46; Hundreds of millions of people around the world live on less than two pounds a day&#46; Foreign aid though&#44; as a way of lifting countries out of poverty&#44; has a poor track record&#46; It should be abandoned&#46;</text>
+		</clip>
+		<clip mp3Filename="aid_speech301-17.mp3" jpgFilename="speech-01.jpg" clipType="start" points="-1">
+			<text>[open] Mr Speaker&#46; Can you guess what I&#39;m going to talk about&#63; Go on&#46; Have a guess&#46;&#46;&#46;</text>
+		</clip>
+		<clip mp3Filename="aid_speech301-18.mp3" jpgFilename="speech-01.jpg" clipType="start" points="-1">
+			<text>[open] Mr Speaker&#46; I&#39;ve got to say I didn&#39;t think I&#39;d be this nervous about giving a speech in the House of Commons&#46;</text>
+		</clip>
+		<clip mp3Filename="aid_speech301-19.mp3" jpgFilename="speech-01.jpg" clipType="main" points="1">
+			<text>[middle] Giving money to poor countries often doesn&#39;t help&#44; and sometimes has negative effects&#46; A lot of aid is either wasted or squandered by corrupt politicians&#46;</text>
+		</clip>
+		<clip mp3Filename="aid_speech301-20.mp3" jpgFilename="speech-01.jpg" clipType="main" points="1">
+			<text>[middle] Giving money to a country often encourages people to be lazy&#46; Giving less money will help people to work harder to overcome their problems&#46;</text>
+		</clip>
+		<clip mp3Filename="aid_speech301-21.mp3" jpgFilename="speech-01.jpg" clipType="main" points="-1">
+			<text>[middle] We must continue to give money to poor countries&#46; I believe we have a moral duty to help people who are suffering serious poverty and disease&#46;</text>
+		</clip>
+		<clip mp3Filename="aid_speech301-22.mp3" jpgFilename="speech-01.jpg" clipType="main" points="1">
+			<text>[middle] It is not a question of whether we want to help the world&#39;s poor&#44; of course we do&#46; It is a question of whether giving money in this way actually helps&#46;</text>
+		</clip>
+		<clip mp3Filename="aid_speech301-23.mp3" jpgFilename="speech-01.jpg" clipType="main" points="1">
+			<text>[middle] Those who support giving money to poor countries make a crucial mistake&#46; They think aid will help countries become more prosperous&#46; Statistics show this isn&#39;t the case&#46;</text>
+		</clip>
+		<clip mp3Filename="aid_speech301-24.mp3" jpgFilename="speech-01.jpg" clipType="main" points="0">
+			<text>[middle] Not only are there experts in Britain saying foreign aid doesn&#39;t work&#44; experts in the countries we are trying to help say the exact same thing&#33;</text>
+		</clip>
+		<clip mp3Filename="aid_speech301-25.mp3" jpgFilename="speech-01.jpg" clipType="main" points="0">
+			<text>[middle] It is a waste of taxpayers&#39; money&#46; More money could be spent on hospitals and schools in the UK&#46;</text>
+		</clip>
+		<clip mp3Filename="aid_speech301-26.mp3" jpgFilename="speech-01.jpg" clipType="main" points="1">
+			<text>[middle] It is difficult to make sure money gets to those who need it most&#46; All too often foreign aid is simply the transfer of money from poor people in rich countries to rich people in poor countries&#46;</text>
+		</clip>
+		<clip mp3Filename="aid_speech301-27.mp3" jpgFilename="speech-01.jpg" clipType="end" points="-1">
+			<text>[close] So&#44; as I was saying&#44; we shouldn&#39;t be giving money to poor countries because&#46;&#46;&#46; well&#44; we just shouldn&#39;t&#46;</text>
+		</clip>
+		<clip mp3Filename="aid_speech301-28.mp3" jpgFilename="speech-01.jpg" clipType="end" points="1">
+			<text>[close] Foreign aid has a bad record and it has harmed the very people it means to help&#46; It is high time we do the one thing we can do to help&#58; stop&#46;</text>
+		</clip>
+		<result pointsReached="0" score_party="-3" score_local="0" score_media="0">
+			<feedback>Are you feeling OK&#63; Other MPs were quite confused by your speech&#46; Your points were all mixed up&#46;</feedback>
+		</result>
+		<result pointsReached="1" score_party="-2" score_local="0" score_media="0">
+			<feedback>Not the greatest speech ever heard in the House of Commons&#46; Check all your points support the argument you&#39;re trying to make&#46;</feedback>
+		</result>
+		<result pointsReached="2" score_party="1" score_local="0" score_media="0">
+			<feedback>Not the greatest speech ever heard in the House of Commons&#46; Did all your points oppose the Government&#39;s view&#63;</feedback>
+		</result>
+		<result pointsReached="3" score_party="2" score_local="1" score_media="0">
+			<feedback>Solid performance&#46; You made quite a good case that foreign aid isn&#39;t working&#46;</feedback>
+		</result>
+		<result pointsReached="4" score_party="3" score_local="1" score_media="1">
+			<feedback>Great speech&#46; You supported your party brilliantly&#46; Very convincing&#46;</feedback>
+		</result>
+	</speech>
+		
+	<speech speechID="speech005" interest="finance" party="government">
+		<title>It&#39;s criminal&#46;&#46;&#46;</title>
+		<notes>The governing and opposition parties disagree&#46; The Government supports helping prisoners reform&#46; The Opposition thinks punishing criminals is most important&#46; What do you think&#63;</notes>
+		<clip mp3Filename="prison_speech300-02.mp3" jpgFilename="speech-01.jpg" clipType="start" points="0">
+			<text>[open] Mr Speaker&#46; I&#39;m very pleased to be able to speak in this debate on prison sentences&#44; I&#39;ve always wanted to say &#45; throw the book at &#39;em&#46;</text>
+		</clip>
+			
+		<clip mp3Filename="prison_speech300-03.mp3" jpgFilename="speech-01.jpg" clipType="main" points="1">
+			<text>[middle] Let&#39;s face it&#44; everyone doesn&#39;t get the same chances in life&#46; Many criminals don&#39;t freely choose a life of crime&#44; but are pushed by their circumstances&#46;</text>
+		</clip>
+		<clip mp3Filename="prison_speech300-07.mp3" jpgFilename="speech-01.jpg" clipType="main" points="1">
+			<text>[middle] Crime researchers at Portcullis University say prisoners can change&#46; Research shows helping criminals to reform can lower reoffending by 10&#37;&#46;</text>
+		</clip>
+		<clip mp3Filename="prison_speech300-08.mp3" jpgFilename="speech-01.jpg" clipType="main" points="0">
+			<text>[middle] For those who refuse to change&#44; I say&#44; lock them up and throw away the key&#33;</text>
+		</clip>
+		<clip mp3Filename="prison_speech300-10.mp3" jpgFilename="speech-01.jpg" clipType="main" points="1">
+			<text>[middle] A criminal who breaks society&#39;s rules should be punished&#46; But what&#39;s wrong with encouraging criminals to change their behaviour&#63;</text>
+		</clip>
+		<clip mp3Filename="prison_speech300-11.mp3" jpgFilename="speech-01.jpg" clipType="end" points="1">
+			<text>[close] And so I support the Government in trying to convince criminals to turn their lives around&#46; Why&#63; Because it&#39;s the mark of a caring society&#46;</text>
+		</clip>
+		<clip mp3Filename="prison_speech300-12.mp3" jpgFilename="speech-01.jpg" clipType="start" points="1">
+			<text>[open] Mr Speaker&#46; The best way to deal with crime in our society is to hand out punishments that help criminals change their ways&#46;</text>
+		</clip>
+		<clip mp3Filename="prison_speech300-13.mp3" jpgFilename="speech-01.jpg" clipType="start" points="-1">
+			<text>[open] Mr Speaker&#46; The only good punishment is one that fits the crime&#46; Sentences have one purpose&#44; to punish&#44; pure and simple&#46;</text>
+		</clip>
+		<clip mp3Filename="prison_speech300-16.mp3" jpgFilename="speech-01.jpg" clipType="main" points="0">
+			<text>[middle] Tough punishment&#46; It always works in the movies&#46; On that basis&#44; by my reckoning&#44; it should also work in real life&#46;</text>
+		</clip>
+		<clip mp3Filename="prison_speech300-18.mp3" jpgFilename="speech-01.jpg" clipType="main" points="-1">
+			<text>[middle] I have to disagree with many of my party colleagues on this&#46; I do believe criminals should always pay the full penalty for their misdeeds&#46;</text>
+		</clip>
+		<clip mp3Filename="prison_speech300-20.mp3" jpgFilename="speech-01.jpg" clipType="main" points="-1">
+			<text>[middle] Most times an effort to change a criminal&#39;s way of thinking doesn&#39;t work&#46; National crime statistics show a huge majority of criminals reoffend&#46;</text>
+		</clip>
+		<clip mp3Filename="prison_speech300-21.mp3" jpgFilename="speech-01.jpg" clipType="main" points="-1">
+			<text>[middle] It&#39;s true&#44; many criminals come from difficult backgrounds&#46; But those criminals make a personal choice to break the rules&#46;</text>
+		</clip>
+		<clip mp3Filename="prison_speech300-25.mp3" jpgFilename="speech-01.jpg" clipType="main" points="-1">
+			<text>[middle] Think of the victims of crime&#46; A fair punishment must respect the rights of those who suffer at the hands of criminals&#46;</text>
+		</clip>
+		<clip mp3Filename="prison_speech300-27.mp3" jpgFilename="speech-01.jpg" clipType="main" points="-1">
+			<text>[middle] The purpose of punishment is not to help a person change for the better&#46; Punishment is payback for doing wrong&#46;</text>
+		</clip>
+		<clip mp3Filename="prison_speech300-30.mp3" jpgFilename="speech-01.jpg" clipType="main" points="0">
+			<text>[middle] On prison sentencing&#44; I say this to the Government&#44; that catchy pop band &#39;Four On The Floor&#39; belong behind bars&#46; They&#39;ve only gone and stolen our hearts&#33;</text>
+		</clip>
+		<clip mp3Filename="prison_speech300-31.mp3" jpgFilename="speech-01.jpg" clipType="end" points="-1">
+			<text>[close] And so I urge the Government to toughen its approach to sentencing criminals&#46; Forget about trying to improve society&#44; if the guilty are not punished&#44; justice is not done&#46;</text>
+		</clip>
+		<result pointsReached="-5" score_party="-1" score_local="0" score_media="2">
+			<feedback>So you went against the party&#46; It was still a great speech&#46;</feedback>
+		</result>
+		<result pointsReached="-4" score_party="-2" score_local="0" score_media="0">
+			<feedback>You rebel&#33;</feedback>
+		</result>
+		<result pointsReached="-3" score_party="-2" score_local="0" score_media="0">
+			<feedback>You rebel&#33;</feedback>
+		</result>
+		<result pointsReached="-2" score_party="-2" score_local="0" score_media="0">
+			<feedback>Your speech was kind of muddled &#45; are you pro&#45;punishment or aren&#39;t you&#63;</feedback>
+		</result>
+		<result pointsReached="-1" score_party="-2" score_local="0" score_media="0">
+			<feedback>Your speech was kind of muddled &#45; are you pro&#45;punishment or aren&#39;t you&#63;</feedback>
+		</result>
+		<result pointsReached="0" score_party="-2" score_local="0" score_media="0">
+			<feedback>Your speech was kind of muddled &#45; are you pro&#45;punishment or aren&#39;t you&#63;</feedback>
+		</result>
+		<result pointsReached="1" score_party="-1" score_local="0" score_media="0">
+			<feedback>Your speech was kind of muddled &#45; are you for helping prisoners reform or aren&#39;t you&#63;</feedback>
+		</result>
+		<result pointsReached="2" score_party="-1" score_local="0" score_media="0">
+			<feedback>Your speech was kind of muddled &#45; are you for helping prisoners reform or aren&#39;t you&#63;</feedback>
+		</result>
+		<result pointsReached="3" score_party="1" score_local="0" score_media="0">
+			<feedback>Pretty good speech&#46; Did all your points support the Government though&#63;</feedback>
+		</result>
+		<result pointsReached="4" score_party="1" score_local="0" score_media="0">
+			<feedback>Solid performance&#46; Most of your points supported the Government&#39;s view&#46;</feedback>
+		</result>
+		<result pointsReached="5" score_party="2" score_local="0" score_media="2">
+			<feedback>The party was pleased to get your support for helping prisoners reform&#46; Your powerful speech made the papers too&#46;</feedback>
+		</result>
+	</speech>
+	
+	<speech speechID="speech006" interest="finance" party="opposition">
+		<title>The criminal mind</title>
+		<notes>The governing and opposition parties disagree&#46; The Government supports helping prisoners reform&#46; The Opposition thinks punishing criminals is most important&#46; What do you think&#63;</notes>
+		<clip mp3Filename="prison_speech300-02.mp3" jpgFilename="speech-01.jpg" clipType="start" points="0">
+			<text>[open] Mr Speaker&#46; I&#39;m very pleased to be able to speak in this debate on prison sentences&#44; I&#39;ve always wanted to say&#44; throw the book at &#39;em&#46;</text>
+		</clip>
+		<clip mp3Filename="prison_speech300-03.mp3" jpgFilename="speech-01.jpg" clipType="main" points="-1">
+			<text>[middle] Let&#39;s face it&#44; everyone doesn&#39;t get the same chances in life&#46; Many criminals don&#39;t freely choose a life of crime&#44; but are pushed by their circumstances&#46;</text>
+		</clip>
+		<clip mp3Filename="prison_speech300-07.mp3" jpgFilename="speech-01.jpg" clipType="main" points="-1">
+			<text>[middle] Crime researchers at Portcullis University say prisoners can change&#46; Research shows helping criminals to reform can lower reoffending by 10&#37;&#46;</text>
+		</clip>
+		<clip mp3Filename="prison_speech300-08.mp3" jpgFilename="speech-01.jpg" clipType="main" points="0">
+			<text>[middle] For those who refuse to change&#44; I say&#44; lock them up and throw away the key&#33;</text>
+		</clip>
+		<clip mp3Filename="prison_speech300-10.mp3" jpgFilename="speech-01.jpg" clipType="main" points="-1">
+			<text>[middle] A criminal who breaks society&#39;s rules should be punished&#46; But what&#39;s wrong with encouraging criminals to change their behaviour&#63;</text>
+		</clip>
+		<clip mp3Filename="prison_speech300-11.mp3" jpgFilename="speech-01.jpg" clipType="end" points="-1">
+			<text>[close] And so I support the Government in trying to convince criminals to turn their lives around&#46; Why&#63; Because it&#39;s the mark of a caring society&#46;</text>
+		</clip>
+		<clip mp3Filename="prison_speech300-12.mp3" jpgFilename="speech-01.jpg" clipType="start" points="-1">
+			<text>[open] Mr Speaker&#46; The best way to deal with crime in our society is to hand out punishments that help criminals change their ways&#46;</text>
+		</clip>
+		<clip mp3Filename="prison_speech300-13.mp3" jpgFilename="speech-01.jpg" clipType="start" points="1">
+			<text>[open] Mr Speaker&#46; The only good punishment is one that fits the crime&#46; Sentences have one purpose&#44; to punish&#44; pure and simple&#46;</text>
+		</clip>
+		<clip mp3Filename="prison_speech300-16.mp3" jpgFilename="speech-01.jpg" clipType="main" points="0">
+			<text>[middle] Tough punishment&#46; It always works in the movies&#46; On that basis&#44; by my reckoning&#44; it should also work in real life&#46;</text>
+		</clip>
+		<clip mp3Filename="prison_speech300-18.mp3" jpgFilename="speech-01.jpg" clipType="main" points="-1">
+			<text>[middle] I have to disagree with many of my party colleagues&#46; I do believe in trying to change criminals for the better&#46;</text>
+		</clip>
+		<clip mp3Filename="prison_speech300-20.mp3" jpgFilename="speech-01.jpg" clipType="main" points="1">
+			<text>[middle] Most times an effort to change a criminal&#39;s way of thinking doesn&#39;t work&#46; National crime statistics show a huge majority of criminals reoffend&#46;</text>
+		</clip>
+		<clip mp3Filename="prison_speech300-21.mp3" jpgFilename="speech-01.jpg" clipType="main" points="1">
+			<text>[middle] It&#39;s true&#44; many criminals come from difficult backgrounds&#46; But those criminals make a personal choice to break the rules&#46;</text>
+		</clip>
+		<clip mp3Filename="prison_speech300-25.mp3" jpgFilename="speech-01.jpg" clipType="main" points="1">
+			<text>[middle] Think of the victims of crime&#46; A fair punishment must respect the rights of those who suffer at the hands of criminals&#46;</text>
+		</clip>
+		<clip mp3Filename="prison_speech300-27.mp3" jpgFilename="speech-01.jpg" clipType="main" points="1">
+			<text>[middle] The purpose of punishment is not to help a person change for the better&#46; Punishment is payback for doing wrong&#46;</text>
+		</clip>
+		<clip mp3Filename="prison_speech300-30.mp3" jpgFilename="speech-01.jpg" clipType="main" points="0">
+			<text>[middle] On prison sentencing&#44; I say this to the Government&#44; that catchy pop band &#39;Four On The Floor&#39; belong behind bars&#46; They&#39;ve only gone and stolen our hearts&#33;</text>
+		</clip>
+		<clip mp3Filename="prison_speech300-31.mp3" jpgFilename="speech-01.jpg" clipType="end" points="1">
+			<text>[close] And so I urge the Government to toughen its approach to sentencing criminals&#46; Forget about trying to improve society&#44; if the guilty are not punished&#44; justice is not done&#46;</text>
+		</clip>
+		<result pointsReached="5" score_party="-1" score_local="0" score_media="2">
+			<feedback>So you went against the party&#46; Great speech&#44; though&#46;&#46;&#46;</feedback>
+		</result>
+		<result pointsReached="4" score_party="-2" score_local="0" score_media="0">
+			<feedback>You rebel&#33;</feedback>
+		</result>
+		<result pointsReached="3" score_party="-2" score_local="0" score_media="0">
+			<feedback>You rebel&#33;</feedback>
+		</result>
+		<result pointsReached="2" score_party="-2" score_local="0" score_media="0">
+			<feedback>Your speech was kind of muddled &#45; are you for or against helping criminals reform&#63;</feedback>
+		</result>
+		<result pointsReached="1" score_party="-2" score_local="0" score_media="0">
+			<feedback>Your speech was kind of muddled &#45; are you for or against helping criminals reform&#63;</feedback>
+		</result>
+		<result pointsReached="0" score_party="-2" score_local="0" score_media="0">
+			<feedback>Your speech was kind of muddled &#45; are you against helping criminals reform or aren&#39;t you&#63;</feedback>
+		</result>
+		<result pointsReached="-1" score_party="-1" score_local="0" score_media="0">
+			<feedback>Your speech was kind of muddled &#45; are you against helping criminals reform or aren&#39;t you&#63;</feedback>
+		</result>
+		<result pointsReached="-2" score_party="-1" score_local="0" score_media="0">
+			<feedback>Your speech was kind of muddled &#45; are you against helping criminals reform or aren&#39;t you&#63;</feedback>
+		</result>
+		<result pointsReached="3" score_party="1" score_local="0" score_media="0">
+			<feedback>Pretty good speech&#46; Did all your points oppose the Government though&#63;</feedback>
+		</result>
+		<result pointsReached="4" score_party="1" score_local="0" score_media="0">
+			<feedback>Solid performance&#46; Most of your points opposed the Government&#39;s view&#46;</feedback>
+		</result>
+		<result pointsReached="-5" score_party="2" score_local="0" score_media="2">
+			<feedback>The party was pleased you argued in favour of tough punishment for criminals&#46; Your powerful speech made the papers&#44; you&#39;re quite a good speechmaker&#46;</feedback>
+		</result>
+	</speech>
+</mp_speech>

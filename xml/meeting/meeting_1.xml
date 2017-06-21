@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution PIVersion="1.0.0.0" href="https://lbi.lightbox-ed.com/projects/PES-MP_for_a_Week/1478/Shared%20Documents/Infopath%20Forms/PES-MP%20for%20a%20week-Meeting.xsn" name="urn:schemas-microsoft-com:office:infopath:PES-MP-for-a-week-Meeting:" language="en-gb" solutionVersion="1.0.0.18" productVersion="12.0.0" ?><?mso-application progid="InfoPath.Document"?><mp_meeting xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/MP_for_a_week-meeting.xsd">
+	<meeting meetingID="meeting000" interest="local" party="neutral" meetingIcon="constituency" meetingDuration="4" meetingLocation="constituency">
+		<title>Test drive Flashpoint&#39;s Electro&#45;go&#63;</title>
+		<subtitle>Constituency</subtitle>
+		<desc>Engineers at a successful car factory have invited you to test drive their newest electric car&#46; Flashpoint Motors are launching their latest model &#45; the Electro&#45;go&#46; If you choose to attend&#44; however&#44; you&#39;ll miss the live broadcast of the Crime and Justice Minister&#39;s statement on prison sentencing&#46; Want to get behind the wheel&#63;</desc>
+		<attendee>Flashpoint Motors</attendee>
+		<attend score_party="0" score_local="2" score_media="0">
+			<feedback>Wow&#46; You saw some great things at Flashpoint&#46; And you were able to get a recording of the Minister&#39;s prison statement&#46;</feedback>
+		</attend>
+		<ignore score_party="0" score_local="-2" score_media="0">
+			<feedback>Not interested in Flashpoint&#39;s newest ride&#63; OK then&#46; The Minister&#39;s statement on prisons wasn&#39;t anything you hadn&#39;t heard before&#46;</feedback>
+		</ignore>
+	</meeting>
+	<meeting meetingID="meeting001" interest="local" party="neutral" meetingIcon="parliament" meetingDuration="2" meetingLocation="parliament">
+		<title>Speak to year 4 students about MP life&#63;</title>
+		<subtitle>Parliament</subtitle>
+		<desc>You&#39;ve been invited to speak to a school from your constituency&#46; St James&#39;s Primary School&#39;s year 4 class is visiting Parliament for the day&#46; If you choose to meet them you won&#39;t have time to prepare for your next Environment Committee Inquiry&#46; Will you attend&#63;</desc>
+		<attendee>St James&#39;s Primary School</attendee>
+		<attend score_party="-2" score_local="2" score_media="0">
+			<feedback>The students enjoyed your talk and learned a lot&#46; You&#39;ll have to wing it at your committee meeting though&#46;</feedback>
+		</attend>
+		<ignore score_party="2" score_local="-2" score_media="0">
+			<feedback>The students were disappointed&#44; but you were prepared for your committee&#46;</feedback>
+		</ignore>
+	</meeting>
+	<meeting meetingID="meeting002" interest="local" party="neutral" meetingIcon="constituency" meetingDuration="4" meetingLocation="constituency">
+		<title>Meet your constituents&#63;</title>
+		<subtitle>Constituency</subtitle>
+		<desc>Would you like to hold a constituency surgery&#63; Surgeries give your constituents the chance to talk with you in person about their concerns and problems&#46; It&#39;s time consuming though&#46; You could answer many more constituent letters in the same time it takes to hold a surgery&#46; Will you attend&#63;</desc>
+		<attendee>Constituency surgery</attendee>
+		<attend score_party="1" score_local="2" score_media="0">
+			<feedback>Your constituents were glad to get your advice and help&#46; Holding constituency surgeries each week is an important part of an MP&#39;s job&#46;</feedback>
+		</attend>
+		<ignore score_party="-2" score_local="-4" score_media="0">
+			<feedback>Not every constituent can be dealt with by letter&#46; You disappointed a whole queue of people&#46;</feedback>
+		</ignore>
+	</meeting>
+	<meeting meetingID="meeting003" interest="none" party="neutral" meetingIcon="parliament" meetingDuration="2" meetingLocation="parliament">
+		<title>Comment on minister&#39;s statement&#63;</title>
+		<subtitle>Parliament</subtitle>
+		<desc>A reporter for a national newspaper wants to speak to you about a statement made in the House of Commons today&#46; Maggie Brown is looking for your view on the Environment Minister&#39;s speech on climate change&#46; You weren&#39;t able to listen to the Minister&#39;s statement&#44; but you&#39;re familiar with the Government&#39;s ideas&#46; Will you attend the interview&#63;</desc>
+		<attendee>Maggie Brown</attendee>
+		<attend score_party="-2" score_local="0" score_media="-2">
+			<feedback>Ah&#44; that was tricky&#33; The Minister&#39;s statement included some new ideas you&#39;d not heard before&#46;</feedback>
+		</attend>
+		<ignore score_party="0" score_local="0" score_media="-1">
+			<feedback>You disappointed Ms&#46; Brown by turning her down&#46; However&#44; the Minister&#39;s statement included some new ideas you&#39;d not heard before so you might have been made to look silly&#46;</feedback>
+		</ignore>
+	</meeting>
+	<meeting meetingID="meeting004" interest="local" party="neutral" meetingIcon="constituency" meetingDuration="2" meetingLocation="constituency">
+		<title>Feature in The Evening Star&#63;</title>
+		<subtitle>Constituency</subtitle>
+		<desc>A reporter from your constituency&#39;s main newspaper would like to interview you&#46; Lewis Franklin wants to feature the article in next Monday&#39;s Evening Star&#46; It&#39;s a good opportunity to let constituents know about your work in Parliament&#44; then again&#44; Lewis has a reputation for being a grumpy and unpredictable reporter&#46; Will you meet with him&#63;</desc>
+		<attendee>Lewis Franklin&#44; The Evening Star</attendee>
+		<attend score_party="0" score_local="2" score_media="2">
+			<feedback>Lewis wrote a lot about your recent activities in Parliament&#46; The local press is a good channel for MPs to communicate with their constituents&#46;</feedback>
+		</attend>
+		<ignore score_party="-1" score_local="-2" score_media="-2">
+			<feedback>Lewis wasn&#39;t able to write a big feature&#46; But he did write an opinion article&#46; He said your party hadn&#39;t been doing much for the constituency lately&#46;</feedback>
+		</ignore>
+	</meeting>
+	<meeting meetingID="meeting005" interest="local" party="neutral" meetingIcon="constituency" meetingDuration="4" meetingLocation="constituency">
+		<title>Open an arts fair&#63;</title>
+		<subtitle>Constituency</subtitle>
+		<desc>A local arts group has invited you to open a craft fair&#46; Your constituency is well known for its artistic community&#46; The Artists for Artists annual craft fair is being held at the local Community Centre &#45; would you like to attend&#63;</desc>
+		<attendee>Hugh McMillan&#44; Artists for Artists</attendee>
+		<attend score_party="0" score_local="1" score_media="2">
+			<feedback>All your artsy constituents enjoyed your opening remarks&#46; A picture of you buying a painting made The Evening Star front page&#46;</feedback>
+		</attend>
+		<ignore score_party="0" score_local="-2" score_media="-1">
+			<feedback>So an arts fair isn&#39;t your thing&#63; Fair enough&#46; It&#39;s not everyone&#39;s cup of tea&#46; But the event&#39;s host was disappointed and you missed some easy media coverage&#46;</feedback>
+		</ignore>
+	</meeting>
+	<meeting meetingID="meeting006" interest="local" party="neutral" meetingIcon="constituency" meetingDuration="4" meetingLocation="constituency">
+		<title>Doorstep on Hawley Street&#63;</title>
+		<subtitle>Constituency</subtitle>
+		<desc>Would you like to go door&#45;to&#45;door meeting constituents&#63; The personal touch can go a long way with constituents&#44; but going around neighbourhoods is time consuming&#46; If you decline you&#39;ll save time &#45; and you could make a few calls to help a prominent businessman&#44; Barry Brolly&#44; also from your constituency&#46;</desc>
+		<attendee>Constituents</attendee>
+		<attend score_party="0" score_local="3" score_media="0">
+			<feedback>Hawley Street is one of the poorest areas in your constituency&#46; The residents were glad to share their many concerns&#46;</feedback>
+		</attend>
+		<ignore score_party="0" score_local="-1" score_media="0">
+			<feedback>You decided to make a few calls for Barry Brolly&#44; the umbrella maker&#46; Too bad &#45; you just got voicemail&#46;</feedback>
+		</ignore>
+	</meeting>
+	<meeting meetingID="meeting007" interest="local" party="neutral" meetingIcon="constituency" meetingLocation="constituency" meetingDuration="4">
+		<title>Front row concert seats&#63;</title>
+		<subtitle>Constituency</subtitle>
+		<desc>A major UK charity has asked you to attend a fundraising concert in your constituency&#46; Catchy pop band &#39;Four On The Floor&#39; will headline the outdoor event in aid of the National Centre for the Blind&#46; If you choose to attend&#44; you&#39;ll have to cancel a meeting with Councillor Friedman&#44; one of your constituency&#39;s local councillors&#46;</desc>
+		<attendee>National Centre for the Blind</attendee>
+		<attend score_party="0" score_local="2" score_media="1">
+			<feedback>You were given an extra ticket which you offered to Councillor Friedman&#46; You both met lots of people and even got your picture in the paper&#46;</feedback>
+		</attend>
+		<ignore score_party="0" score_local="-2" score_media="0">
+			<feedback>Your meeting with Councillor Friedman wasn&#39;t so productive&#46; He couldn&#39;t believe you turned down tickets to see Four on the Floor&#46;</feedback>
+		</ignore>
+	</meeting>
+	<meeting meetingID="meeting008" interest="none" party="neutral" meetingIcon="constituency" meetingLocation="constituency" meetingDuration="2">
+		<title>Tour Wedderburn Park Mosque&#63;</title>
+		<subtitle>Constituency</subtitle>
+		<desc>An imam has invited you to tour the biggest mosque in your constituency&#46; Imam Ahmed Khan of Wedderburn Park Mosque would like to show you around and invite the local press&#46; To attend you&#39;ll have to cancel your hair appointment with Julius&#44; your hairdresser&#46; Will you attend&#63;</desc>
+		<attendee>Imam Ahmed Khan</attendee>
+		<attend score_party="0" score_local="1" score_media="1">
+			<feedback>A picture of your visit made the local papers and Imam Ahmed Khan made a positive statement about you to the press&#46;</feedback>
+		</attend>
+		<ignore score_party="0" score_local="-2" score_media="-1">
+			<feedback>Julius did a great job on your hair &#45; but you missed a chance to meet with your constituents&#46;</feedback>
+		</ignore>
+	</meeting>
+	<meeting meetingID="meeting009" interest="local" party="government" meetingIcon="parliament" meetingLocation="parliament" meetingDuration="2">
+		<title>Protect the blue&#45;beaked whistlewing&#63;</title>
+		<subtitle>Parliament</subtitle>
+		<desc>An Opposition party MP wants to get your support for his Early Day Motion&#46; An Early Day Motion is like a special petition that only MPs can sign&#46; Roy Barlow would like you to sign your name to his motion arguing for greater protection of the blue&#45;beaked whistlewing&#44; a rare bird found in your area of the country&#46; Will you meet with him to sign his motion&#63;</desc>
+		<attendee>Roy Barlow MP</attendee>
+		<attend score_party="0" score_local="2" score_media="1">
+			<feedback>Roy was pleased you added your signature&#46; And so were the nature lovers in your constituency&#46;</feedback>
+		</attend>
+		<ignore score_party="0" score_local="-1" score_media="-1">
+			<feedback>Nature lovers in your constituency wondered why you didn&#39;t support Roy&#39;s motion&#46;</feedback>
+		</ignore>
+	</meeting>
+<meeting meetingID="meeting010" interest="global" party="opposition" meetingIcon="parliament" meetingLocation="parliament" meetingDuration="2">
+									<title>Praising army and navy</title>
+									<subtitle>Parliament</subtitle>
+									<desc>A governing party MP wants to get your support for her Early Day Motion&#46; An Early Day Motion is like a special petition that only MPs can sign&#46; Lauren Bailey would like you to sign your name to her motion praising the courage of UK troops serving overseas&#46; Will you meet with her to sign her motion&#63;</desc>
+									<attendee>Lauren Bailey MP</attendee>
+									<attend score_party="1" score_local="1" score_media="1">
+										<feedback>You were both able to publicly praise the bravery of the UK troops&#46;</feedback>
+									</attend>
+									<ignore score_party="-2" score_local="0" score_media="0">
+										<feedback>Lauren got over 300 signatures from other MPs&#44; including many in your party&#46; They were all able to publicly praise the bravery of the troops&#46;</feedback>
+									</ignore>
+								</meeting><meeting meetingID="meeting011" interest="global" party="opposition" meetingIcon="parliament" meetingLocation="parliament" meetingDuration="2">
+									<title>Tanzanian MP visits London</title>
+									<subtitle>Parliament</subtitle>
+									<desc>One of Africa&#39;s youngest politicians would like to talk to you about climate change&#46; Owen is an MP from Tanzania and he&#39;s in London to find out how the UK is tackling global warming&#46; As a member of the Environment Committee you have some experience in this area&#46; To meet Owen though&#44; you&#39;ll have to give up your weekly swim&#46;</desc>
+									<attendee>Owen Mwandumbya</attendee>
+									<attend score_party="1" score_local="0" score_media="0">
+										<feedback>Owen found you very knowledgeable&#46; Because your committee checks on what the Government is doing about climate change&#44; you had a lot you could share&#46;</feedback>
+									</attend>
+									<ignore score_party="-2" score_local="0" score_media="0">
+										<feedback>You swam 10 lengths&#44; better than last week&#46; Owen found another member of the Environment Committee to meet with &#45; an MP from the governing party&#33;</feedback>
+									</ignore>
+								</meeting><meeting meetingID="meeting012" interest="local" party="opposition" meetingIcon="parliament" meetingLocation="parliament" meetingDuration="2">
+									<title>Protect the blue&#45;beaked whistlewing&#63;</title>
+									<subtitle>Parliament</subtitle>
+									<desc>Another Opposition party MP wants to get your support for his Early Day Motion&#46; An Early Day Motion is like a special petition that only MPs can sign&#46; Roy Barlow would like you to sign your name to his motion arguing for greater protection of the blue&#45;beaked whistlewing&#44; a rare bird found in your area of the country&#46; Will you meet with him&#63;</desc>
+									<attendee>Roy Barlow MP</attendee>
+									<attend score_party="1" score_local="2" score_media="1">
+										<feedback>Roy was pleased you added your signature&#46; And so were the nature lovers in your constituency&#46;</feedback>
+									</attend>
+									<ignore score_party="0" score_local="0" score_media="0">
+										<feedback>The blue&#45;beak motion wasn&#39;t that interesting to most MPs&#46; Roy only got about 10 signatures in total&#46;</feedback>
+									</ignore>
+								</meeting><meeting meetingID="meeting013" interest="global" party="government" meetingIcon="parliament" meetingLocation="parliament" meetingDuration="2">
+									<title>Praising army and navy</title>
+									<subtitle>Parliament</subtitle>
+									<desc>Another governing party MP wants to get your support for her Early Day Motion&#46; An Early Day Motion is like a special petition that only MPs can sign&#46; Lauren Bailey would like you to sign your name to her motion praising the courage of UK troops serving overseas&#46; Will you attend&#63;;</desc>
+									<attendee>Lauren Bailey MP</attendee>
+									<attend score_party="2" score_local="1" score_media="1">
+										<feedback>Lauren was pleased that you added your signature&#46; Just by raising the issue you and Lauren were able to publicly praise the bravery of the UK troops&#46;</feedback>
+									</attend>
+									<ignore score_party="-2" score_local="0" score_media="0">
+										<feedback>Lauren was disappointed you didn&#39;t want to meet&#46; She got over 300 signatures from other MPs&#44; including many in your party&#46; They were all able to publicly praise the bravery of the troops&#46;</feedback>
+									</ignore>
+								</meeting><meeting meetingID="meeting014" interest="none" party="neutral" meetingIcon="parliament" meetingLocation="parliament" meetingDuration="2">
+									<title>Post office campaign</title>
+									<subtitle>Parliament</subtitle>
+									<desc>A reporter would like to quiz you about a campaign you&#39;ve been involved in&#46; You&#39;ve been giving your backing to some constituents fighting to keep their local post office from closing&#46; If you choose to attend you&#39;ll have to reschedule a phone call with the post office officials&#46; An interview will raise the campaign&#39;s profile&#44; but you could risk convincing the officials to keep it open&#46; Will you attend the interview&#63;</desc>
+									<attendee>Lewis Franklin&#44; The Evening Star</attendee>
+									<attend score_party="0" score_local="-2" score_media="-1">
+										<feedback>A fire in your constituency meant The Evening Star had to bump your interview to a tiny column in the back pages&#46; Constituents trying to save the post office wondered what you&#39;ve been doing to help&#46;</feedback>
+									</attend>
+									<ignore score_party="0" score_local="2" score_media="0">
+										<feedback>You had a good talk with the post office officials&#46; Your campaign is showing promise&#46;</feedback>
+									</ignore>
+								</meeting><meeting meetingID="meeting015" interest="finance" party="neutral" meetingIcon="parliament" meetingLocation="parliament" meetingDuration="2">
+									<title>How business can tackle climate change</title>
+									<subtitle>Parliament</subtitle>
+									<desc>A business lobbyist wants to meet with you&#44; but you already have a radio interview scheduled&#46; Jack Roberts represents the interests of businesses in the UK&#46; He wants to share ideas with you about how business and industry might adapt to reduce global warming&#46; To meet with Jack you&#39;ll have to cancel a call to a radio show about your campaign to save a local post office&#46; Will you attend and meet with Jack or prioritise your local campaign&#63;</desc>
+									<attendee>Jack Roberts&#44; UK Business</attendee>
+									<attend score_party="-1" score_local="-1" score_media="-1">
+										<feedback>Turns out there was nothing new in Jack&#39;s plan&#46; Jack&#39;s lobby group have presented it to many MPs&#46; Many organisations and groups lobby in Parliament to try to convince an MP to see things their way&#46;</feedback>
+									</attend>
+									<ignore score_party="0" score_local="2" score_media="3">
+										<feedback>You decided to take part in the radio interview&#46; It went very well and raised your campaign&#39;s profile&#46;</feedback>
+									</ignore>
+								</meeting><meeting meetingID="meeting016" interest="global" party="government" meetingIcon="parliament" meetingLocation="parliament">
+									<title>Tanzanian MP visits London</title>
+									<subtitle>Parliament</subtitle>
+									<desc>One of Africa&#39;s youngest politicians would like to talk to you about climate change&#46; Owen is an MP from Tanzania and he&#39;s in London to find out how the UK is tackling global warming&#46; As a member of the Environment Committee you have some experience in this area&#46; To meet Owen though&#44; you&#39;ll have to give up your weekly swim&#46;</desc>
+									<attendee>Owen Mwandumbya</attendee>
+									<attend score_party="1" score_local="0" score_media="0">
+										<feedback>Owen found you very knowledgeable&#46; Because your committee checks on what the Government is doing about climate change&#44; you had a lot you could share&#46;</feedback>
+									</attend>
+									<ignore score_party="-1" score_local="0" score_media="0">
+										<feedback>You swam 10 lengths&#44; better than last week&#46; Owen found another member of the Environment Committee to meet with &#45; an MP from the Opposition party&#33;</feedback>
+									</ignore>
+								</meeting><meeting meetingID="meeting017" interest="local" party="government" meetingIcon="constituency" meetingLocation="constituency" meetingDuration="4">
+									<title>Local transport campaign</title>
+									<subtitle>Constituency</subtitle>
+									<desc>A group of your constituents would like your support for their campaign&#46; They feel the local buses and trains are too often late or delayed&#46; They plan to lobby the local council for improvements&#46; Discussing their plans will take a big chunk of your day&#46; Do you have time to get involved in this campaign&#63; Or would you rather decline and put them off until next week&#63;</desc>
+									<attendee>Transport campaigners</attendee>
+									<attend score_party="0" score_local="0" score_media="0">
+										<feedback>The campaigners&#39; train was delayed&#46; You&#39;ll have to reschedule&#46;</feedback>
+									</attend>
+									<ignore score_party="3" score_local="2" score_media="2">
+										<feedback>You decided to wait to get involved in the transport campaign&#46; Good news arrived too – the Prime Minister has agreed to visit your constituency&#33;</feedback>
+									</ignore>
+								</meeting><meeting meetingID="meeting018" interest="local" party="government" meetingIcon="parliament" meetingLocation="parliament" meetingDuration="4">
+									<title>Whip to address governing party MPs</title>
+									<subtitle>Government whip</subtitle>
+									<desc>The Government Whip has invited you to a meeting of all governing party MPs&#46; The Whip is a real organiser&#46; She makes sure all Government Ministers and governing party backbench MPs know what is happening in Parliament&#46; The Whip will be explaining why you might want to vote for the Government&#39;s plans to ban homework in this Friday&#39;s big vote&#46; Would you like to attend&#63;</desc>
+									<attendee>Government whip</attendee>
+									<attend score_party="1" score_local="0" score_media="0">
+										<feedback>The Whip presented the Government&#39;s case for supporting the Homework Bill on Friday&#46; She said&#58; &#39;Students find homework boring&#46; That is reason enough&#46;&#39; Convinced&#63;</feedback>
+									</attend>
+									<ignore score_party="2" score_local="0" score_media="0">
+										<feedback>By not attending&#44; the Prime Minister and the Whip think you&#39;ve already decided to support the Homework Bill this Friday&#46; They&#39;re happy&#46; Is that the case though&#63;</feedback>
+									</ignore>
+								</meeting><meeting meetingID="meeting019" interest="local" party="opposition" meetingIcon="parliament" meetingLocation="parliament">
+									<title>Whip to address opposition MPs</title>
+									<subtitle>Opposition Whip</subtitle>
+									<desc>The party Whip has invited you to a meeting of all Opposition party MPs&#46; The Whip is a real organiser&#46; He makes sure all members of the Opposition party know what&#39;s happening in Parliament&#46; At the meeting he&#39;ll be explaining why you might want to vote against the Government&#39;s plans to ban homework in this Friday&#39;s big vote&#46; Would you like to attend&#63;</desc>
+									<attendee>Opposition Whip</attendee>
+									<attend score_party="1" score_local="0" score_media="0">
+										<feedback>The Whip challenged the Government&#39;s case for supporting the Homework Bill on Friday&#46; He said &#39;Banning homework will increase pressure on teachers&#46;&#39; Convinced&#63;</feedback>
+									</attend>
+									<ignore score_party="2" score_local="0" score_media="0">
+										<feedback>By not attending&#44; the Leader of the Opposition and the Whip think you&#39;ve already decided to vote against the Homework Bill this Friday&#46; They&#39;re happy&#46; Is that the case though&#63;</feedback>
+									</ignore>
+								</meeting><meeting meetingID="meeting020" interest="local" party="opposition" meetingIcon="constituency" meetingLocation="constituency" meetingDuration="4">
+									<title>Local transport campaign</title>
+									<subtitle>Constituency</subtitle>
+									<desc>A group of your constituents would like your support for their campaign&#46; They feel the local buses and trains are too often late or delayed&#46; They plan to lobby the local council for improvements&#46; Discussing their plans will take a big chunk of your day&#46; Do you have time to get involved in this campaign&#63; Or would you rather decline and put them off until next week&#63;</desc>
+									<attendee>Transport campaigners</attendee>
+									<attend score_party="0" score_local="0" score_media="0">
+										<feedback>The campaigners&#39; train was delayed&#46; You&#39;ll have to reschedule&#46;</feedback>
+									</attend>
+									<ignore score_party="3" score_local="2" score_media="2">
+										<feedback>You decided to wait to get involved in the transport campaign&#46; Good news arrived too – the Leader of the Opposition has agreed to visit your constituency&#33;</feedback>
+									</ignore>
+								</meeting><meeting meetingID="meeting021" interest="local" party="government" meetingIcon="parliament" meetingLocation="parliament" meetingDuration="2">
+									<title>Teachers against Homework Bill</title>
+									<subtitle>Parliament</subtitle>
+									<desc>A group of teacher representatives have asked to meet with you about the upcoming vote on the Homework Bill&#46; They&#39;ve promised information that will convince you to vote against the Government&#39;s plans to ban homework in secondary schools&#46; Will you hear their case&#63; If you choose to attend you won&#39;t have time to raise the media profile of your campaign to save a post office in your constituency&#46;</desc>
+									<attendee>Teachers&#39; Federation</attendee>
+									<attend score_party="0" score_local="0" score_media="0">
+										<feedback>The teachers didn&#39;t give you the information that they promised&#44; so it was a bit of a waste of time&#46; They only said that they thought banning homework would be a dangerous experiment&#46;</feedback>
+									</attend>
+									<ignore score_party="0" score_local="1" score_media="1">
+										<feedback>You wrote a letter to The Evening Star telling constituents about the progress of your campaign to save the post office&#46;</feedback>
+									</ignore>
+								</meeting><meeting meetingID="meeting022" interest="local" party="opposition" meetingIcon="parliament" meetingLocation="parliament" meetingDuration="2">
+									<title>Support the Homework Bill&#63;</title>
+									<subtitle>Parliament</subtitle>
+									<desc>A representative from the Parents Association has asked to meet with you about a new law proposed by the Government&#46; Mel Melnyk is convinced you should support the Government&#39;s Homework Bill&#46; The Bill proposes banning homework in secondary schools and extending the school day&#46; Will you hear her case&#63; If you choose to attend you&#39;ll have to put off trying to raise the media profile of your campaign to save a local post office&#46;</desc>
+									<attendee>Mel Melnyk&#44; Parents Association</attendee>
+									<attend score_party="0" score_local="2" score_media="0">
+										<feedback>Your party says it will oppose the Homework Bill&#46; Mrs Melnyk thinks you should rebel&#46; She&#39;s convinced almost all parents in your constituency are supportive of the Government&#39;s plans&#46;</feedback>
+									</attend>
+									<ignore score_party="0" score_local="-2" score_media="-1">
+										<feedback>Your post office press campaign is struggling a little&#46; Unfortunately the only coverage you managed was in the back of Stamp Collectors Weekly&#46;</feedback>
+									</ignore>
+								</meeting></mp_meeting>

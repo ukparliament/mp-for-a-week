@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution PIVersion="1.0.0.0" href="https://lbi.lightbox-ed.com/projects/PES-MP_for_a_Week/1478/Shared%20Documents/Infopath%20Forms/PES-MP%20for%20a%20week-Speech.xsn" name="urn:schemas-microsoft-com:office:infopath:PES-MP-for-a-week-Speech:" language="en-gb" solutionVersion="1.0.0.13" productVersion="12.0.0" ?><?mso-application progid="InfoPath.Document"?>
+
+<mp_speech xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/MP_for_a_week-Speech.xsd">
+	<speech interest="finance" speechID="speech000" party="neutral">
+		<title>Save the playing fields</title>
+		<notes>A big grocery chain is set to pave over school playing fields in your constituency&#46; Can you convince the Minister to help you save Wedderburn Playing Fields&#63;</notes>
+		<clip clipType="start" points="1" jpgFilename="speech-02.jpg" mp3Filename="fields_speech200-01.mp3">
+			<text>[open] Thank you Mr Speaker&#46; And I would like to thank the Minister for Education and Schools for attending this debate&#46;</text>
+		</clip>
+		<clip clipType="start" points="-1" jpgFilename="speech-02.jpg" mp3Filename="fields_speech200-02.mp3">
+			<text>[open] Mr Speaker&#46; Thank you for granting me this debate on school playing fields&#46; I really don&#39;t deserve it&#46;</text>
+		</clip>
+		<clip clipType="main" points="-1" jpgFilename="speech-02.jpg" mp3Filename="fields_speech200-03.mp3">
+			<text>[middle] Playing fields are important&#46; On the other hand there&#39;s lots of money to be made selling land&#46;</text>
+		</clip>
+		<clip clipType="main" points="1" jpgFilename="speech-02.jpg" mp3Filename="fields_speech200-04.mp3">
+			<text>[middle] We have achieved a lot in our constituency in the past few years&#46; Employment is up&#46; Crime is down&#46; However&#44; we are about to reverse that progress with the sale of Wedderburn Playing Fields to grocery giant&#44; FreshFood&#46; FreshFood plans to pave the fields over and put up a megastore&#46;</text>
+		</clip>
+		<clip clipType="main" points="-1" jpgFilename="speech-02.jpg" mp3Filename="fields_speech200-05.mp3">
+			<text>[middle] We have achieved a lot in our constituency in the past few years&#46; Employment is up&#46; Crime is down&#46; However&#44; we are about to reverse that progress if the grocery giant FreshFood is unable to complete the purchase of Wedderburn Playing Fields&#46; FreshFood plans to use the land to put up a megastore that will invigorate the community&#46;</text>
+		</clip>
+		<clip clipType="main" points="-1" jpgFilename="speech-02.jpg" mp3Filename="fields_speech200-06.mp3">
+			<text>[middle] Here&#39;s the problem&#58; local residents&#44; parents and teachers are trying to block the sale of FreshFood&#46; The Minister may have noticed their appeal to her department for help&#46;</text>
+		</clip>
+		<clip clipType="main" points="1" jpgFilename="speech-02.jpg" mp3Filename="fields_speech200-07.mp3">
+			<text>[middle] Here&#39;s the problem&#58; the local council has agreed to sell the playing fields to FreshFood but they have not followed the rules&#46; A contract agreed by the local council says the sale of any school playing fields need to clearly benefit the community&#46; I have a lot of evidence that this sale does not&#46;</text>
+		</clip>
+		<clip clipType="main" points="1" jpgFilename="speech-02.jpg" mp3Filename="fields_speech200-08.mp3">
+			<text>[middle] This sale has gone ahead without talking to local residents&#44; most are against it&#46; More&#44; the loss of school playing fields will badly affect young people across the constituency&#46; Everyone I talk to &#45; mums&#44; dads&#44; head teachers&#44; teenagers &#45; say the same thing&#58; sporting activities and good sports facilities are vital to the community&#46;</text>
+		</clip>
+		<clip clipType="main" points="0" jpgFilename="speech-02.jpg" mp3Filename="fields_speech200-09.mp3">
+			<text>[middle] Sport is one of the most effective ways known to policymakers of diverting youngsters away from crime&#46;</text>
+		</clip>
+		<clip clipType="end" points="1" jpgFilename="speech-02.jpg" mp3Filename="fields_speech200-10.mp3">
+			<text>[close] This is a Government that has made great strides in improving the lives of young people&#46; I urge the Minister to finish the job and stand on the side of the community in my constituency&#46;</text>
+		</clip>
+		<clip clipType="main" points="1" jpgFilename="speech-02.jpg" mp3Filename="fields_speech200-12.mp3">
+			<text>[middle] The Government has done a lot to protect school playing fields and I&#39;d like to see the Minister keep up the good work&#46;</text>
+		</clip>
+		<clip clipType="end" points="-1" jpgFilename="speech-02.jpg" mp3Filename="fields_speech200-01.mp3">
+			<text>[close] So&#44; in closing&#44; if the Minister could have a look into this&#44; that would be great&#46; If not&#44; that&#39;s OK too&#44; I know he&#39;s busy&#46;</text>
+		</clip>
+		<clip clipType="end" points="-1" jpgFilename="speech-02.jpg" mp3Filename="generic_speech000-01.mp3">
+			<text>[close] Time&#39;s up&#63; OK&#44; I&#39;ll sit down now&#46;</text>
+		</clip>
+		<clip mp3Filename="generic_speech000-02.mp3" jpgFilename="speech-02.jpg" clipType="main" points="0">
+			<text>[middle] Can anyone look at the record of this Government and say &#39;well done&#39;&#63;</text>
+		</clip>
+		<clip mp3Filename="generic_speech000-03.mp3" jpgFilename="speech-02.jpg" clipType="start" points="-1">
+			<text>[open] Mr Speaker&#46; I&#39;ve got to say &#45; I didn&#39;t think I&#39;d be this nervous about giving a speech in the House of Commons&#46;</text>
+		</clip>
+		
+		<result pointsReached="0" score_party="-2" score_local="-2" score_media="0">
+			<feedback>Are you sure you actually want to save the playing fields&#63;</feedback>
+		</result>
+		<result pointsReached="1" score_party="-1" score_local="-1" score_media="0">
+			<feedback>Are you sure you actually want to save the playing fields&#63;</feedback>
+		</result>
+		<result pointsReached="2" score_party="0" score_local="0" score_media="0">
+			<feedback>The Minister wasn&#39;t quite sure you were clear about what you wanted to say&#46;</feedback>
+		</result>
+		<result pointsReached="3" score_party="0" score_local="1" score_media="0">
+			<feedback>The Minister wasn&#39;t quite sure you were clear about what you wanted to say&#46;</feedback>
+		</result>
+		<result pointsReached="4" score_party="1" score_local="1" score_media="0">
+			<feedback>You did a good job persuading the Minister&#46; She&#39;s promised to look into the issue&#46;</feedback>
+		</result>
+		<result pointsReached="5" score_party="2" score_local="2" score_media="0">
+			<feedback>The Minister was persuaded by your excellent speech&#46; She&#39;s going to help you&#46;</feedback>
+		</result>
+	</speech>
+	
+	<speech interest="local" speechID="speech001" party="government">
+		<title>Violent video games</title>
+		<notes>Improve your standing in the party &#45; give a speech in support of the Government&#39;s plans to ban the sale of violent video games to young people&#46;</notes>
+		<clip clipType="start" points="1" jpgFilename="speech-01.jpg" mp3Filename="violent_speech202-01.mp3">
+			<text>[open] Mr Speaker&#46; Some people say video games containing violent scenes are harmless&#46; But there are many problems with these games that mean we must pass this law&#46;</text>
+		</clip>
+		<clip clipType="start" points="-1" jpgFilename="speech-01.jpg" mp3Filename="violent_speech202-02.mp3">
+			<text>[open] Mr Speaker&#46; Now&#44; I&#39;m no video games expert and I&#39;ve never played one&#44; but I tell you I really think they should be banned&#46; The violent ones&#44; I mean&#46;</text>
+		</clip>
+		<clip clipType="main" points="1" jpgFilename="speech-01.jpg" mp3Filename="violent_speech202-03.mp3">
+			<text>[middle] Many experts worry violent video games damage young people&#46; Portcullis University researchers have found these games lead to angry thoughts and feelings&#46;</text>
+		</clip>
+		<clip clipType="main" points="1" jpgFilename="speech-01.jpg" mp3Filename="violent_speech202-04.mp3">
+			<text>[middle] Young people don&#39;t realise the harm they are causing themselves&#46; There is a hidden cost that comes with slipping into the mind of an angry&#44; violent character&#46;</text>
+		</clip>
+		<clip clipType="main" points="1" jpgFilename="speech-01.jpg" mp3Filename="violent_speech202-05.mp3">
+			<text>[middle] And there is a cost to society&#46; These games &#45; games like Zombie Death Blow &#45; they encourage heartlessness&#46; Real world violence becomes less alarming to those who regularly play these games&#46;</text>
+		</clip>
+		<clip clipType="main" points="1" jpgFilename="speech-01.jpg" mp3Filename="violent_speech202-06.mp3">
+			<text>[middle] Parliament&#39;s role is to protect citizens from damaging themselves and society as a whole&#46; We use laws to do this&#46; These games are dangerous for young people&#44; in the same way as alcohol and cigarettes&#46;</text>
+		</clip>
+		<clip clipType="main" points="0" jpgFilename="speech-01.jpg" mp3Filename="violent_speech202-07.mp3">
+			<text>[middle] What are opponents of this Bill saying&#63; Are they saying the act of torturing a virtual zombie is really an enriching experience for young minds&#63;</text>
+		</clip>
+		<clip clipType="main" points="1" jpgFilename="speech-01.jpg" mp3Filename="violent_speech202-08.mp3">
+			<text>[middle] Should we leave this matter to parents&#63; Parents aren&#39;t always aware of the content of these games&#44; nor can they forever supervise their children&#46;</text>
+		</clip>
+		<clip clipType="main" points="-1" jpgFilename="speech-01.jpg" mp3Filename="violent_speech202-09.mp3">
+			<text>[middle] While I agree with the idea&#44; or principle&#44; of banning the sale of these violent games&#44; I also think the law will be far too difficult to enforce&#46;</text>
+		</clip>
+		<clip clipType="main" points="-1" jpgFilename="speech-01.jpg" mp3Filename="violent_speech202-10.mp3">
+			<text>[middle] Let&#39;s just remind ourselves of an important point &#45; children belong out in the fresh air&#44; not stuck in front of their TVs and computers&#46;</text>
+		</clip>
+		<clip clipType="end" points="1" jpgFilename="speech-01.jpg" mp3Filename="violent_speech202-11.mp3">
+			<text>[close] Banning the sale of these violent games will help parents and protect young people&#46; Zombie Death Blow has no place in a civilised society&#46;</text>
+		</clip>
+		<clip clipType="end" points="-1" jpgFilename="speech-01.jpg" mp3Filename="violent_speech202-12.mp3">
+			<text>[close] Banning the sale of these games is necessary because they really are not good&#46;</text>
+		</clip>
+		
+		<result pointsReached="0" score_party="-3" score_local="0" score_media="0">
+			<feedback>Are you feeling OK&#63; Other MPs were quite confused by your speech&#46; Your points were all mixed up&#46;</feedback>
+		</result>
+		<result pointsReached="1" score_party="-2" score_local="0" score_media="0">
+			<feedback>Not the greatest speech ever heard in the House of Commons&#46; Check all your points support the argument you&#39;re trying to make&#46;</feedback>
+		</result>
+		<result pointsReached="2" score_party="1" score_local="0" score_media="0">
+			<feedback>Not the greatest speech ever heard in the House of Commons&#46; Did all your points defend the Government&#39;s view&#63;</feedback>
+		</result>
+		<result pointsReached="3" score_party="2" score_local="1" score_media="0">
+			<feedback>Solid performance&#46; You made quite a good case for banning the sale of violent video games&#46;</feedback>
+		</result>
+		<result pointsReached="4" score_party="3" score_local="1" score_media="1">
+			<feedback>Great speech&#46; You supported your party brilliantly&#46; Very convincing&#46;</feedback>
+		</result>
+	</speech>
+
+	<speech interest="local" speechID="speech002" party="opposition">
+		<title>Stop video game ban</title>
+		<notes>Boost your party points by giving a convincing speech&#46; Support your party and oppose the Government&#39;s plans to ban the sale of violent video games to young people&#46;</notes>
+		<clip clipType="start" points="1" jpgFilename="speech-01.jpg" mp3Filename="violent_speech202-13.mp3">
+			<text>[open] Mr Speaker&#46; Today we are debating the Government&#39;s suggestion to restrict the sale of violent video games&#46; I&#39;ll be blunt&#46; Despite its good intentions&#44; this law is unnecessary&#46; What&#39;s worse&#44; it makes no sense&#46;</text>
+		</clip>
+		<clip clipType="start" points="-1" jpgFilename="speech-01.jpg" mp3Filename="violent_speech202-14.mp3">
+			<text>[open] Mr Speaker&#46; If it is OK with you and with my fellow MPs I&#39;d like to say a few humble words&#46; I&#39;m not used to speaking on this matter&#44; but I&#39;ll have a go&#46;</text>
+		</clip>
+		<clip clipType="main" points="1" jpgFilename="speech-01.jpg" mp3Filename="violent_speech202-15.mp3">
+			<text>[middle] This law will not work&#46; It won&#39;t stop children finding violent games&#44; say&#44; on the internet&#46; Worse&#44; it will push them toward illegal downloads or buying games from thieves at knock&#45;down prices&#46;</text>
+		</clip>
+		<clip mp3Filename="violent_speech202-16.mp3" jpgFilename="speech-01.jpg" clipType="main" points="1">
+			<text>[middle] Such a law is unnecessary&#46; We already have a rating system&#46; Video games with violence in them must be clearly marked on the box&#46; Parliament shouldn&#39;t try to do the job of parents&#46;</text>
+		</clip>
+		<clip clipType="main" points="1" jpgFilename="speech-01.jpg" mp3Filename="violent_speech202-17.mp3">
+			<text>[middle] Evidence that violent games lead to violent behaviour in young people is unconvincing&#46; If there was reliable evidence I might change my view&#46; But there is none&#46;</text>
+		</clip>
+		<clip clipType="main" points="1" jpgFilename="speech-01.jpg" mp3Filename="violent_speech202-18.mp3">
+			<text>[middle] This law would not make sense&#46; Violent video games are often inspired by comic books&#44; TV and films&#46; Are we going to ban these too&#63;</text>
+		</clip>
+		<clip clipType="main" points="0" jpgFilename="speech-01.jpg" mp3Filename="violent_speech202-19.mp3">
+			<text>[middle] The Government is overreacting&#46; I was speaking to my postman the other day and he thinks these violent games are a good thing&#46; They give young people an outlet for their aggression&#46;</text>
+		</clip>
+		<clip mp3Filename="violent_speech202-20.mp3" jpgFilename="speech-01.jpg" clipType="main" points="-1">
+			<text>[middle] It is no use trying to save people from themselves&#46; I say&#44; let them do what they want&#33;</text>
+		</clip>
+		<clip mp3Filename="violent_speech202-21.mp3" jpgFilename="speech-01.jpg" clipType="main" points="1">
+			<text>[middle] Are these games really a major source of disorder in our society&#63; Do we really need a law for this&#63;</text>
+		</clip>
+		<clip mp3Filename="violent_speech202-22.mp3" jpgFilename="speech-01.jpg" clipType="main" points="1">
+			<text>[middle] Members of the Government say violent games lead to a violent society&#46; Do they expect us to take this seriously&#63; Are these games really such a cause of disorder&#63;</text>
+		</clip>
+		<clip mp3Filename="violent_speech202-23.mp3" jpgFilename="speech-01.jpg" clipType="main" points="0">
+			<text>[middle] The case for banning the sale of these games is just too weak&#46;</text>
+		</clip>
+		<clip mp3Filename="violent_speech202-24.mp3" jpgFilename="speech-01.jpg" clipType="end" points="1">
+			<text>[close] So let&#39;s not waste time in the virtual world&#46; We won&#39;t cure the disease of violence by banning Zombie Death Blow&#46; We&#39;d do better to turn our attention to the drugs&#44; crime and poverty that lead to violence every day in our real world&#46;</text>
+		</clip>
+		<clip mp3Filename="violent_speech202-25.mp3" jpgFilename="speech-01.jpg" clipType="end" points="-1">
+			<text>[close] Banning the sale of these games is necessary because it is an important thing to do for our society&#46;</text>
+		</clip>
+		
+		<result pointsReached="0" score_party="-3" score_local="0" score_media="0">
+			<feedback>Are you feeling OK&#63; Other MPs were quite confused by your speech&#46; Your points were all mixed up&#46;</feedback>
+		</result>
+		<result pointsReached="1" score_party="-2" score_local="0" score_media="0">
+			<feedback>Not the greatest speech ever heard in the House of Commons&#46; Check all your points support the argument you&#39;re trying to make&#46;</feedback>
+		</result>
+		<result pointsReached="2" score_party="1" score_local="0" score_media="0">
+			<feedback>Not the greatest speech ever heard in the House of Commons&#46; Did all your points oppose the Government&#39;s view&#63;</feedback>
+		</result>
+		<result pointsReached="3" score_party="2" score_local="1" score_media="0">
+			<feedback>Solid performance&#46; You made quite a good case against banning the sale of violent video games&#46;</feedback>
+		</result>
+		<result pointsReached="4" score_party="3" score_local="1" score_media="1">
+			<feedback>Great speech&#46; You supported your party brilliantly&#46; Very convincing&#46;</feedback>
+		</result>
+	</speech>
+	
+	<speech speechID="speech003" interest="global" party="government">
+		<title>Green Transport Bill</title>
+		<notes>The Opposition is against your party&#39;s plan to raise the fuel tax and give people money to buy non&#45;petrol cars&#46; What do you think&#63; Decide &#45; then give a speech&#46;</notes>
+		
+		<clip mp3Filename="fuel_speech201-01.mp3" jpgFilename="speech-01.jpg" clipType="start" points="1">
+			<text>[open] Mr Speaker&#46; It is a difficult task to find a way of protecting our planet for the future&#44; while maintaining a prosperous economy today&#46; The Government&#39;s plans in the Green Transport Bill do a pretty good job of this&#46;</text>
+		</clip>
+		<clip mp3Filename="fuel_speech201-03.mp3" jpgFilename="speech-01.jpg" clipType="main" points="0">
+			<text>[middle] Let&#39;s be keen&#44; keen to be green&#46; Support the tax on gasoline&#33;</text>
+		</clip>
+		<clip mp3Filename="fuel_speech201-05.mp3" jpgFilename="speech-01.jpg" clipType="main" points="1">
+			<text>[middle] I like the Government&#39;s plan&#46; Our country is on the move&#46; We&#39;re moving from over&#45;dependence on fossil fuels like oil&#44; towards energy independence&#46;</text>
+		</clip>
+		<clip mp3Filename="fuel_speech201-06.mp3" jpgFilename="speech-01.jpg" clipType="main" points="1">
+			<text>[middle] Opponents say this plan to move the country to &#39;greener transport&#39; will not make a big enough difference&#46; I see what they&#39;re saying&#44; but I think as long as it is part of a larger plan it is worthwhile&#46;</text>
+		</clip>
+		<clip mp3Filename="fuel_speech201-07.mp3" jpgFilename="speech-01.jpg" clipType="main" points="1">
+			<text>[middle] It&#39;s an exaggeration to say raising fuel tax will be an economic disaster&#46; There is a lot of opportunity for new businesses and for existing businesses to adapt&#46;</text>
+		</clip>
+		<clip mp3Filename="fuel_speech201-08.mp3" jpgFilename="speech-01.jpg" clipType="main" points="2">
+			<text>[middle] I will be supporting the Green Transport Bill&#44; but could I also urge the Government to help UK businesses adapt to an economy where fuel is more expensive&#63;</text>
+		</clip>
+		<clip mp3Filename="fuel_speech201-12.mp3" jpgFilename="speech-01.jpg" clipType="main" points="1">
+			<text>[middle] This plan will move us toward a greener economy&#46; It will encourage research into more efficient vehicles&#44; a field in which Britain is already a world leader&#46;</text>
+		</clip>
+		<clip mp3Filename="fuel_speech201-14.mp3" jpgFilename="speech-01.jpg" clipType="end" points="1">
+			<text>[close] And so I think the Government&#39;s plan strikes a good balance between our needs today and the planet&#39;s future&#46; We should support this Bill&#46;</text>
+		</clip>
+		<clip mp3Filename="fuel_speech201-15.mp3" jpgFilename="speech-01.jpg" clipType="end" points="0">
+			<text>[close] And Mr Speaker&#44; in closing&#44; could I make one final request of the honourable members here present&#44; could I ask&#46;&#46;&#46; has anyone seen my watch&#63; I last had it in the Members&#39; Lobby&#46; I took it off to wind it and I think I left it on the side&#46;</text>
+		</clip>
+		<clip mp3Filename="fuel_speech201-16.mp3" jpgFilename="speech-01.jpg" clipType="start" points="-1">
+			<text>[open] Mr Speaker&#46; I welcome the Government trying to protect the environment&#46; We need urgent action to tackle climate change&#46; But there are lots of problems with this plan&#46;</text>
+		</clip>
+		<clip mp3Filename="fuel_speech201-17.mp3" jpgFilename="speech-01.jpg" clipType="start" points="0">
+			<text>[open] Mr Speaker&#46; The Government&#39;s got it spot&#45;on with this one&#46; I&#39;m not sure I have much more to add&#46;</text>
+		</clip>
+		<clip mp3Filename="fuel_speech201-18.mp3" jpgFilename="speech-01.jpg" clipType="main" points="-1">
+			<text>[middle] The big problem with this plan is this &#45; it will make little difference&#46; People might buy a few more electric cars&#44; but this plan won&#39;t tackle climate change as the Government is saying&#46;</text>
+		</clip>
+		<clip mp3Filename="fuel_speech201-19.mp3" jpgFilename="speech-01.jpg" clipType="main" points="-1">
+			<text>[middle] The Government needs to think &#45; how will this tax affect UK business&#63; If a similar tax increase is not made in other countries&#44; then it shouldn&#39;t be made here&#46; Do we really want to damage our economy&#63;</text>
+		</clip>
+		<clip mp3Filename="fuel_speech201-20.mp3" jpgFilename="speech-01.jpg" clipType="main" points="-1">
+			<text>[middle] To be blunt&#44; this tax will have negative consequences&#46; The price of food&#44; services and household goods will rise&#46; It will cause massive inflation&#46;</text>
+		</clip>
+		<clip mp3Filename="fuel_speech201-23.mp3" jpgFilename="speech-01.jpg" clipType="main" points="-1">
+			<text>[middle] Drivers can already buy non&#45;petrol cars if they want&#46; Most have chosen not to&#46; There is something wrong if the Government has to &#39;bribe&#39; people to buy electric cars&#46;</text>
+		</clip>
+		<clip mp3Filename="fuel_speech201-28.mp3" jpgFilename="speech-01.jpg" clipType="main" points="-2">
+			<text>[middle] I don&#39;t believe we have the people&#39;s support on this&#46; There is a clear danger for the Government and the governing party&#46; Raise this fuel tax &#45; don&#39;t get re&#45;elected at the next election&#46;</text>
+		</clip>
+		<clip mp3Filename="fuel_speech201-30.mp3" jpgFilename="speech-01.jpg" clipType="end" points="-1">
+			<text>[close] I agree with the Government&#39;s aims to help the environment&#46; However&#44; I don&#39;t agree with how they&#39;ve chosen to go about it&#46; The Green Transport Bill will leave the country in the red&#46;</text>
+		</clip>
+		
+		<result pointsReached="-5" score_party="-1" score_local="1" score_media="2">
+			<feedback>So you went against the party&#46; It was still a good speech&#46;</feedback>
+		</result>
+		<result pointsReached="-4" score_party="-2" score_local="0" score_media="0">
+			<feedback>You rebel&#33;</feedback>
+		</result>
+		<result pointsReached="-3" score_party="-2" score_local="0" score_media="0">
+			<feedback>You rebel&#33;</feedback>
+		</result>
+		<result pointsReached="-2" score_party="-2" score_local="0" score_media="0">
+			<feedback>Your speech was kind of muddled &#45; are you against raising the fuel tax&#44; or aren&#39;t you&#63;</feedback>
+		</result>
+		<result pointsReached="-1" score_party="-2" score_local="0" score_media="0">
+			<feedback>Your speech was kind of muddled &#45; are you against raising the fuel tax&#44; or aren&#39;t you&#63;</feedback>
+		</result>
+		<result pointsReached="0" score_party="-2" score_local="0" score_media="0">
+			<feedback>Your speech was kind of muddled &#45; are you against raising the fuel tax&#44; or aren&#39;t you&#63;</feedback>
+		</result>
+		<result pointsReached="1" score_party="-1" score_local="0" score_media="0">
+			<feedback>Your speech was kind of muddled &#45; are you for raising the fuel tax&#44; or aren&#39;t you&#63;</feedback>
+		</result>
+		<result pointsReached="2" score_party="-1" score_local="0" score_media="0">
+			<feedback>Your speech was kind of muddled &#45; are you for raising the fuel tax&#44; or aren&#39;t you&#63;</feedback>
+		</result>
+		<result pointsReached="3" score_party="1" score_local="0" score_media="0">
+			<feedback>Pretty good speech&#46; Did all your points support the Government though&#63;</feedback>
+		</result>
+		<result pointsReached="4" score_party="1" score_local="0" score_media="0">
+			<feedback>Solid performance&#46; Most of your points supported the Government&#39;s plan to raise the fuel tax&#46;</feedback>
+		</result>
+		<result pointsReached="5" score_party="2" score_local="0" score_media="2">
+			<feedback>The party was pleased to get your support on the Green Transport Bill&#46; Your powerful speech made the papers too&#46;</feedback>
+		</result>
+	</speech>
+	
+	<speech speechID="speech004" interest="global" party="opposition">
+		<title>Oppose the fuel tax</title>
+		<notes>Your party doesn&#39;t support the Government&#39;s plan to raise the fuel tax and give people money to buy non&#45;petrol cars&#46; What do you think&#63; Decide&#44; then give a speech&#46;</notes>
+		
+		<clip mp3Filename="fuel_speech201-01.mp3" jpgFilename="speech-01.jpg" clipType="start" points="-1">
+			<text>[open] Mr Speaker&#46; It is a difficult task to find a way of protecting our planet for the future&#44; while maintaining a prosperous economy today&#46; The Government&#39;s plans in the Green Transport Bill do a pretty good job of this&#46;</text>
+		</clip>
+		<clip mp3Filename="fuel_speech201-03.mp3" jpgFilename="speech-01.jpg" clipType="main" points="0">
+			<text>[middle] Let&#39;s be keen&#44; keen to be green&#46; Support the tax on gasoline&#33;</text>
+		</clip>
+		<clip mp3Filename="fuel_speech201-18.mp3" jpgFilename="speech-01.jpg" clipType="main" points="1">
+			<text>[middle] The big problem with this plan is this &#45; it will make little difference&#46; People might buy a few more electric cars but this plan won&#39;t tackle climate change as the Government is saying&#46;</text>
+		</clip>
+		<clip mp3Filename="fuel_speech201-05.mp3" jpgFilename="speech-01.jpg" clipType="main" points="-1">
+			<text>[middle] I like the Government&#39;s plan&#46; Our country is on the move&#46; We&#39;re moving from over&#45;dependence on fossil fuels like oil&#44; toward energy independence&#46;</text>
+		</clip>
+		<clip mp3Filename="fuel_speech201-19.mp3" jpgFilename="speech-01.jpg" clipType="main" points="1">
+			<text>[middle] The Government needs to think&#44; how will this tax affect UK business&#63; If a similar tax increase is not made in other countries&#44; then it shouldn&#39;t be made here&#46; Do we really want to damage our economy&#63;</text>
+		</clip>
+		<clip mp3Filename="fuel_speech201-06.mp3" jpgFilename="speech-01.jpg" clipType="main" points="-1">
+			<text>[middle] Opponents say this plan to move the country to &#39;greener transport&#39; will not make a big enough difference&#46; I see what they&#39;re saying&#44; but I think as long as it is part of a larger plan&#44; it is worthwhile&#46;</text>
+		</clip>
+		<clip mp3Filename="fuel_speech201-20.mp3" jpgFilename="speech-01.jpg" clipType="main" points="1">
+			<text>[middle] To be blunt &#45; this tax will have negative consequences&#46; The price of food&#44; services and household goods will rise&#46; It will cause massive inflation&#46;</text>
+		</clip>
+		<clip mp3Filename="fuel_speech201-08.mp3" jpgFilename="speech-01.jpg" clipType="main" points="-2">
+			<text>[middle] I will be supporting the Green Transport Bill&#44; but could I also urge the Government to help UK businesses adapt to an economy where fuel is more expensive&#63;</text>
+		</clip>
+		<clip mp3Filename="fuel_speech201-12.mp3" jpgFilename="speech-01.jpg" clipType="main" points="-1">
+			<text>[middle] This plan will move us toward a greener economy&#46; It will encourage research into more efficient vehicles&#44; a field in which Britain is already a world leader&#46;</text>
+		</clip>
+		<clip mp3Filename="fuel_speech201-28.mp3" jpgFilename="speech-01.jpg" clipType="main" points="2">
+			<text>[middle] I don&#39;t believe we have the people&#39;s support on this&#46; There is a clear danger for the Government and the governing party&#46; Raise this fuel tax &#45; don&#39;t get re&#45;elected at the next election&#46;</text>
+		</clip>
+		<clip mp3Filename="fuel_speech201-14.mp3" jpgFilename="speech-01.jpg" clipType="end" points="-1">
+			<text>[close] And so I think the Government&#39;s plan strikes a good balance between our needs today and the planet&#39;s future&#46; We should support this Bill&#46;</text>
+		</clip>
+		<clip mp3Filename="fuel_speech201-15.mp3" jpgFilename="speech-01.jpg" clipType="end" points="0">
+			<text>[close] And Mr Speaker&#44; in closing&#44; could I make one final request of the honourable members here present&#44; could I ask&#46;&#46;&#46; has anyone seen my watch&#63; I last had it in the Members&#39; Lobby&#46; I took it off to wind it and I think I left it on the side&#46;</text>
+		</clip>
+		<clip mp3Filename="fuel_speech201-16.mp3" jpgFilename="speech-01.jpg" clipType="start" points="1">
+			<text>[open] Mr Speaker&#46; I welcome the Government trying to protect the environment&#46; We need urgent action to tackle climate change&#46; But there are lots of problems with this plan&#46;</text>
+		</clip>
+		<clip mp3Filename="fuel_speech201-17.mp3" jpgFilename="speech-01.jpg" clipType="start" points="0">
+			<text>[open] Mr Speaker&#46; The Government&#39;s got it spot&#45;on with this one&#46; I&#39;m not sure I have much more to add&#46;</text>
+		</clip>
+		<clip mp3Filename="fuel_speech201-23.mp3" jpgFilename="speech-01.jpg" clipType="main" points="1">
+			<text>[middle] Drivers can already buy non&#45;petrol cars if they want&#46; Most have chosen not to&#46; There is something wrong if the Government has to &#39;bribe&#39; people to buy electric cars&#46;</text>
+		</clip>
+		<clip mp3Filename="fuel_speech201-30.mp3" jpgFilename="speech-01.jpg" clipType="end" points="1">
+			<text>[close] I agree with Government&#39;s aims to help the environment&#46; However&#44; I don&#39;t agree with how they&#39;ve chosen to go about it&#46; The Green Transport Bill will leave the country in the red&#46;</text>
+		</clip>
+		
+		<result pointsReached="-5" score_party="-1" score_local="1" score_media="2">
+			<feedback>So you went against the party&#46; It was still a great speech&#46;</feedback>
+		</result>
+		<result pointsReached="-4" score_party="-2" score_local="0" score_media="0">
+			<feedback>You rebel&#33;</feedback>
+		</result>
+		<result pointsReached="-3" score_party="-2" score_local="0" score_media="0">
+			<feedback>You rebel&#33;</feedback>
+		</result>
+		<result pointsReached="-2" score_party="-2" score_local="0" score_media="0">
+			<feedback>Your speech was kind of muddled &#45; are you for raising the fuel tax&#44; or aren&#39;t you&#63;</feedback>
+		</result>
+		<result pointsReached="-1" score_party="-2" score_local="0" score_media="0">
+			<feedback>Your speech was kind of muddled &#45; are you for raising the fuel tax&#44; or aren&#39;t you&#63;</feedback>
+		</result>
+		<result pointsReached="0" score_party="-2" score_local="0" score_media="0">
+			<feedback>Your speech was kind of muddled &#45; are you for raising the fuel tax&#44; or aren&#39;t you&#63;</feedback>
+		</result>
+		<result pointsReached="1" score_party="-1" score_local="0" score_media="0">
+			<feedback>Your speech was kind of muddled &#45; are you against raising the fuel tax&#44; or aren&#39;t you&#63;</feedback>
+		</result>
+		<result pointsReached="2" score_party="-1" score_local="0" score_media="0">
+			<feedback>Your speech was kind of muddled &#45; are you against raising the fuel tax&#44; or aren&#39;t you&#63;</feedback>
+		</result>
+		<result pointsReached="3" score_party="1" score_local="0" score_media="0">
+			<feedback>Pretty good speech&#46; Did all your points oppose the Government though&#63;</feedback>
+		</result>
+		<result pointsReached="4" score_party="1" score_local="0" score_media="0">
+			<feedback>Solid performance&#46; Most of your points opposed the Government&#39;s plan to raise the fuel tax&#46;</feedback>
+		</result>
+		<result pointsReached="5" score_party="2" score_local="0" score_media="2">
+			<feedback>The Leader of the Opposition heard about your great performance&#46; Your powerful speech made the papers too&#46;</feedback>
+		</result>
+	</speech>
+</mp_speech>

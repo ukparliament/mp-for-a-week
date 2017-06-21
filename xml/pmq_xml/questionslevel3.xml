@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution PIVersion="1.0.0.0" href="https://lbi.lightbox-ed.com/projects/PES-MP_for_a_Week/1478/Shared%20Documents/Infopath%20Forms/PES-MP%20for%20a%20week-Question.xsn" name="urn:schemas-microsoft-com:office:infopath:PES-MP-for-a-week-Question:" language="en-gb" solutionVersion="1.0.0.17" productVersion="12.0.0" ?><?mso-application progid="InfoPath.Document"?><mp_question xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/MP_for_a_week-Question.xsd">
+	<question interest="local" party="neutral" questionID="question001" questionIcon="environment_minister">
+		<title>Environment Minister</title>
+		<topic>In your constituency</topic>
+		<notes>Residents and motorists are hopping mad ever since an exploding frog population has overrun local gardens and roadways&#46; Your constituency&#39;s evening paper has called it &#39;The Green Plague&#39;&#46;</notes>
+		<questions score_party="-1" score_local="0" score_media="0">
+			<text>Can the Minister tell us why she is known as a &#39;frontbencher&#39;&#63;</text>
+			<feedback>&#39;I&#39;m the Government&#39;s main spokesperson on the environment&#33;&#39; she said&#46;</feedback>
+		</questions>
+		<questions score_party="2" score_local="3" score_media="2">
+			<text>What recent meetings has the Minister had with local councils about the management of wildlife and pests&#63;</text>
+			<feedback>Your constituents were happy you stuck up for them&#46;</feedback>
+		</questions>
+		<questions score_party="-2" score_local="-2" score_media="-2">
+			<text>Has the Minister ever had frog legs&#63;</text>
+			<feedback>Be careful with silly questions&#46; Your constituents read about them in the press&#46;</feedback>
+		</questions>
+		<questions score_party="0" score_local="0" score_media="0">
+									<text>What steps have been taken by the Minister to control dangerous diseases in the animal population&#63;</text>
+									<feedback>That question didn&#39;t help your constituents&#44; unless all frogs in the constituency develop a dangerous disease&#46;</feedback>
+								</questions><missed score_party="-2" score_local="-1" score_media="-1">
+			<feedback>You missed out&#46; Question Time is a good chance to check what the Government has been doing for your constituents and everyone else in the country&#46;</feedback>
+		</missed>
+	</question><question interest="local" party="neutral" questionID="question002" questionIcon="business_minister">
+		<title>Business Minister</title>
+		<topic>UK news headline</topic>
+		<notes>Thousands of British workers are set to lose their jobs after an electronics manufacturer decided to move all its factories overseas&#46; Quell Electronics will close all six of its UK plants putting almost 3&#44;000 people out of jobs&#46;</notes>
+		<questions score_party="0" score_local="0" score_media="-1">
+			<text>Can the minister tell us what &#39;democracy&#39; means&#63;</text>
+			<feedback>As an MP you should already know that democracy means Government by the people &#40;or their elected representatives&#41;&#46;</feedback>
+		</questions><questions score_party="1" score_local="1" score_media="2">
+			<text>What plans do the Government have for helping workers of Quell Electronics find other jobs or to retrain&#63;</text>
+			<feedback>Good question&#46; This is a big national issue in the media&#46;</feedback>
+		</questions>
+		
+		<questions score_party="-1" score_local="0" score_media="0">
+			<text>Can the Minister give his estimate of how many people are employed in the fast food business sector&#63;</text>
+			<feedback>Are you interested in the fast food business&#63; A good question&#44; but the Minister and your party weren&#39;t interested in it&#46;</feedback>
+		</questions>
+		<questions score_party="-2" score_local="0" score_media="0">
+									<text>Would the Minister recommend putting his money into stocks or shares&#63;</text>
+									<feedback>Thinking of investing&#63; The Business Minister&#39;s job isn&#39;t to give out stock tips&#46;</feedback>
+								</questions><missed score_party="-2" score_local="0" score_media="0">
+			<feedback>Question Time is a good opportunity to check the work of the Government and raise your own profile to show that you&#39;re working for your constituents&#46;</feedback>
+		</missed>
+	</question><question questionID="question003" interest="global" party="government" questionIcon="global_minister">
+									<title>Global Affairs Minister</title>
+									<topic>Your party&#39;s view</topic>
+									<notes>The Global Affairs Minister has made a speech reconfirming the Government&#39;s commitment to giving money and aid to poor countries&#46; Charlie Curtis MP said&#58; &#39;Millions of people are alive today because of foreign aid&#46;&#39;</notes>
+									
+									<questions score_party="3" score_local="1" score_media="1">
+										<text>I&#39;d like to congratulate the Minister on the Government&#39;s foreign aid programme&#46; Will the Government continue to maintain aid levels to help the world&#39;s poorest&#63;</text>
+										<feedback>The Minister was happy to get that question&#33;</feedback>
+									</questions><questions score_party="-3" score_local="-1" score_media="1">
+									<text>Can the Minister explain why some money given to developing countries ends up being wasted or squandered by corrupt politicians&#63;</text>
+									<feedback>Are you thinking of switching to the Opposition party&#63;</feedback>
+								</questions><questions score_party="-3" score_local="-2" score_media="-3">
+									<text>Will the Minister join me in celebrating World Turtle Day&#63;</text>
+									<feedback>The Minister wasn&#39;t interested in spending much time on your question&#46;</feedback>
+								</questions><questions score_party="1" score_local="0" score_media="1">
+									<text>Will the Minister make a statement about the Government&#39;s aid programme in Africa&#63;</text>
+									<feedback>The Minister&#39;s answer listed plenty of Government success stories&#46;</feedback>
+								</questions><questions score_party="-2" score_local="-2" score_media="-2">
+									<text>It is all well and good giving money and resources to help developing countries&#44; but what&#39;s in it for the UK&#63;</text>
+									<feedback>You might have a point&#44; but most didn&#39;t like the tone of your question&#46;</feedback>
+								</questions><missed score_party="-2" score_local="0" score_media="-1">
+										<feedback>You missed out&#46; Question Time is a good chance to check what the Government has been doing for your constituents and everyone else in the country&#46;</feedback>
+									</missed>
+
+								</question><question questionID="question004" interest="none" party="government" questionIcon="business_minister">
+									<title>Prime Minister</title>
+									<topic>Ask the PM anything</topic>
+									<notes>MPs fill the House of Commons Chamber to be part of Prime Minister&#39;s Questions&#46; This is when MPs have the chance to ask the Prime Minister about anything the Government is doing&#46;</notes>
+									<questions score_party="2" score_local="0" score_media="2">
+										<text>Can the Prime Minister make a statement about the effectiveness of foreign aid to the developing world&#63;</text>
+										<feedback>A good question for the party&#46; The Prime Minister was able to talk about the Government&#39;s successes&#46;</feedback>
+									</questions>
+									<questions score_party="-3" score_local="0" score_media="2">
+									<text>A high profile robbery has been carried out by a thief released early from jail&#46; Will the Prime Minister admit the Government&#39;s approach to prison sentencing has failed&#63;</text>
+									<feedback>Your question criticised the Prime Minister and the governing party&#39;s policy&#46;</feedback>
+								</questions><questions score_party="-3" score_local="-3" score_media="-3">
+									<text>Does the Prime Minister know what the capital of Indonesia is&#63;</text>
+									<feedback>It&#39;s Jakarta&#46; Your questioning style was treated harshly by the papers&#58; &#39;Clueless MP embarrasses party&#39;&#46;</feedback>
+								</questions><questions score_party="2" score_local="2" score_media="1">
+										<text>One of my constituents recently won a prestigious national art award&#46; Will the Prime Minister commit to maintaining the amount of money given to support young artists&#63;</text>
+										<feedback>A good question for your constituency and for the party&#46;</feedback>
+									</questions><questions score_party="-3" score_local="-3" score_media="2">
+									<text>What plans do the Government have for releasing secret files on alien visits to earth&#63;</text>
+									<feedback>The party and your constituents were a bit embarrassed&#46; But the papers wanted to know why you were asking about aliens&#46;</feedback>
+								</questions><questions score_party="-2" score_local="2" score_media="2">
+									<text>Statistics in my constituency show that having more police patrolling the local area reduces crime&#46; Will the Prime Minister commit to increasing policing budgets across the UK&#63;</text>
+									<feedback>Your constituents would be happy to get more police&#44; but the Prime Minister didn&#39;t like to be surprised with a request for increasing budgets&#33;</feedback>
+								</questions><missed score_party="-2" score_local="-2" score_media="-2">
+										<feedback>PMQs is a great chance to check the work of the Government &#40;and raise your profile&#41;&#46;</feedback>
+									</missed>
+								</question>
+<question questionID="question005" interest="local" party="government" questionIcon="crime_minister">
+									<title>Crime and Justice Minister</title>
+									<topic>UK news headline</topic>
+									<notes>A notorious thief has stolen the Queen&#39;s Crown Jewels after getting early release from an eight year sentence for robbery&#46; &#39;The Magician&#39; &#40;aka Kenny Stidwill&#41; amazed the world with his spectacular raid of the Tower of London&#39;s vaults&#46;</notes>
+									<questions score_party="1" score_local="1" score_media="3">
+										<text>What meetings has the Minister had with police about the Tower of London robbery and what steps are being taken to recover the Crown Jewels&#63;</text>
+										<feedback>It&#39;s a high profile Question Time&#46; Good question&#46;</feedback>
+									</questions>
+									<questions score_party="-3" score_local="-2" score_media="3">
+									<text>Is this incident proof that the Government&#39;s approach to prison sentences has failed&#63;</text>
+									<feedback>A slightly aggressive question toward a Minister in your own party&#46; The press noticed&#33;</feedback>
+								</questions><questions score_party="0" score_local="0" score_media="4">
+									<text>How many thieves sentenced to prison terms served their full sentences&#63;</text>
+									<feedback>The Minister&#39;s answer was taken as proof of both Government failure and success&#44; depending on the newspaper&#46;</feedback>
+								</questions><missed score_party="-2" score_local="-2" score_media="0">
+										<feedback>You missed out&#46; Question Time is a good chance to check what the Government has been doing for your constituents and everyone else in the country&#46;</feedback>
+									</missed>
+								</question><question questionID="question006" interest="global" party="opposition" questionIcon="global_minister">
+									<title>Global Affairs Minister</title>
+									<topic>Your party&#39;s view</topic>
+									<notes>The Opposition party disagrees with the Government when it comes to giving money and aid to developing countries&#46; The Shadow Minister for Global Affairs said&#58; &#39;Of course we want to help developing countries&#44; but aid often has negative effects&#46; We should try to promote more trade instead&#46;&#39;</notes>
+									<questions score_party="-3" score_local="-1" score_media="1">
+										<text>I&#39;d like to congratulate the Minister on the Government&#39;s foreign aid programme&#46; Will the Government continue to maintain aid levels to help the world&#39;s poorest&#63;</text>
+										<feedback>Are you supporting the governing party now&#63;</feedback>
+									</questions>
+									<questions score_party="2" score_local="0" score_media="1">
+									<text>Can the Minister explain why some money given to developing countries is not getting to the people that need it the most&#63;</text>
+									<feedback>The Shadow Minister appreciated your support&#33;</feedback>
+								</questions><questions score_party="-3" score_local="-2" score_media="-3">
+									<text>Will the Minister join me in celebrating World Turtle Day&#63;</text>
+									<feedback>The Minister wasn&#39;t interested in spending much time on your question&#46;</feedback>
+								</questions><questions score_party="-1" score_local="0" score_media="-1">
+									<text>Will the Minister make a statement about the Government&#39;s aid programme in Africa&#63;</text>
+									<feedback>The Minister&#39;s answer listed plenty of Government success stories&#46;</feedback>
+								</questions><questions score_party="-2" score_local="-2" score_media="-2">
+									<text>It is all well and good giving money and resources to help developing countries&#44; but what&#39;s in it for the UK&#63;</text>
+									<feedback>You might have a point&#44; but most didn&#39;t like the tone of your question&#46;</feedback>
+								</questions><missed score_party="-3" score_local="-2" score_media="-2">
+										<feedback>You missed out&#46; Question Time is a good chance to check what the Government has been doing for your constituents and everyone else in the country&#46;</feedback>
+									</missed>
+								</question><question questionID="question007" interest="local" party="opposition" questionIcon="crime_minister">
+									<title>Crime and Justice Minister</title>
+									<topic>UK news headline</topic>
+									<notes>A notorious thief has stolen the Queen&#39;s Crown Jewels after getting early release from an 8 year sentence for robbery&#46; &#39;The Magician&#39; &#40;aka Kenny Stidwill&#41; amazed the world with his spectacular raid of the Tower of London&#39;s vaults&#46;</notes>
+									
+									<questions score_party="1" score_local="1" score_media="3">
+										<text>What meetings has the Minister had with police about the Tower of London robbery and what steps are being taken to recover the Crown Jewels&#63;</text>
+										<feedback>It&#39;s a high profile Question Time&#46; Good question&#46;</feedback>
+									</questions><questions score_party="3" score_local="1" score_media="3">
+									<text>Is this incident proof that the Government&#39;s approach to prison sentences has failed&#63;</text>
+									<feedback>Your question highlighted a potential area where the Government needs to improve&#46;</feedback>
+								</questions><questions score_party="0" score_local="0" score_media="4">
+									<text>How many thieves sentenced to prison terms served their full sentences&#63;</text>
+									<feedback>The Minister&#39;s answer was taken as proof of both Government failure and success&#44; depending on the newspaper&#46;</feedback>
+								</questions><missed score_party="-3" score_local="-2" score_media="0">
+										<feedback>You missed out&#46; Question Time is a good chance to check what the Government has been doing for your constituents and everyone else in the country&#46;</feedback>
+									</missed>
+								</question><question questionID="question008" interest="none" party="opposition" questionIcon="prime_minister">
+									<title>Prime Minister</title>
+									<topic>Ask the PM anything</topic>
+									<notes>MPs fill the House of Commons Chamber to be part of Prime Minister&#39;s Questions&#46; This is when MPs have the chance to ask the Prime Minister about anything the Government is doing&#46;</notes>
+									<questions score_party="-2" score_local="0" score_media="2">
+										<text>Can the Prime Minister make a statement about the effectiveness of foreign aid to the developing world&#63;</text>
+										<feedback>Not a great question for highlighting where the Government&#39;s going wrong&#46; The Prime Minister was able to talk about the Government&#39;s successes&#46;</feedback>
+									</questions>
+									<questions score_party="-3" score_local="0" score_media="2">
+									<text>A high profile robbery has been carried out by a thief released early from jail&#46; Will the Prime Minister admit the Government&#39;s approach to prison sentencing has failed&#63;</text>
+									<feedback>Your party was happy with that question&#46; You highlighted an area where the Government might need to improve&#46;</feedback>
+								</questions><questions score_party="-3" score_local="-3" score_media="-3">
+									<text>Does the Prime Minister know what the capital of Indonesia is&#63;</text>
+									<feedback>It&#39;s Jakarta&#46; Your questioning style was treated harshly by the papers&#58; &#39;Clueless MP embarrasses party&#39;&#46;</feedback>
+								</questions><questions score_party="0" score_local="2" score_media="1">
+										<text>My constituent recently won a prestigious national art award&#46; Will the Prime Minister commit to maintaining the amount of money given to support young artists&#63;</text>
+										<feedback>A good question for your constituency&#46;</feedback>
+									</questions><questions score_party="-3" score_local="-3" score_media="2">
+									<text>What plans does the Government have for releasing secret files on alien visits to earth&#63;</text>
+									<feedback>The party and your constituents were a bit embarrassed&#46; But the papers wanted to know why you were asking about aliens&#46;</feedback>
+								</questions><questions score_party="2" score_local="2" score_media="2">
+									<text>Statistics in my constituency show that having more police patrolling the local area reduces crime&#46; Will the Prime Minister commit to increasing policing budgets across the UK&#63;</text>
+									<feedback>Your constituents would be happy to get more police&#46; And the Prime Minister was put on the spot with your request for increasing budgets&#33; Your party was impressed&#46;</feedback>
+								</questions><missed score_party="-2" score_local="-2" score_media="-2">
+										<feedback>PMQs is a great chance to check the work of the Government &#40;and raise your profile&#41;&#46;</feedback>
+									</missed>
+								</question></mp_question>

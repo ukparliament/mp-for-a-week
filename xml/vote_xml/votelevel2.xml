@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution PIVersion="1.0.0.0" href="https://lbi.lightbox-ed.com/projects/PES-MP_for_a_Week/1478/Shared%20Documents/Infopath%20Forms/PES-MP%20for%20a%20week-Vote.xsn" name="urn:schemas-microsoft-com:office:infopath:PES-MP-for-a-week-Vote:" language="en-gb" solutionVersion="1.0.0.14" productVersion="12.0.0" ?><?mso-application progid="InfoPath.Document"?><mp_vote xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/MP_for_a_week-Vote.xsd">
+<vote voteID="vote001" interest="finance" party="government">
+		<title>Leisure Tax Bill</title>
+		<desc>The Government has admitted the cut would mean less money for projects to help promising artists and musicians&#46;</desc>
+		<notes>Leisure Tax Bill&#58; the Government has suggested cutting a 2&#37; tax on tickets to theme parks&#44; music concerts and sporting events&#46;</notes>
+		<vote_for score_party="2" score_local="0" score_media="0">
+				<feedback>Your party is happy&#46; The Bill has passed through the House of Commons&#46;</feedback>
+		</vote_for>
+		<vote_against score_party="-2" score_local="0" score_media="1">
+			
+			<feedback>Even without your vote the Bill passed&#46; The Prime Minister and the Whip weren&#39;t happy with your little rebellion&#46;</feedback>
+		</vote_against>
+		<missed score_party="-3" score_local="-1" score_media="-1">
+			<feedback>You missed the vote on the Leisure Tax Bill&#46; The Government still won the vote&#44; but the Whip and the Prime Minister were not pleased&#46;</feedback>
+		</missed>
+	</vote><vote voteID="vote002" interest="global" party="government">
+									<title>Green Transport Bill</title>
+									<desc>Several newspapers are against the Government&#39;s plans&#46; You&#39;ve had a mix of reactions from your constituents to the plan&#46;</desc>
+									<notes>Green Transport Bill&#58; the Government has proposed a plan to raise tax on petrol and give people grants to buy electric and non-petrol vehicles&#46;</notes>
+									<vote_for score_party="2" score_local="0" score_media="-2">
+										<feedback>Your party is happy&#46; The Bill has passed through the House of Commons&#46; It was mostly unpopular with the press&#46;</feedback>
+									</vote_for>
+									<vote_against score_party="-2" score_local="0" score_media="2">
+										<feedback>The Bill had enough support to pass even without your vote&#44; but the Prime Minister and the Whip weren&#39;t happy with your little rebellion&#46;</feedback>
+									</vote_against>
+									<missed score_party="-3" score_local="0" score_media="0">
+										<feedback>You missed the vote on the Green Transport Bill&#46; The Government still won the vote but the Whip and the Prime Minister were not pleased&#46;</feedback>
+									</missed>
+								</vote><vote voteID="vote003" interest="local" party="government">
+									<title>Animal Habitat Bill</title>
+									<desc>This Private Members&#39; Bill has a lot of support across all political parties in Parliament&#46;</desc>
+									<notes>Animal Habitat Bill&#58; Roy Barlow MP suggested a law that would protect woodland areas from being built on&#46;</notes>
+									<vote_for score_party="1" score_local="1" score_media="1">
+										<feedback>The Animal Habitat Bill was mostly popular with your constituents and the press too&#46;</feedback>
+									</vote_for>
+									<vote_against score_party="-2" score_local="-2" score_media="-2">
+										<feedback>You voted against the Bill&#63; Your constituents&#44; the press and MPs from all political parties agreed with Roy Barlow&#46;</feedback>
+									</vote_against>
+									<missed score_party="-1" score_local="-1" score_media="-1">
+										<feedback>You missed the vote on this Private Members&#39; Bill&#46; Roy Barlow MP had his Animal Habitat Bill passed&#46; It&#39;s rare a Private Members&#39; Bill gets passed by Parliament&#44; so you missed out&#46;</feedback>
+									</missed>
+								</vote><vote voteID="vote004" interest="local" party="opposition">
+									<title>Animal Habitat Bill</title>
+									<desc>This Private Members&#39; Bill has a lot of support across all political parties in Parliament&#46;</desc>
+									<notes>Animal Habitat Bill&#58; Roy Barlow MP suggested a law that would protect woodland areas from being built on&#46;</notes>
+									<vote_for score_party="1" score_local="1" score_media="1">
+										<feedback>The Animal Habitat Bill was mostly popular with your constituents and the press too&#46;</feedback>
+									</vote_for>
+									<vote_against score_party="-2" score_local="-2" score_media="-2">
+										<feedback>You voted against the Bill&#63; Your constituents&#44; the press and members from all political parties agreed with Roy Barlow MP&#46;</feedback>
+									</vote_against>
+									<missed score_party="-1" score_local="-1" score_media="-1">
+										<feedback>You missed the vote on this Private Members&#39; Bill&#46; Roy Barlow MP had his Animal Habitat Bill passed&#46; It&#39;s rare a Private Members&#39; Bill gets passed by Parliament&#44; so you missed out&#46;</feedback>
+									</missed>
+								</vote><vote voteID="vote005" interest="finance" party="opposition">
+									<title>Leisure Tax Bill</title>
+									<desc>The Government has admitted the cut would mean less money for projects to help promising artists and musicians&#46;</desc>
+									<notes>Leisure Tax Bill&#58; the Government has suggested cutting a 2&#37; tax on tickets to theme parks&#44; music concerts and sporting events&#46;</notes>
+									<vote_for score_party="-2" score_local="0" score_media="0">
+										<feedback>You helped the Government pass the Bill&#46; The Leader of the Opposition was wondering if you know the definition of &#39;three-line whip&#39;&#46; It means you &#42;will&#42; vote with the party&#46;</feedback>
+									</vote_for>
+									<vote_against score_party="1" score_local="0" score_media="0">
+										<feedback>The Bill passed&#44; even with all Opposition MPs voting against it&#46; Your party doesn&#39;t have enough MPs to outnumber all the governing party MPs&#46;</feedback>
+									</vote_against>
+									<missed score_party="-2" score_local="0" score_media="0">
+										<feedback>You missed the vote on the Leisure Tax Bill&#46; The Government still won the vote because governing party MPs outnumber the MPs in your party&#46; The Whip was not very pleased&#46;</feedback>
+									</missed>
+								</vote><vote voteID="vote006" interest="global" party="opposition">
+									<title>Green Transport Bill</title>
+									<desc>Several newspapers are against the Government&#39;s plans&#46; You&#39;ve had a mix of reactions from your constituents to the plan&#46;</desc>
+									<notes>Green Transport Bill&#58; the Government wants to raise tax on petrol and give people money to buy electric and non-petrol cars&#46;</notes>
+									<vote_for score_party="-2" score_local="0" score_media="-2">
+										<feedback>You helped the Government pass the Bill&#46; The Leader of the Opposition was wondering if you know the definition of &#39;three-line whip&#39;&#46; It means you &#42;will&#42; vote with the party&#46;</feedback>
+									</vote_for>
+									<vote_against score_party="1" score_local="0" score_media="1">
+										<feedback>The Bill passed&#44; even with all Opposition MPs voting against it&#46; Your party doesn&#39;t have enough MPs to outnumber all the governing party MPs&#46;</feedback>
+									</vote_against>
+									<missed score_party="-2" score_local="0" score_media="0">
+										<feedback>You missed the vote on the Green Transport Bill&#46; The Government still won the vote because governing party MPs outnumber the MPs in your party&#46; The Whip was not very pleased&#46;</feedback>
+									</missed>
+								</vote></mp_vote>

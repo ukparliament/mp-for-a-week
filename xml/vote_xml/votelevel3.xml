@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution PIVersion="1.0.0.0" href="https://lbi.lightbox-ed.com/projects/PES-MP_for_a_Week/1478/Shared%20Documents/Infopath%20Forms/PES-MP%20for%20a%20week-Vote.xsn" name="urn:schemas-microsoft-com:office:infopath:PES-MP-for-a-week-Vote:" language="en-gb" solutionVersion="1.0.0.14" productVersion="12.0.0" ?><?mso-application progid="InfoPath.Document"?><mp_vote xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/MP_for_a_week-Vote.xsd">
+<vote voteID="vote001" interest="finance" party="government">
+		<title>Video Game Bill</title>
+		<desc>Most opposition party MPs are against it&#46; They think a new law is unnecessary&#46; Warning &#39;violent content&#39; labels are enough&#44; many say&#46;</desc>
+		<notes>Video Game Bill&#58; the Government has proposed a law that would ban shops from selling violent video games to young people&#46;</notes>
+		<vote_for score_party="2" score_local="-1" score_media="0">
+				<feedback>Your party is happy&#46; The Bill has passed through the House of Commons&#46;</feedback>
+		</vote_for>
+		<vote_against score_party="-2" score_local="0" score_media="1">
+			
+			<feedback>The Bill had enough support to pass even without your vote&#46; Even if the press picked up your little rebellion&#44; the Whip wasn&#39;t happy&#46;</feedback>
+		</vote_against>
+		<missed score_party="-3" score_local="-1" score_media="-1">
+			<feedback>You missed the vote on the Video Game Bill&#46; The Government still won the vote&#44; but the Whip and the Prime Minister were not pleased&#46;</feedback>
+		</missed>
+	</vote><vote voteID="vote002" interest="local" party="government">
+									<title>Schools Bill</title>
+									<desc>An Education and Schools Committee Inquiry concluded&#44; &#39;Dance as a form of education has been undervalued&#39;&#46;</desc>
+									<notes>Schools Bill&#58; the Government has proposed a change to the school curriculum that would make Morris Dancing compulsory&#46;</notes>
+									<vote_for score_party="2" score_local="1" score_media="0">
+										<feedback>You stuck with the party line&#46; Your constituency&#39;s Morris Dancing association are pleased young people are being encouraged to learn about the dance&#46;</feedback>
+									</vote_for>
+									<vote_against score_party="-2" score_local="-1" score_media="1">
+										<feedback>So you weren&#39;t too keen on your party&#39;s plans&#44; eh&#63; The Evening Star wrote about your rebellion&#46; Some people in your constituency weren&#39;t too keen on the idea either&#46;</feedback>
+									</vote_against>
+									<missed score_party="-3" score_local="0" score_media="0">
+										<feedback>The School Bill passed through to the next stage&#46; Nevertheless&#44; the Whip wasn&#39;t happy you ditched the vote&#46;</feedback>
+									</missed>
+								</vote><vote voteID="vote003" interest="local" party="government">
+									<title>Voting Age Bill</title>
+									<desc>A National Post poll estimated 45&#37; of current voters in the UK agree with lowering the age to 14&#46;</desc>
+									<notes>Voting Age Bill&#58; the Government has suggested lowering the voting age to 14&#46;</notes>
+									<vote_for score_party="2" score_local="-2" score_media="-2">
+										<feedback>Your party is happy&#44; but lowering the voting age was a controversial decision&#46;</feedback>
+									</vote_for>
+									<vote_against score_party="-2" score_local="2" score_media="2">
+										<feedback>The Bill passed as most governing party MPs voted for it&#46; It&#39;s a controversial law&#46; We&#39;ll have to see how responsible young people can be with their new rights&#46;</feedback>
+									</vote_against>
+									<missed score_party="-3" score_local="-3" score_media="-3">
+										<feedback>You missed the vote on lowering the voting age&#46; The Government still won the vote&#44; but the Whip and the Prime Minister were not pleased&#46; This was a controversial and important vote&#46;</feedback>
+									</missed>
+								</vote><vote voteID="vote004" interest="local" party="opposition">
+									<title>Voting Age Bill</title>
+									<desc>A National Post poll estimated 45&#37; of current voters in the UK agree with lowering the age to 14&#46;</desc>
+									<notes>Voting Age Bill&#58; the Government has suggested lowering the voting age to 14&#46;</notes>
+									<vote_for score_party="-2" score_local="-1" score_media="-2">
+										<feedback>Your party is unhappy that you supported the Government&#46; So are a lot of people out in the press and public&#46; It was a controversial vote&#46;</feedback>
+									</vote_for>
+									<vote_against score_party="2" score_local="1" score_media="1">
+										<feedback>The Bill passed as most governing party MPs voted for it&#46; It&#39;s a controversial law&#46; We&#39;ll have to see how responsible young people can be with their new rights&#46;</feedback>
+									</vote_against>
+									<missed score_party="-3" score_local="-3" score_media="-3">
+										<feedback>You missed the vote on lowering the voting age&#46; The Government still won the vote&#44; but the Whip and the Prime Minister were not pleased&#46; This was a controversial and important vote&#46;</feedback>
+									</missed>
+								</vote><vote voteID="vote005" interest="finance" party="opposition">
+									<title>Video Game Bill</title>
+									<desc>The Government&#39;s Culture Minister was quoted&#58; &#39;Games like Zombie Death Blow have no place in a civilised society&#46;&#39;</desc>
+									<notes>Video Game Bill&#58; the Government has proposed a law that would ban shops from selling violent video games to young people&#46;</notes>
+									<vote_for score_party="-2" score_local="0" score_media="0">
+										<feedback>You helped the Government pass the Bill&#46; The Leader of the Opposition was wondering if you know the definition of &#39;three-line whip&#39;&#46; It means you &#42;will&#42; vote with the party&#46;</feedback>
+									</vote_for>
+									<vote_against score_party="1" score_local="0" score_media="0">
+										<feedback>The Bill passed&#44; even without your support&#46; As the Opposition&#44; your party doesn&#39;t have enough MPs to outnumber all the governing party MPs&#46;</feedback>
+									</vote_against>
+									<missed score_party="-2" score_local="0" score_media="0">
+										<feedback>You missed the vote on the Video Game Bill&#46; The Government still won the vote because governing party MPs outnumber the MPs in your party&#46; Still&#44; the Whip and the Leader of the Opposition were not pleased&#46;</feedback>
+									</missed>
+								</vote><vote voteID="vote006" interest="finance" party="opposition">
+									<title>Schools Bill</title>
+									<desc>There is a lot of support for these changes across all the political parties in the House of Commons&#46;</desc>
+									<notes>Schools Bill&#58; the Government has proposed a change to the school curriculum that would make Morris Dancing compulsory&#46;</notes>
+									<vote_for score_party="1" score_local="1" score_media="2">
+										<feedback>You helped pass the Bill&#46; There was a lot of support across political parties for Morris Dancing&#46;</feedback>
+									</vote_for>
+									<vote_against score_party="-1" score_local="-1" score_media="-1">
+										<feedback>So you weren&#39;t keen on Morris Dancing in schools&#63; The Bill passed though&#44; even without your support&#46; Most of your party supported the Bill&#46;</feedback>
+									</vote_against>
+									<missed score_party="-2" score_local="0" score_media="0">
+										<feedback>You missed the vote on the Schools Bill&#46; The Bill was voted through&#46; Morris Dancing is now compulsory for secondary school students&#46;</feedback>
+									</missed>
+								</vote><vote voteID="vote007" interest="local" party="government">
+									<title>Film Censorship Bill</title>
+									<desc>Films will have &#39;cheesiness&#39; ratings and get low marks if they have predictable endings&#46; This Private Members&#39; Bill has been proposed by backbencher Lauren Bailey MP&#46;</desc>
+									<notes>Film Censorship Bill&#58; this new law would create a ratings system to protect people from bad movies&#46;</notes>
+									<vote_for score_party="-2" score_local="0" score_media="2">
+										<feedback>Despite your support for Ms Bailey&#39;s suggested law&#44; it failed to get passed&#46; Nearly every MP voted against the idea&#46; Most said society has bigger problems to make laws on&#46;</feedback>
+									</vote_for>
+									<vote_against score_party="1" score_local="0" score_media="1">
+										<feedback>Ms Bailey wasn&#39;t happy she didn&#39;t get support from her fellow governing party MPs&#46; But the Prime Minister and others couldn&#39;t agree with the idea&#44; despite usually being on the same side&#46;</feedback>
+									</vote_against>
+									<missed score_party="0" score_local="-1" score_media="0">
+										<feedback>You missed the vote on this Private Members&#39; Bill&#46; Lauren Bailey MP failed to get her Bill passed because she didn&#39;t have enough support from other MPs&#46;</feedback>
+									</missed>
+								</vote><vote voteID="vote008" interest="local" party="opposition">
+									<title>Film Censorship Bill</title>
+									<desc>Films will have &#39;cheesiness&#39; ratings and get low marks if they have predictable endings&#46; This Private Members&#39; Bill has been proposed by backbencher Lauren Bailey MP&#46;</desc>
+									<notes>Film Censorship Bill&#58; this new law would create a ratings system to protect people from bad movies&#46;</notes>
+									<vote_for score_party="-2" score_local="0" score_media="0">
+										<feedback>Despite your support for Ms Bailey&#39;s suggested law&#44; it failed to get passed&#46; Many MPs thought it wasn&#39;t a very serious proposal&#46;</feedback>
+									</vote_for>
+									<vote_against score_party="1" score_local="0" score_media="0">
+										<feedback>You helped defeat the Bill&#46; Ms Bailey wasn&#39;t happy&#44; but the Leader of the Opposition and many in the party couldn&#39;t agree with the idea&#44; despite usually being on the same side&#46;</feedback>
+									</vote_against>
+									<missed score_party="-1" score_local="-1" score_media="-1">
+										<feedback>You missed the vote on this Private Member&#39;s Bill&#46; Lauren Bailey MP failed to get the Bill passed because she didn&#39;t have enough support from other MPs&#46;</feedback>
+									</missed>
+								</vote></mp_vote>

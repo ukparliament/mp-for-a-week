@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<mp_message xmlns:xsi="http://www&#46;w3&#46;org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="&#46;&#46;/&#46;&#46;/&#46;&#46;/xsd/MP_for_a_week-Message&#46;xsd">
+		<message messageID="message001" interest="local" party="neutral" senderPhoto="Group">
+			<subject>Frogs are taking over my garden</subject>
+			<prompt>Frogs&#46; They&#39;re everywhere&#46; I&#39;m sure you&#39;re aware our whole area has been overrun with them for about a week&#46; They&#39;re becoming more aggressive now &#45; my cat Steve has been surrounded in the back yard&#46; He&#39;s very intimidated&#46;</prompt>
+			<sender>Anna Patel&#44; constituent</sender>
+			<response score_party="0" score_local="2" score_media="0">
+				<response_text>I&#39;m getting in touch with my contact at the Wildlife Agency to see if they can speed a plan along&#46;</response_text>
+				<feedback>Your influence with the Wildlife Agency paid off&#46;</feedback>
+			</response>
+			<response score_party="0" score_local="2" score_media="2">
+				<response_text>I&#39;ll be calling the local radio station to give people more information about what to do&#46;</response_text>
+				<feedback>Your constituents in the area were glad to get some guidance about what&#39;s happening&#46;</feedback>
+			</response>
+			<response score_party="0" score_local="0" score_media="0">
+				<response_text>I&#39;m requesting a meeting with the Environment Minister&#46; I&#39;d like to know how local councils can be better equipped for such a problem in future&#46;</response_text>
+				<feedback>A good idea&#44; but you might have to wait&#46; The Minister is very busy at the minute&#46;</feedback>
+			</response>
+			<response score_party="0" score_local="-1" score_media="0">
+				<response_text>Sorry to hear about your frog problem&#46; Hopefully they will hop away shortly&#46; Good luck&#33;</response_text>
+				<feedback>MPs can be a source of advice for their constituents&#44; though Anna didn&#39;t find yours helpful&#46;</feedback>
+			</response>
+		</message>
+		<message messageID="message002" interest="local" party="government" senderPhoto="Group">
+			<subject>Voting age vote</subject>
+			<prompt>I&#39;ve always voted for your party&#46; But I&#39;m not sure I&#39;ll be able to continue if the Government goes ahead with its plans to lower the voting age to 14&#46; I really disagree with this&#46; It&#39;s far too young to vote&#46;</prompt>
+			<sender>Harvinder Green&#44; constituent</sender>
+			<response score_party="2" score_local="-2" score_media="0">
+				<response_text>Even I don&#39;t always agree with everything my party does&#46; I respect your difference of opinion on this issue&#46;</response_text>
+				<feedback>Harvinder was grateful for your response &#45; but still isn&#39;t happy with your party&#46;</feedback>
+			</response>
+			<response score_party="-3" score_local="2" score_media="0">
+				<response_text>I agree with you&#46; I won&#39;t be supporting my party&#39;s plans&#46;</response_text>
+				<feedback>You agreed with Harvinder&#44; but the party&#39;s not going to be happy&#46;</feedback>
+			</response>
+		</message>
+
+		<message messageID="message003" interest="local" party="government" senderPhoto="Group">
+			<subject>Contract dispute</subject>
+			<prompt>Can you settle a disagreement between my neighbour and I&#63; She wanted her fence painted&#46; I did it for her as a surprise&#46; I want her to pay for the paint though&#46; She says she didn&#39;t agree to me painting the fence and that she shouldn&#39;t have to pay anything&#46; I think I should get something &#45; at least for the paint&#46; What do you think&#44; who&#39;s right&#63;</prompt>
+			<sender>Sophie Colorado&#44; constituent</sender>
+			<response score_party="0" score_local="-2" score_media="-2">
+				<response_text>I think you&#39;re right&#46; Your neighbour has a nice new painted fence&#46; She benefited&#44; even if she didn&#39;t ask you to paint it&#46; She should pay something&#46;</response_text>
+				<feedback>Your constituency&#39;s paper got hold of this story&#46; &#39;MP takes sides in paint row&#39; was the headline in The Evening Star&#46;</feedback>
+			</response>
+			<response score_party="0" score_local="-2" score_media="-2">
+				<response_text>Sorry&#46; I don&#39;t agree with you&#46; Your neighbour didn&#39;t ask you to paint it&#46; It was your risk&#46;</response_text>
+				<feedback>Your constituency&#39;s paper got hold of this story&#46; &#39;MP takes sides in paint row&#39; was the headline in The Evening Star&#46;</feedback>
+			</response>
+			<response score_party="0" score_local="0" score_media="0">
+				<response_text>I don&#39;t think it would be wise for me to take sides&#46;</response_text>
+				<feedback>MPs don&#39;t usually take sides in disputes between constituents&#46;</feedback>
+			</response>
+			<response score_party="0" score_local="-3" score_media="0">
+				<response_text>That&#39;s a tough one&#46; How about I send you a list of local lawyers in the constituency&#63;</response_text>
+				<feedback>Sophie wanted your opinion&#44; not a list of lawyers&#46;&#46;&#46;</feedback>
+			</response>
+		</message>
+		<message messageID="message004" interest="local" party="neutral" senderPhoto="Staff member">
+			<subject>Leaky roof at constituency office</subject>
+			<prompt>The constituency office is still in a bad state after the heavy rains this week&#46; Who knew it had such a leaky roof&#63; I sent you through a few alternative places you could meet constituents next week&#46; Have you had a chance to think about it&#63;</prompt>
+			<sender>Victoria O&#39;Neill&#44; office manager</sender>
+			<response score_party="-1" score_local="-4" score_media="0">
+				<response_text>I&#39;m so busy and this leaky roof situation has been a real hassle&#46; I think I&#39;ll just cancel the surgery next week&#46;</response_text>
+				<feedback>Your constituents weren&#39;t happy about that decision&#46;&#46;&#46;</feedback>
+			</response>
+			<response score_party="0" score_local="1" score_media="0">
+				<response_text>Let&#39;s hold the surgery at the local Community Centre&#46; I&#39;m pretty sure the roof doesn&#39;t leak there&#46;</response_text>
+				<feedback>You&#39;ve saved the situation&#46; Looks like you&#39;ll be able to meet with some new constituents as well&#46;</feedback>
+			</response>
+			<response score_party="0" score_local="2" score_media="0">
+				<response_text>If we hold it in St Mary&#39;s Church hall the local councillor might be able to come along&#46;</response_text>
+				<feedback>It&#39;s handy when a local councillor can be at your surgery to give constituents council advice on the spot&#46;</feedback>
+			</response>
+		</message>
+		<message messageID="message007" interest="local" party="government" senderPhoto="Whip">
+			<subject>Friday&#39;s &#39;voting age vote&#39; is a three&#45;line whip</subject>
+			<prompt>A reminder to all governing party backbenchers about Friday evening&#39;s vote&#46; The vote is a three&#45;line whip&#44; so I expect you&#39;ll be there supporting the Government&#39;s plans to lower the voting age to 14 years old&#46; Let me know if you&#39;re having any doubts about which way to vote&#46;</prompt>
+			<sender>Government whip</sender>
+			<response score_party="1" score_local="0" score_media="0">
+				<response_text>No problem&#46; I&#39;m a loyal member of the governing party&#46; We should include the opinions of as many people as possible in our democracy&#46;</response_text>
+				<feedback>The Whip was pleased to know you&#39;ll be supporting the party&#46;</feedback>
+			</response>
+			<response score_party="-1" score_local="0" score_media="0">
+				<response_text>I still need to make up my mind about this&#46; There are lots of convincing arguments on both sides of the debate&#46;</response_text>
+				<feedback>The Whip offered to come around to your office and explain why you should support the Government&#46;</feedback>
+			</response>
+			<response score_party="-2" score_local="0" score_media="0">
+				<response_text>I don&#39;t think I can support the Government on this change&#46; I don&#39;t believe young people are mature enough at 14 or 15 to vote&#46;</response_text>
+				<feedback>So you&#39;re thinking of rebelling&#63; The Whip isn&#39;t pleased and she&#39;s coming to see you to discuss&#46;</feedback>
+			</response>
+		</message>
+		<message messageID="message008" interest="local" party="opposition" senderPhoto="Whip">
+			<subject>Friday&#39;s &#39;voting age vote&#39; is a three&#45;line whip</subject>
+			<prompt>A reminder to all Opposition party backbenchers about Friday evening&#39;s vote&#46; The vote is a three&#45;line whip&#44; so I expect you&#39;ll be there opposing the Government&#39;s plans to lower the voting age to 14 years old&#46; Let me know if you&#39;re having any doubts about which way to vote&#46;</prompt>
+			<sender>Opposition Whip</sender>
+			<response score_party="1" score_local="0" score_media="0">
+				<response_text>No problem&#46; I&#39;ll be there &#45; and I&#39;ll be voting against the Government&#46; I don&#39;t think 14 year olds are mature enough to have this right&#46;</response_text>
+				<feedback>The Whip was pleased to know you&#39;ll be supporting the party&#46;</feedback>
+			</response>
+			<response score_party="-1" score_local="0" score_media="0">
+				<response_text>I still need to make up my mind about this&#46; There are lots of convincing arguments on both sides of the debate&#46;</response_text>
+				<feedback>The Whip offered to come round to your office and explain why you should vote with the party&#46;</feedback>
+			</response>
+			<response score_party="-2" score_local="0" score_media="0">
+				<response_text>I think I&#39;m with the Government on this one &#45; 14 year olds can pay tax&#44; so why shouldn&#39;t they get a say in how that money is spent&#63;</response_text>
+				<feedback>So you&#39;re thinking of rebelling&#63; The Whip is less than pleased&#46; He&#39;s coming round to see you&#46;</feedback>
+			</response>
+		</message>
+		<message messageID="message009" interest="local" party="government" senderPhoto="campaign">
+			<subject>Lower the voting age&#63; No&#44; raise it&#33;</subject>
+			<prompt>As I&#39;m sure you are aware&#44; MPs are voting this Friday on lowering the voting age to 14 years old&#46; This is madness&#33; Young people are so immature&#46; This country would fall apart if they were allowed to vote&#46; I insist you vote against the Government&#39;s plan&#46;</prompt>
+			<sender>Theodore Milton Buckley&#44; Respect Your Elders</sender>
+			<response score_party="2" score_local="0" score_media="0">
+				<response_text>I&#39;m afraid I don&#39;t agree&#46; I&#39;ll be supporting my party&#46; I&#39;ll be voting with the Government to lower the age to 14&#46;</response_text>
+				<feedback>The Party Whip will be glad to know you&#39;re supporting the Government&#46;</feedback>
+			</response>
+			<response score_party="-1" score_local="0" score_media="0">
+				<response_text>I&#39;m not going to commit to voting one way or the other&#46;</response_text>
+				<feedback>The Party Whip isn&#39;t happy&#46; She thinks you should definitely be voting &#39;Aye&#39; to the Government&#39;s plan&#46;</feedback>
+			</response>
+			<response score_party="-3" score_local="0" score_media="0">
+				<response_text>Even though I don&#39;t agree the country would fall apart&#44; I do agree the voting age should not be lowered&#46; I won&#39;t be supporting my party on this issue&#46;</response_text>
+				<feedback>The Party Whip won&#39;t be happy with your plans to vote against the Government&#46;</feedback>
+			</response>
+		</message>
+		<message messageID="message010" interest="local" party="opposition" senderPhoto="campaign">
+			<subject>Lower the voting age&#63; No&#44; raise it&#33;</subject>
+			<prompt>As I&#39;m sure you&#39;re aware MPs are voting this Friday to lower the voting age to 14 years old&#46; This is madness&#33; Young people are so immature&#46; This country would fall apart if they were allowed to vote&#46; We know the Leader of the Opposition is against the idea&#46; We hope you will take the same view and vote against this proposal&#46;</prompt>
+			<sender>Theodore Milton Buckley&#44; Respect Your Elders</sender>
+			<response score_party="-3" score_local="0" score_media="0">
+				<response_text>I&#39;m afraid I don&#39;t agree&#46; I think young people are mature enough&#44; and they deserve the right to vote&#46; I support the Government&#39;s plans to include younger voters&#46;</response_text>
+				<feedback>The Party Whip won&#39;t be happy with your plans to support the Government&#46;</feedback>
+			</response>
+			<response score_party="-1" score_local="0" score_media="0">
+				<response_text>I&#39;m not going to commit to voting one way or the other&#46;</response_text>
+				<feedback>The Party Whip isn&#39;t happy&#46; He thinks you should definitely be voting &#39;No&#39; to the Government&#39;s plan&#46;</feedback>
+			</response>
+			<response score_party="2" score_local="0" score_media="0">
+				<response_text>While I don&#39;t agree the country would fall apart&#44; I will be voting with my party and opposing the Government&#39;s plans&#46;</response_text>
+				<feedback>The Party Whip will be glad to know you&#39;re supporting the Government&#46;</feedback>
+			</response>
+		</message>
+		<message interest="local" party="government" messageID="message011" senderPhoto="Media">
+			<subject>Closing of Quell Electronics</subject>
+			<prompt>What a shame for your constituents&#33; Quell Electronics have announced the closure of 6 UK factories next autumn&#46; They are moving their operations overseas&#46; What is the feeling in your constituency over the loss of jobs and what is your view on the Government&#39;s response&#63;</prompt>
+			<sender>Maggie Brown&#44; The National Post</sender>
+			<response score_party="0" score_local="2" score_media="3">
+				<response_text>The job losses are very upsetting for people&#46; I will be asking the Government to provide assistance to workers&#46;</response_text>
+				<feedback>Constituents are glad you&#39;ll be supporting the workers&#46;</feedback>
+			</response>
+			<response score_party="-3" score_local="-3" score_media="-3">
+				<response_text>I&#39;m going to be honest&#46; There will be many&#44; many job losses&#46; In fact the job losses are so great&#44; I estimate the constituency unemployment rate will rise by 2&#37;&#46;</response_text>
+				<feedback>Your statement was misquoted in the national news&#46; The headline was&#58; &#39;MP says &#34;Job losses are so great&#34;&#39;&#46;</feedback>
+			</response>
+			<response score_party="0" score_local="2" score_media="2">
+				<response_text>Workers at Quell Electronics are understandably upset&#46; I think the Government should step in and try to convince Quell&#39;s owners to keep the factories in the UK&#46;</response_text>
+				<feedback>The Government understood your view under the circumstances&#46;</feedback>
+			</response>
+			<response score_party="-2" score_local="-3" score_media="-2">
+				<response_text>I&#39;ve spoken to several workers and they are worried about the future&#46; However&#44; business is business&#46; What can we do&#63;</response_text>
+				<feedback>Your constituents thought that was your job &#45; to figure out what could be done&#33;</feedback>
+			</response>
+		</message>
+		<message messageID="message013" interest="local" party="neutral" senderPhoto="campaign">
+			<subject>Support education for prisoners&#33;</subject>
+			<prompt>Our organisation campaigns for prisoners&#39; rights&#46; Will you support us in our efforts to lobby the Government for more education programmes for youth offenders&#63; We believe young people who have misbehaved should be given the chance to make amends and improve themselves&#46; We believe people can and do change&#46;</prompt>
+			<sender>Louise Sedge&#44; campaigner</sender>
+			<response score_party="-2" score_local="0" score_media="0">
+				<response_text>I won&#39;t be supporting your campaign&#46; My view is&#58; if you do the crime&#44; you should do the time&#46; No special treatment&#46;</response_text>
+				<feedback>Louise is unhappy you aren&#39;t supporting her campaign&#46; And your view doesn&#39;t match that of your party&#46;</feedback>
+			</response>
+			<response score_party="2" score_local="0" score_media="0">
+				<response_text>I&#39;d be happy to support your campaign&#46; I believe our justice system should aim to help people change &#45; so they&#39;re less likely to reoffend&#46;</response_text>
+				<feedback>You&#39;re in line with your party on this issue&#46;</feedback>
+			</response>
+			<response score_party="0" score_local="0" score_media="0">
+				<response_text>I&#39;d like to believe people change&#44; but it&#39;s also important criminals are punished&#46; I&#39;m interested &#45; but need more persuading&#46;</response_text>
+				<feedback>Louise is going to send you some information from her campaign&#46;</feedback>
+			</response>
+		</message>
+		<message messageID="message014" interest="local" party="government" senderPhoto="Whip">
+			<subject>Voting on changes to the Cereal Bill</subject>
+			<prompt>The Cereal Bill will put legal limits on the amount of salt in porridge and other breakfast cereals&#46; The Opposition has suggested some changes to the Bill&#46; Some are sensible&#44; but we don&#39;t agree with all of them&#46; I need you at the vote next week&#44; and I need you voting with the Government&#46;</prompt>
+			<sender>Government whip</sender>
+			<response score_party="2" score_local="-1" score_media="0">
+				<response_text>I&#39;ve got an important meeting with constituents at the same time&#46; I&#39;ll cancel it though and come to the vote&#46;</response_text>
+				<feedback>Tough choice&#46; You&#39;ve got to keep your constituents happy&#44; but you&#39;ve got to keep the party happy as well&#46;</feedback>
+			</response>
+			<response score_party="-2" score_local="1" score_media="0">
+				<response_text>I know it&#39;s important to the party&#44; but I also have commitments in the constituency that I must attend to&#46;</response_text>
+				<feedback>Your loyalty to your constituency is admirable&#44; but you&#39;ve got responsibilities in Parliament too&#46;</feedback>
+			</response>
+			<response score_party="0" score_local="1" score_media="0">
+				<response_text>I&#39;m stuck&#46; I have an important constituency meeting at the same time&#46; Is there any way I can arrange to miss the vote without hurting the party&#63;</response_text>
+				<feedback>You found an Opposition MP who also needed to miss the vote&#46; You both agreed not to go &#45; so the whips let you off&#46;</feedback>
+			</response>
+		</message>
+		<message messageID="message015" interest="local" party="opposition" senderPhoto="Whip">
+			<subject>Voting on changes to the Cereal Bill</subject>
+			<prompt>The Government&#39;s Cereal Bill will put legal limits on the amount of salt in porridge and other breakfast cereals&#46; The party needs you at the vote next week to argue our case for changes to the Bill&#46; We&#39;ve suggested a couple and want the Government to accept them&#46;</prompt>
+			<sender>Opposition Whip</sender>
+			<response score_party="2" score_local="-1" score_media="0">
+				<response_text>I&#39;ve got an important meeting with constituents at the same time&#46; I&#39;ll cancel it though and come to the vote&#46;</response_text>
+				<feedback>Tough choice&#46; You&#39;ve got to keep your constituents happy&#44; but you&#39;ve got to keep the party happy as well&#46;</feedback>
+			</response>
+			<response score_party="-2" score_local="1" score_media="0">
+				<response_text>I know it&#39;s important to the party&#44; but I also have commitments in the constituency that I must attend to&#46;</response_text>
+				<feedback>Your loyalty to your constituency is admirable&#44; but you&#39;ve got responsibilities in Parliament too&#46;</feedback>
+			</response>
+			<response score_party="0" score_local="1" score_media="0">
+				<response_text>I&#39;m stuck&#46; I have an important constituency meeting at the same time&#46; Is there any way I can arrange to miss the vote without hurting the party&#63;</response_text>
+				<feedback>You found an Opposition MP who also needed to miss the vote&#46; You both agreed not to go &#45; so the whips let you off&#46;</feedback>
+			</response>
+		</message>
+		<message messageID="message016" interest="none" party="government" senderPhoto="Media">
+			<subject>Rebellion rumours</subject>
+			<prompt>I can&#39;t reveal my source&#44; but there&#39;s a rumour going around that you and a few other MPs aren&#39;t happy with your party&#39;s plans to lower the voting age to 14&#46; Are you planning to vote against your party in Friday&#39;s vote&#63;</prompt>
+			<sender>Maggie Brown&#44; The National Post</sender>
+			<response score_party="-2" score_local="0" score_media="2">
+				<response_text>No comment&#46;</response_text>
+				<feedback>By avoiding the question you&#39;ve added fuel to the rumour fire&#46;</feedback>
+			</response>
+			<response score_party="-3" score_local="0" score_media="2">
+				<response_text>I&#39;m not sure how the rumour started&#46; I can only speak for myself &#45; I won&#39;t be supporting the governing party and lowering the voting age to 14&#46;</response_text>
+				<feedback>You&#39;re not voting with the party&#63; The Prime Minister&#39;s office is calling&#46;</feedback>
+			</response>
+			<response score_party="2" score_local="0" score_media="2">
+				<response_text>I don&#39;t know where these rumours have come from &#45; I&#39;m a loyal member of the Government and will be supporting the Prime Minister&#46;</response_text>
+				<feedback>The Prime Minister appreciated you clearing that up&#46;</feedback>
+			</response>
+			<response score_party="-1" score_local="0" score_media="2">
+				<response_text>I don&#39;t know about anyone else&#44; but I&#39;ll be making up my own mind about Friday&#39;s vote&#46;</response_text>
+				<feedback>You didn&#39;t say you would vote against the Government&#44; but you didn&#39;t say you would vote with it either&#46;</feedback>
+			</response>
+			<response score_party="-5" score_local="0" score_media="3">
+				<response_text>The rumours are true&#46; I think the Government has lost the plot&#46;</response_text>
+				<feedback>Woah&#33; It&#39;ll be hard to get back into favour with the party after such harsh words&#46;</feedback>
+			</response>
+		</message>
+		<message messageID="message017" interest="finance" party="government" senderPhoto="Media">
+			<subject>Your view on the Minister&#39;s statement</subject>
+			<prompt>An Evening Star poll suggests over 30&#37; of local residents think too much foreign aid is given to other countries&#46; Today the Global Affairs Minister said&#58; &#39;Helping poor countries helps us as well&#46;&#39; His department thinks giving money and resources to the world&#39;s poorest is good for the UK&#46; What&#39;s your view on the Minister&#39;s statement&#63;</prompt>
+			<sender>Lewis Franklin&#44; The Evening Star</sender>
+			<response score_party="2" score_local="0" score_media="2">
+				<response_text>I fully support the Minister&#39;s statement&#46; Millions of people are alive today because of foreign aid&#46;</response_text>
+				<feedback>&#39;MP backs Minister on foreign aid&#39; was The Evening Star headline&#46; Did voters agree&#63; You&#39;ll find out at election time&#46;</feedback>
+			</response>
+			<response score_party="-2" score_local="0" score_media="2">
+				<response_text>Of course we want to help the world&#39;s poor&#46; But sometimes our aid doesn&#39;t get to those who need it&#46; We should try something else&#46;</response_text>
+				<feedback>&#39;MP rebels on global aid&#39; was The Evening Star headline&#46; Did voters agree&#63; You&#39;ll find out at election time&#46;</feedback>
+			</response>
+			<response score_party="0" score_local="-2" score_media="-2">
+				<response_text>I wouldn&#39;t like to say&#46;</response_text>
+				<feedback>Lewis Franklin was annoyed you didn&#39;t answer the question&#46; So were your constituents that read the paper&#46;</feedback>
+			</response>
+		</message>
+		<message interest="local" party="government" messageID="message018" senderPhoto="Business">
+			<subject>Help us make a Parliament video game</subject>
+			<prompt>Our games company is based in your constituency and we&#39;d like to make an educational online game for young students about the Houses of Parliament&#46; A few other MPs and Lords have agreed to help&#44; including the Business Minister&#46; He suggested we contact you to see if you&#39;d be willing too&#63; Maybe we could film you answering a few questions&#63;</prompt>
+			<sender>Benny O&#39;Leary</sender>
+			<response score_party="-2" score_local="-2" score_media="0">
+				<response_text>That sounds like a boring idea for a game&#46; I&#39;m not getting involved&#46;</response_text>
+				<feedback>Not interested in helping your local business&#63;</feedback>
+			</response>
+			<response score_party="-1" score_local="-2" score_media="0">
+				<response_text>A game&#63; Educational&#63; I don&#39;t think games can teach you anything&#46;</response_text>
+				<feedback>Benny said some experts say games are a great way of learning&#46;</feedback>
+			</response>
+			<response score_party="-1" score_local="-1" score_media="0">
+				<response_text>Does it have to be for computers&#63; I prefer board games&#46;</response_text>
+				<feedback>You and Benny agreed to disagree&#46; He doesn&#39;t like board games&#46;</feedback>
+			</response>
+			<response score_party="1" score_local="1" score_media="0">
+				<response_text>Interesting&#46; I&#39;m busy&#44; but I&#39;ll try to juggle my schedule and fit you in&#46;</response_text>
+				<feedback>You were able to find some time&#46; Benny and the Business Minister were glad to get your help&#46;</feedback>
+			</response>
+			<response score_party="0" score_local="-1" score_media="0">
+				<response_text>I&#39;d love to&#44; but I have a lot of important constituency business to attend to&#46; I don&#39;t want to risk it&#46;</response_text>
+				<feedback>Benny was disappointed&#46; The Business Minister understood you&#39;ve got a lot on&#46;</feedback>
+			</response>
+		</message>
+		<message interest="local" party="opposition" messageID="message019" senderPhoto="Business">
+			<subject>Help us make a Parliament video game</subject>
+			<prompt>Our games company is based in your constituency and we&#39;d like to make an educational online game for young students about the Houses of Parliament&#46; A few other MPs and Lords have agreed to help&#44; including the Shadow Business Minister&#46; He suggested we contact you to see if you&#39;d be willing to help&#63; Maybe we could film you answering a few questions&#63;</prompt>
+			<sender>Benny O&#39;Leary</sender>
+			<response score_party="-2" score_local="-2" score_media="0">
+				<response_text>That sounds like a boring idea for a game&#46; I&#39;m not getting involved&#46;</response_text>
+				<feedback>Not interested in helping your local business&#63;</feedback>
+			</response>
+			<response score_party="-1" score_local="-2" score_media="0">
+				<response_text>A game&#63; Educational&#63; I don&#39;t think games can teach you anything&#46;</response_text>
+				<feedback>Benny said some experts say games are a great way of learning&#46;</feedback>
+			</response>
+			<response score_party="-1" score_local="-1" score_media="0">
+				<response_text>Does it have to be for computers&#63; I prefer board games&#46;</response_text>
+				<feedback>You and Benny agreed to disagree&#46; He doesn&#39;t like board games&#46;</feedback>
+			</response>
+			<response score_party="1" score_local="1" score_media="0">
+				<response_text>Interesting&#46; I&#39;m busy&#44; but I&#39;ll try to juggle my schedule and fit you in&#46;</response_text>
+				<feedback>You were able to find some time&#46; Benny and the Shadow Business Minister were glad to get your help&#46;</feedback>
+			</response>
+			<response score_party="0" score_local="-1" score_media="0">
+				<response_text>I&#39;d love to&#44; but I have a lot of important constituency business to attend to&#46; I don&#39;t want to risk it&#46;</response_text>
+				<feedback>Benny was disappointed&#46; The Shadow Business Minister understood you&#39;ve got a lot on&#46;</feedback>
+			</response>
+		</message>
+		<message messageID="message020" interest="global" party="government" senderPhoto="Media">
+			<subject>Fear of global Penguin Flu outbreak&#63;</subject>
+			<prompt>What do you think of the Government&#39;s response to cases of Penguin Flu appearing in the UK this week&#63; Today the Prime Minister announced the purchase of enough vaccines for every person in the country&#46; At the moment 100 people in the UK are ill&#44; including eight in your constituency&#39;s local hospital&#46;</prompt>
+			<sender>Lewis Franklin&#44; The Evening Star</sender>
+			<response score_party="-2" score_local="-2" score_media="-2">
+				<response_text>I don&#39;t have a view on what the Government does &#45; I&#39;m a backbench member of the governing party&#46; That means I don&#39;t have an official position in the Government&#46;</response_text>
+				<feedback>You might not be a member of the Government&#44; but everyone agrees it&#39;s your job to stay up to date with what the Government&#39;s doing&#46;</feedback>
+			</response>
+			<response score_party="0" score_local="0" score_media="-2">
+				<response_text>I&#39;ve not really been feeling that well &#45; can I get back to you&#63;</response_text>
+				<feedback>Are you craving sardines&#63; Go straight to the doctor if so&#46;</feedback>
+			</response>
+			<response score_party="-2" score_local="-2" score_media="2">
+				<response_text>The Government is overreacting&#46; We don&#39;t need vaccines for everyone &#45; it&#39;s a waste of money&#46;</response_text>
+				<feedback>The media&#44; your party and your constituents all disagreed&#46;</feedback>
+			</response>
+			<response score_party="1" score_local="2" score_media="2">
+				<response_text>I support the Government&#39;s actions so far&#44; and I think it should also be doing everything possible to stop further cases entering the country&#46;</response_text>
+				<feedback>Your constituents are very concerned&#46; The Government appreciated your views on the response&#46;</feedback>
+			</response>
+			<response score_party="1" score_local="-1" score_media="-1">
+				<response_text>I think the Prime Minister is doing a great job&#46; I&#39;m a loyal party member&#46;</response_text>
+				<feedback>The party was happy&#44; but your constituents and the press would have liked your own view on the crisis&#46;</feedback>
+			</response>
+		</message>
+		<message messageID="message021" interest="finance" party="government" senderPhoto="Group">
+			<subject>My neighbourhood is out of control&#33;</subject>
+			<prompt>My neighbourhood feels like it&#39;s going downhill&#46; There are broken street lights and graffiti on many of the businesses&#46; My car was scratched last night and my garbage bin was dumped out all over my front garden&#46; This used to be such a nice neighbourhood&#46; I&#39;ve complained to the local council and police several times&#46;</prompt>
+			<sender>Daniel Cooper&#44; constituent</sender>
+			<response score_party="0" score_local="-1" score_media="0">
+				<response_text>Let me call the local council and police about your area to see if I can make a difference&#46;</response_text>
+				<feedback>You got the run around from the council&#46; They say they don&#39;t have the money to deal with the problem&#46;</feedback>
+			</response>
+			<response score_party="0" score_local="-1" score_media="1">
+				<response_text>Sounds like this problem needs a higher profile&#46; I&#39;ll write an article for the local newspaper to put pressure on the council&#46;</response_text>
+				<feedback>The Evening Star ran your article &#45; you had little success pressuring the council or the police&#46;</feedback>
+			</response>
+			<response score_party="1" score_local="1" score_media="0">
+				<response_text>Anti&#45;social behaviour is an important issue&#46; I&#39;ll lobby the Crime and Justice Minister about what the Government&#39;s doing in this area&#46;</response_text>
+				<feedback>Your message resulted in a good meeting with the Minister&#46;</feedback>
+			</response>
+			<response score_party="1" score_local="-1" score_media="0">
+				<response_text>I&#39;ll submit an Early Day Motion about anti&#45;social behaviour&#46; An Early Day Motion is like a special petition that only MPs can sign&#46; With any luck that will raise the profile of the problem in Parliament&#46;</response_text>
+				<feedback>You allied with a number of other MPs in your party concerned about this issue &#45; but your constituent was hoping something would be done right away&#46;</feedback>
+			</response>
+		</message>
+		<message messageID="message022" interest="finance" party="neutral" senderPhoto="Business">
+			<subject>High street emergency&#33;</subject>
+			<prompt>A recent downturn has meant some of the businesses on our high street are in danger of closing&#46; Is there anything the Government can do to help us through this tough time&#63;</prompt>
+			<sender>Emma Rossi&#44; Local Business Association</sender>
+			<response score_party="0" score_local="-2" score_media="0">
+				<response_text>I&#39;ll try to ask a question at Prime Minister&#39;s Questions next week&#46;</response_text>
+				<feedback>Unfortunately&#44; you weren&#39;t able to get on the list to ask the Prime Minister a question&#46;</feedback>
+			</response>
+			<response score_party="0" score_local="-1" score_media="0">
+				<response_text>Let me request an urgent meeting with the Business Minister&#46;</response_text>
+				<feedback>The Business Minister is out of town at the minute&#46;</feedback>
+			</response>
+			<response score_party="0" score_local="2" score_media="0">
+				<response_text>Did you know about the Government&#39;s business relief programme&#63; Let me send you the details&#46;</response_text>
+				<feedback>Good work&#33; You may have saved Ozan&#39;s Curtainworld from closing down&#46;</feedback>
+			</response>
+			<response score_party="0" score_local="-3" score_media="0">
+				<response_text>Unfortunately that&#39;s the way business goes sometimes&#46; The Government can&#39;t help every business that starts to struggle&#46;</response_text>
+				<feedback>You decided not to support local business&#46;</feedback>
+			</response>
+		</message>
+		<message interest="local" party="opposition" messageID="message023" senderPhoto="Media">
+			<subject>Closing of Quell Electronics</subject>
+			<prompt>What a shame for your constituents&#33; Quell Electronics have announced the closure of six UK factories next autumn&#46; They are moving their operations overseas&#46; What is the feeling in your constituency over the loss of jobs and what is your view on the Government&#39;s response&#63;</prompt>
+			<sender>Maggie Brown&#44; The National Post</sender>
+			<response score_party="0" score_local="2" score_media="3">
+				<response_text>The job losses are very upsetting for people&#46; I will be asking the Government to provide assistance to workers&#46;</response_text>
+				<feedback>Constituents are glad you&#39;ll be supporting the workers&#46;</feedback>
+			</response>
+			<response score_party="-3" score_local="-3" score_media="-3">
+				<response_text>I&#39;m going to be honest&#46; There will be many&#44; many job losses&#46; In fact the job losses are so great&#44; I estimate the constituency unemployment rate will rise by 2&#37;&#46;</response_text>
+				<feedback>You statement was misquoted in the national news&#46; The headline was&#58; &#39;MP says &#34;Job losses are great&#34;&#39;&#46;</feedback>
+			</response>
+			<response score_party="2" score_local="2" score_media="2">
+				<response_text>Workers at Quell Electronics are understandably upset&#46; I think the Government should step in and try to convince Quell&#39;s owners to keep its factories in the UK&#46;</response_text>
+				<feedback>Your party was glad to see you pressing the Government for action&#46;</feedback>
+			</response>
+			<response score_party="-2" score_local="-3" score_media="-2">
+				<response_text>I&#39;ve spoken to several workers and they are worried about the future&#46; However&#44; business is business&#46; What can we do&#63;</response_text>
+				<feedback>Your constituents thought that was your job &#45; to figure out what could be done&#33;</feedback>
+			</response>
+		</message>
+	</mp_message>
