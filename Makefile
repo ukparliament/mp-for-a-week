@@ -21,3 +21,4 @@ deploy_to_release:
 		--exclude "README.md" \
 		--exclude "build.json" \
 		--acl=public-read --delete . s3://$(AWS_ACCOUNT).mp-for-a-week
+
